@@ -1,0 +1,9 @@
+House of Representatives
+Periodic Transaction Report for 02/15/2024
+Filer: PELOSIS, NANCY (CA, District 11)
+Filing Date: 03/01/2024
+
+Owner | Asset | Type | Transaction Date | Amount
+      | Microsoft Corp (MSFT) | P | 02/15/2024 | $1,001 - $15,000
+Spouse | Apple Inc (AAPL) | S | 02/14/2024 | $15,001 - $50,000
+      | Vanguard S&P 500 ETF (VOO) | P | 02/10/2024 | $50,001 - $100,000

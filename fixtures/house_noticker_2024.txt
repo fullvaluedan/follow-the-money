@@ -1,0 +1,8 @@
+House of Representatives
+Periodic Transaction Report for 04/01/2024
+Filer: KHANNARO (CA, District 16)
+Filing Date: 04/20/2024
+
+Owner | Asset | Type | Transaction Date | Amount
+      | NextEra Energy Inc | P | 04/01/2024 | $1,001 - $15,000
+      | NextEra Energy Inc | S | 04/01/2024 | $15,001 - $50,000

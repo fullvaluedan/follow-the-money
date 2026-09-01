@@ -1,0 +1,94 @@
+{
+  "filings": [
+    {
+      "file": "house_multitrade_2024.txt",
+      "chamber": "house",
+      "source": "house_clerk_yearly",
+      "external_doc_id": "FTM-FIX-20012345",
+      "filed_at": "2024-03-01",
+      "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FIX20012345",
+      "raw_kind": "pdf",
+      "filer": {
+        "printed_name": "PELOSIS, NANCY",
+        "bioguide_id": "P000197",
+        "state": "CA",
+        "district": 11
+      }
+    },
+    {
+      "file": "senate_efd_2024.txt",
+      "chamber": "senate",
+      "source": "senate_efd",
+      "external_doc_id": "FTM-FIX-30012345",
+      "filed_at": "2024-02-20",
+      "source_url": "https://efdsearch.senate.gov/search/view/ptr/FIX30012345",
+      "raw_kind": "pdf",
+      "filer": {
+        "printed_name": "TESTER, JON",
+        "bioguide_id": "T000250",
+        "state": "MT",
+        "district": null
+      }
+    },
+    {
+      "file": "house_openended_2025.txt",
+      "chamber": "house",
+      "source": "house_clerk_yearly",
+      "external_doc_id": "FTM-FIX-20054321",
+      "filed_at": "2025-04-02",
+      "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FIX20054321",
+      "raw_kind": "pdf",
+      "filer": {
+        "printed_name": "MCCAULMICHAEL",
+        "bioguide_id": "M001165",
+        "state": "TX",
+        "district": 10
+      }
+    },
+    {
+      "file": "house_late_filing_2024.txt",
+      "chamber": "house",
+      "source": "house_clerk_yearly",
+      "external_doc_id": "FTM-FIX-20077777",
+      "filed_at": "2024-05-20",
+      "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FIX20077777",
+      "raw_kind": "pdf",
+      "filer": {
+        "printed_name": "CRENSHAWDAN",
+        "bioguide_id": "C001120",
+        "state": "TX",
+        "district": 2
+      }
+    },
+    {
+      "file": "senate_unlisted_2024.txt",
+      "chamber": "senate",
+      "source": "senate_efd",
+      "external_doc_id": "FTM-FIX-30088888",
+      "filed_at": "2024-03-15",
+      "source_url": "https://efdsearch.senate.gov/search/view/ptr/FIX30088888",
+      "raw_kind": "pdf",
+      "filer": {
+        "printed_name": "WARREN, ELIZABETH",
+        "bioguide_id": "W000817",
+        "state": "MA",
+        "district": null
+      }
+    },
+    {
+      "file": "house_noticker_2024.txt",
+      "chamber": "house",
+      "source": "house_clerk_yearly",
+      "external_doc_id": "FTM-FIX-20099999",
+      "filed_at": "2024-04-20",
+      "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FIX20099999",
+      "raw_kind": "pdf",
+      "filer": {
+        "printed_name": "KHANNARO",
+        "bioguide_id": "K000389",
+        "state": "CA",
+        "district": 16
+      }
+    }
+  ]
+}

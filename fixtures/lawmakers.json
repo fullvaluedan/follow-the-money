@@ -1,0 +1,52 @@
+{
+  "lawmakers": [
+    {
+      "bioguide_id": "P000197",
+      "name": "Nancy Pelosi",
+      "chamber": "house",
+      "party": "democrat",
+      "state": "CA",
+      "district": 11
+    },
+    {
+      "bioguide_id": "T000250",
+      "name": "Jon Tester",
+      "chamber": "senate",
+      "party": "democrat",
+      "state": "MT",
+      "district": null
+    },
+    {
+      "bioguide_id": "M001165",
+      "name": "Michael McCaul",
+      "chamber": "house",
+      "party": "republican",
+      "state": "TX",
+      "district": 10
+    },
+    {
+      "bioguide_id": "C001120",
+      "name": "Dan Crenshaw",
+      "chamber": "house",
+      "party": "republican",
+      "state": "TX",
+      "district": 2
+    },
+    {
+      "bioguide_id": "K000389",
+      "name": "Ro Khanna",
+      "chamber": "house",
+      "party": "democrat",
+      "state": "CA",
+      "district": 16
+    },
+    {
+      "bioguide_id": "W000817",
+      "name": "Elizabeth Warren",
+      "chamber": "senate",
+      "party": "democrat",
+      "state": "MA",
+      "district": null
+    }
+  ]
+}

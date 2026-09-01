@@ -1,0 +1,7 @@
+House of Representatives
+Periodic Transaction Report for 01/02/2024
+Filer: CRENSHAWDAN (TX, District 2)
+Filing Date: 05/20/2024
+
+Owner | Asset | Type | Transaction Date | Amount
+      | NVIDIA Corp (NVDA) | S | 01/02/2024 | $15,001 - $50,000
