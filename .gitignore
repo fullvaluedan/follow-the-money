@@ -7,3 +7,4 @@ coverage/
 *.tsbuildinfo
 __pycache__/
 .venv/
+.localdb/

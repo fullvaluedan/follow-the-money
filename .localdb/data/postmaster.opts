@@ -1,1 +1,0 @@
-D:/Claude/follow-the-money/node_modules/@embedded-postgres/windows-x64/native/bin/postgres.exe "-D" "D:/Claude/follow-the-money/.localdb/data" "-p" "5433"
