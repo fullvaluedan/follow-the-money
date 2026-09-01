@@ -1,0 +1,37 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Domain tests
+        run: npm test
+      - name: Connector tests
+        run: npm run test --workspace @ftm/connectors
+      - name: Typecheck worker
+        run: npm run build --workspace @ftm/worker
+      - name: Build web
+        run: npm run build --workspace @ftm/web
+        env:
+          DATABASE_URL: postgres://ci:ci@localhost:5432/ci
+
+  extractor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r apps/extractor/requirements.txt
+      - run: python -m pytest apps/extractor/tests/ -q

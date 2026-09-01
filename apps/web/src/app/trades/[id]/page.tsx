@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import { getDb } from '@/lib/db';
 import { trades, lawmakers, assets, filings } from '@ftm/db';
 import { eq } from 'drizzle-orm';
+import { monteCarloRange } from '@ftm/domain';
 
 export const dynamic = 'force-dynamic';
 
@@ -78,6 +79,34 @@ export default async function TradeDetailPage({ params }: { params: Promise<{ id
           </pre>
         </div>
       )}
+
+      {(() => {
+        const mc = monteCarloRange(
+          t.range_min !== null ? Number(t.range_min) : null,
+          t.range_max !== null ? Number(t.range_max) : null,
+        );
+        if (!mc) return null;
+        const fmt = (n: number) => `$${Math.round(n).toLocaleString()}`;
+        return (
+          <div className="mt-6 rounded-lg border border-neutral-200 p-4">
+            <h2 className="mb-1 text-sm font-semibold uppercase tracking-wide text-neutral-500">
+              Implied size (log-uniform model, 10k draws)
+            </h2>
+            <p className="text-sm">
+              <span className="font-semibold">{fmt(mc.p05)}</span>
+              {' — '}
+              <span className="font-semibold">{fmt(mc.p50)}</span>
+              {' — '}
+              <span className="font-semibold">{fmt(mc.p95)}</span>
+              <span className="ml-2 text-xs text-neutral-500">p05 / p50 / p95</span>
+            </p>
+            <p className="mt-1 text-xs text-neutral-500">
+              Statistical model of the disclosed range only — not a known portfolio size.
+              {mc.open_ended_range && ` Open-ended bracket capped at ${fmt(mc.cap_applied!)}.`}
+            </p>
+          </div>
+        );
+      })()}
 
       <div className="mt-6">
         <a
