@@ -20,7 +20,8 @@ function parseRow(line: string): ParsedTradeRow | null {
   if (!/^[PSE]$/i.test(typeCell)) return null;
   const txDate = parseUsDate(dateRaw);
   if (!txDate) return null;
-  if (!rangeRaw.startsWith('$')) return null;
+  // Amount cell is either "$X - $Y" or "Over $X" (open-ended bucket).
+  if (!rangeRaw.includes('$')) return null;
   return {
     owner_raw: ownerCell === '' ? 'Self' : ownerCell,
     asset_name: asset,
