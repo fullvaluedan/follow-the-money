@@ -3,4 +3,7 @@ export * from './brackets';
 export * from './lateness';
 export * from './fingerprint';
 export * from './schema';
-export * from './publish';
+export * from './publish.js';
+export * from './monte-carlo.js';
+export * from './returns.js';
+export * from './overlap.js';
