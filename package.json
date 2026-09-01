@@ -1,0 +1,23 @@
+{
+  "name": "follow-the-money",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Educational aggregation of U.S. congressional STOCK Act Periodic Transaction Reports. Not a broker; not financial advice.",
+  "license": "MIT",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "npm run build --workspace @ftm/domain && npm run build --workspace @ftm/connectors",
+    "test": "npm run test --workspace @ftm/domain",
+    "ingest": "npm run ingest --workspace @ftm/worker",
+    "db:generate": "npm run db:generate --workspace @ftm/db",
+    "dev": "npm run dev --workspace @ftm/web"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0",
+    "vitest": "^2.1.0",
+    "@types/node": "^22.0.0"
+  }
+}
