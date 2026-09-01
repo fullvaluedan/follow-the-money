@@ -1,9 +1,9 @@
-import type { Bracket } from './brackets.js';
+import type { Bracket } from './brackets';
 
-import { bracketFromLabel } from './brackets.js';
+import { bracketFromLabel } from './brackets';
 
-export { bracketFromLabel, bracketMidpoint, normalizeRangeLabel } from './brackets.js';
-export type { Bracket } from './brackets.js';
+export { bracketFromLabel, bracketMidpoint, normalizeRangeLabel } from './brackets';
+export type { Bracket } from './brackets';
 
 /** STOCK Act 45-day statutory disclosure window. Versioned so future rule changes are traceable. */
 export const RULE_STOCK_ACT_45D = 'stock-act-45d-v1';

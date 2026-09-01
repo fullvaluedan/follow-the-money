@@ -1,11 +1,11 @@
-import type { FilingMeta, FilingsDocument, ParsedTradeRow } from './types.js';
+import type { FilingMeta, FilingsDocument, ParsedTradeRow } from './types';
 import {
   mapSenateTypeWord,
   mapOwner,
   parseUsDate,
   extractTickerFromName,
-} from './parse-helpers.js';
-import { filingsDocumentSchema } from './types.js';
+} from './parse-helpers';
+import { filingsDocumentSchema } from './types';
 
 /**
  * Senate eFD PTR adapter.

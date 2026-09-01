@@ -1,6 +1,6 @@
-import type { FilingMeta, FilingsDocument, ParsedTradeRow } from './types.js';
-import { mapHouseTypeCode, mapOwner, parseUsDate, extractTickerFromName } from './parse-helpers.js';
-import { filingsDocumentSchema } from './types.js';
+import type { FilingMeta, FilingsDocument, ParsedTradeRow } from './types';
+import { mapHouseTypeCode, mapOwner, parseUsDate, extractTickerFromName } from './parse-helpers';
+import { filingsDocumentSchema } from './types';
 
 /**
  * House Clerk PTR adapter.

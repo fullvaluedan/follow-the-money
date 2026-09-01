@@ -1,4 +1,4 @@
-import type { ParsedTradeRow } from './types.js';
+import type { ParsedTradeRow } from './types';
 
 /**
  * Shared row-table parsing helpers. House PTR tables and Senate eFD exports

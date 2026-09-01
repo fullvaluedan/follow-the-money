@@ -1,6 +1,6 @@
-import type { TradeStatus } from './types.js';
-import { AUTO_PUBLISH_CONFIDENCE } from './schema.js';
-import type { ExtractedTrade } from './schema.js';
+import type { TradeStatus } from './types';
+import { AUTO_PUBLISH_CONFIDENCE } from './schema';
+import type { ExtractedTrade } from './schema';
 
 export interface PublishableTrade {
   status: TradeStatus;

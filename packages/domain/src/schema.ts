@@ -1,5 +1,5 @@
 import { z } from 'zod';
-import { bracketFromLabel } from './brackets.js';
+import { bracketFromLabel } from './brackets';
 
 /**
  * Extractor JSON contract (mirrors apps/extractor pydantic models).
