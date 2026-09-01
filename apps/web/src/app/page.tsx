@@ -1,4 +1,4 @@
-import FeedFilters from '@/components/FeedFilters';
+import FeedList from '@/components/FeedFilters';
 import type { FeedRow } from '@/components/FeedFilters';
 import { getDb } from '@/lib/db';
 import { trades, lawmakers, assets, filings } from '@ftm/db';
@@ -49,18 +49,22 @@ export default async function FeedPage() {
   return (
     <div>
       <div className="mb-4 flex items-baseline justify-between">
-        <h1 className="text-2xl font-bold">Live Feed — Published Trades</h1>
-        <a href="/api/trades" className="text-xs text-blue-600 hover:underline">
-          JSON API ↗
+        <div>
+          <h1 className="text-2xl font-bold">Live Feed</h1>
+          <p className="text-sm text-neutral-500">
+            Congressional trades from public STOCK Act disclosures
+          </p>
+        </div>
+        <a href="/api/trades" className="text-xs text-neutral-400 hover:text-neutral-600">
+          API ↗
         </a>
       </div>
       {rows.length === 0 ? (
-        <div className="rounded-lg border border-neutral-200 bg-neutral-50 p-6 text-neutral-600">
-          No published trades yet. Run <code>npm run ingest</code> to load fixture filings, then
-          approve pending rows in Admin Review.
+        <div className="rounded-2xl border border-neutral-100 bg-neutral-50 p-8 text-center text-sm text-neutral-500">
+          No published trades yet. Run <code className="mx-1">npm run ingest</code> to load fixtures.
         </div>
       ) : (
-        <FeedFilters rows={rows} />
+        <FeedList rows={rows} />
       )}
     </div>
   );

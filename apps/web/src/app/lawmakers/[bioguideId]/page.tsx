@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { getDb } from '@/lib/db';
-import { trades, lawmakers, assets, filings } from '@ftm/db';
+import { trades, lawmakers, assets } from '@ftm/db';
 import { and, desc, eq } from 'drizzle-orm';
 
 export const dynamic = 'force-dynamic';
@@ -13,9 +13,7 @@ export default async function LawmakerPage({
 }) {
   const { bioguideId } = await params;
   const handle = getDb();
-  if (!handle) {
-    return <DbNotice />;
-  }
+  if (!handle) return <CenterNotice text="Database not connected." />;
 
   const [lm] = await handle.db
     .select()
@@ -28,7 +26,6 @@ export default async function LawmakerPage({
     .select({
       id: trades.id,
       tx_date: trades.tx_date,
-      filing_date: trades.filing_date,
       days_to_file: trades.days_to_file,
       is_late: trades.is_late,
       trade_type: trades.trade_type,
@@ -36,94 +33,111 @@ export default async function LawmakerPage({
       owner_type: trades.owner_type,
       ticker: assets.ticker,
       asset_name: assets.name,
-      source_url: filings.source_url,
     })
     .from(trades)
     .innerJoin(assets, eq(trades.asset_id, assets.id))
-    .innerJoin(filings, eq(trades.filing_id, filings.id))
     .where(and(eq(trades.lawmaker_id, lm.id), eq(trades.status, 'published')))
     .orderBy(desc(trades.tx_date));
 
   const n = rows.length;
   const avgDelay = n > 0 ? rows.reduce((s, r) => s + r.days_to_file, 0) / n : 0;
   const lateCount = rows.filter((r) => r.is_late).length;
+  const buys = rows.filter((r) => r.trade_type === 'purchase').length;
+  const sells = rows.filter((r) => r.trade_type === 'sale').length;
 
   return (
-    <div>
-      <div className="mb-6 flex items-baseline gap-4">
-        <h1 className="text-2xl font-bold">{lm.name}</h1>
-        <span className="text-sm text-neutral-500">
-          {lm.chamber === 'senate' ? 'Senate' : `House · District ${lm.district ?? '—'}`} ·{' '}
-          {lm.party} · {lm.state}
-        </span>
+    <div className="mx-auto max-w-2xl">
+      {/* Header */}
+      <div className="flex items-center gap-4 py-6">
+        <div
+          className={`flex h-16 w-16 items-center justify-center rounded-full text-xl font-bold text-white ${
+            lm.party === 'democrat' ? 'bg-blue-500' : lm.party === 'republican' ? 'bg-red-500' : 'bg-neutral-400'
+          }`}
+        >
+          {lm.name.split(/\s+/).slice(0, 2).map((w) => w[0]).join('')}
+        </div>
+        <div>
+          <h1 className="text-2xl font-bold">{lm.name}</h1>
+          <div className="text-sm text-neutral-500">
+            {lm.chamber === 'senate' ? 'Senator' : 'Representative'} · {lm.party} · {lm.state}
+            {lm.district ? `-${lm.district}` : ''}
+          </div>
+        </div>
       </div>
 
-      <div className="mb-6 grid grid-cols-3 gap-4">
-        <Stat label="Published trades" value={String(n)} />
-        <Stat label="Avg disclosure lag" value={`${avgDelay.toFixed(1)} days`} />
-        <Stat label="Late filings" value={`${lateCount}${n > 0 ? ` (${((lateCount / n) * 100).toFixed(0)}%)` : ''}`} />
+      {/* Stats — horizontal pills like Robinhood's portfolio stats */}
+      <div className="grid grid-cols-4 gap-2">
+        <StatPill label="Trades" value={String(n)} />
+        <StatPill label="Buys" value={String(buys)} accent="text-emerald-600" />
+        <StatPill label="Sells" value={String(sells)} accent="text-orange-600" />
+        <StatPill
+          label="Avg lag"
+          value={`${avgDelay.toFixed(0)}d`}
+          accent={lateCount > 0 ? 'text-red-600' : undefined}
+        />
       </div>
 
-      <h2 className="mb-3 text-lg font-semibold">Trades</h2>
+      {/* Trade list — same card pattern as feed */}
+      <h2 className="mb-2 mt-8 text-sm font-semibold uppercase tracking-wide text-neutral-400">
+        Disclosed trades
+      </h2>
       {n === 0 ? (
-        <p className="text-sm text-neutral-500">No published trades.</p>
+        <div className="rounded-2xl border border-neutral-100 bg-neutral-50 p-8 text-center text-sm text-neutral-500">
+          No published trades yet.
+        </div>
       ) : (
-        <div className="overflow-x-auto rounded-lg border border-neutral-200">
-          <table className="min-w-full divide-y divide-neutral-200 text-sm">
-            <thead className="bg-neutral-50 text-left text-xs uppercase tracking-wide text-neutral-500">
-              <tr>
-                <th className="px-4 py-2">Asset</th>
-                <th className="px-4 py-2">Type</th>
-                <th className="px-4 py-2">Date</th>
-                <th className="px-4 py-2">Amount</th>
-                <th className="px-4 py-2">Lag</th>
-                <th className="px-4 py-2">Detail</th>
-              </tr>
-            </thead>
-            <tbody className="divide-y divide-neutral-100">
-              {rows.map((r) => (
-                <tr key={r.id}>
-                  <td className="px-4 py-2">
-                    {r.ticker ?? r.asset_name}
-                    <span className="ml-2 text-xs text-neutral-400">{r.owner_type}</span>
-                  </td>
-                  <td className="px-4 py-2">{r.trade_type}</td>
-                  <td className="px-4 py-2">{r.tx_date}</td>
-                  <td className="px-4 py-2">{r.range_label}</td>
-                  <td className="px-4 py-2">
-                    {r.days_to_file} {r.is_late && <span className="text-xs font-semibold text-red-600">LATE</span>}
-                  </td>
-                  <td className="px-4 py-2">
-                    <Link href={`/trades/${r.id}`} className="text-blue-600 hover:underline">
-                      view
-                    </Link>
-                  </td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
+        <div className="divide-y divide-neutral-100 overflow-hidden rounded-2xl border border-neutral-100">
+          {rows.map((r) => {
+            const isBuy = r.trade_type === 'purchase';
+            const isSell = r.trade_type === 'sale';
+            return (
+              <a
+                key={r.id}
+                href={`/trades/${r.id}`}
+                className="flex items-center gap-4 bg-white px-4 py-3.5 hover:bg-neutral-50"
+              >
+                <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-neutral-100 text-[11px] font-bold text-neutral-600">
+                  {(r.ticker ?? r.asset_name).slice(0, 4).toUpperCase()}
+                </div>
+                <div className="min-w-0 flex-1">
+                  <div className="truncate text-sm font-semibold">{r.ticker ?? r.asset_name}</div>
+                  <div className="text-xs text-neutral-500">
+                    {r.tx_date}
+                    {r.owner_type !== 'filer' && ` · ${r.owner_type.replace('_', ' ')}`}
+                  </div>
+                </div>
+                <div className="shrink-0 text-right">
+                  <div className={`text-sm font-bold ${isBuy ? 'text-emerald-600' : isSell ? 'text-orange-600' : 'text-neutral-600'}`}>
+                    {isBuy ? 'Buy' : isSell ? 'Sell' : r.trade_type}
+                  </div>
+                  <div className="text-xs text-neutral-500">
+                    {r.range_label}
+                    {r.is_late && <span className="ml-1 text-red-500">· late</span>}
+                  </div>
+                </div>
+              </a>
+            );
+          })}
         </div>
       )}
 
-      <h2 className="mb-2 mt-8 text-lg font-semibold">Committees</h2>
-      <p className="text-sm text-neutral-500">Committee data arrives in Phase 2.</p>
+      <p className="mt-6 text-center text-[11px] text-neutral-400">
+        Disclosure-timing statistics describe filing behavior only — they imply nothing about
+        intent. Not financial advice.
+      </p>
     </div>
   );
 }
 
-function Stat({ label, value }: { label: string; value: string }) {
+function StatPill({ label, value, accent }: { label: string; value: string; accent?: string }) {
   return (
-    <div className="rounded-lg border border-neutral-200 p-4">
-      <div className="text-2xl font-bold">{value}</div>
-      <div className="text-xs uppercase tracking-wide text-neutral-500">{label}</div>
+    <div className="rounded-2xl border border-neutral-100 p-3 text-center">
+      <div className={`text-lg font-bold ${accent ?? ''}`}>{value}</div>
+      <div className="text-[11px] font-medium uppercase tracking-wide text-neutral-400">{label}</div>
     </div>
   );
 }
 
-function DbNotice() {
-  return (
-    <div className="rounded-lg border border-amber-300 bg-amber-50 p-6 text-amber-900">
-      <p className="font-semibold">Database not connected.</p>
-    </div>
-  );
+function CenterNotice({ text }: { text: string }) {
+  return <div className="py-20 text-center text-sm text-neutral-500">{text}</div>;
 }

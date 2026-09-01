@@ -1,3 +1,23 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  --green: #21ce99;
+  --red: #ff5000;
+}
+
+body {
+  background: #ffffff;
+  color: #1c1e21;
+}
+
+/* Robinhood-ish clean scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: #e5e7eb;
+  border-radius: 4px;
+}

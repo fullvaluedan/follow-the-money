@@ -20,22 +20,17 @@ export interface FeedRow {
   source_url: string;
 }
 
-const PARTIES = ['all', 'democrat', 'republican', 'independent', 'other'] as const;
 const TYPES = ['all', 'purchase', 'sale', 'exchange'] as const;
 
-export default function FeedFilters({ rows }: { rows: FeedRow[] }) {
+export default function FeedList({ rows }: { rows: FeedRow[] }) {
   const [q, setQ] = useState('');
-  const [party, setParty] = useState<(typeof PARTIES)[number]>('all');
   const [type, setType] = useState<(typeof TYPES)[number]>('all');
-  const [chamber, setChamber] = useState<'all' | 'house' | 'senate'>('all');
   const [lateOnly, setLateOnly] = useState(false);
 
   const filtered = useMemo(
     () =>
       rows.filter((r) => {
-        if (party !== 'all' && r.party !== party) return false;
         if (type !== 'all' && r.trade_type !== type) return false;
-        if (chamber !== 'all' && r.chamber !== chamber) return false;
         if (lateOnly && !r.is_late) return false;
         if (q) {
           const hay = `${r.lawmaker_name} ${r.ticker ?? ''} ${r.asset_name}`.toLowerCase();
@@ -43,111 +38,123 @@ export default function FeedFilters({ rows }: { rows: FeedRow[] }) {
         }
         return true;
       }),
-    [rows, q, party, type, chamber, lateOnly],
+    [rows, q, type, lateOnly],
   );
-
-  const select =
-    'rounded border border-neutral-300 bg-white px-2 py-1.5 text-sm dark:border-neutral-700';
 
   return (
     <div>
-      <div className="mb-4 flex flex-wrap items-center gap-2">
-        <input
-          value={q}
-          onChange={(e) => setQ(e.target.value)}
-          placeholder="Search lawmaker, ticker, asset…"
-          className="w-64 rounded border border-neutral-300 px-3 py-1.5 text-sm"
-        />
-        <select value={chamber} onChange={(e) => setChamber(e.target.value as typeof chamber)} className={select}>
-          <option value="all">Both chambers</option>
-          <option value="house">House</option>
-          <option value="senate">Senate</option>
-        </select>
-        <select value={party} onChange={(e) => setParty(e.target.value as typeof party)} className={select}>
-          {PARTIES.map((p) => (
-            <option key={p} value={p}>
-              {p === 'all' ? 'All parties' : p}
-            </option>
-          ))}
-        </select>
-        <select value={type} onChange={(e) => setType(e.target.value as typeof type)} className={select}>
+      {/* Search + segmented control — Robinhood style */}
+      <div className="mb-4 flex items-center gap-3">
+        <div className="relative flex-1">
+          <svg
+            className="pointer-events-none absolute left-3 top-2.5 h-4 w-4 text-neutral-400"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="2"
+            viewBox="0 0 24 24"
+          >
+            <circle cx="11" cy="11" r="7" />
+            <path d="m21 21-4.3-4.3" />
+          </svg>
+          <input
+            value={q}
+            onChange={(e) => setQ(e.target.value)}
+            placeholder="Search lawmakers or tickers"
+            className="w-full rounded-xl bg-neutral-100 py-2 pl-9 pr-3 text-sm outline-none placeholder:text-neutral-400 focus:bg-neutral-50 focus:ring-2 focus:ring-emerald-500/30"
+          />
+        </div>
+        <div className="flex rounded-xl bg-neutral-100 p-1 text-sm font-medium">
           {TYPES.map((t) => (
-            <option key={t} value={t}>
-              {t === 'all' ? 'All types' : t}
-            </option>
+            <button
+              key={t}
+              onClick={() => setType(t)}
+              className={`rounded-lg px-3 py-1 capitalize transition-colors ${
+                type === t ? 'bg-white shadow-sm text-neutral-900' : 'text-neutral-500'
+              }`}
+            >
+              {t === 'all' ? 'All' : t === 'purchase' ? 'Buys' : t === 'sale' ? 'Sells' : 'Exch.'}
+            </button>
           ))}
-        </select>
-        <label className="flex items-center gap-1.5 text-sm text-neutral-700">
-          <input type="checkbox" checked={lateOnly} onChange={(e) => setLateOnly(e.target.checked)} />
-          Late filings only
-        </label>
-        <span className="ml-auto text-xs text-neutral-500">
-          {filtered.length} of {rows.length} trades
-        </span>
+        </div>
       </div>
 
-      <FeedTable rows={filtered} />
+      <div className="mb-3 flex items-center justify-between">
+        <label className="flex cursor-pointer items-center gap-2 text-xs font-medium text-neutral-500">
+          <input
+            type="checkbox"
+            checked={lateOnly}
+            onChange={(e) => setLateOnly(e.target.checked)}
+            className="h-3.5 w-3.5 accent-red-500"
+          />
+          Late filings only ({rows.filter((r) => r.is_late).length})
+        </label>
+        <span className="text-xs text-neutral-400">{filtered.length} shown</span>
+      </div>
+
+      {/* Card list */}
+      <div className="divide-y divide-neutral-100 overflow-hidden rounded-2xl border border-neutral-100">
+        {filtered.length === 0 ? (
+          <div className="bg-neutral-50 p-8 text-center text-sm text-neutral-500">
+            Nothing matches. Try clearing filters.
+          </div>
+        ) : (
+          filtered.map((r) => <TradeCard key={r.id} r={r} />)
+        )}
+      </div>
     </div>
   );
 }
 
-function FeedTable({ rows }: { rows: FeedRow[] }) {
-  if (rows.length === 0) {
-    return (
-      <div className="rounded-lg border border-neutral-200 bg-neutral-50 p-6 text-sm text-neutral-600">
-        No trades match the current filters.
-      </div>
-    );
-  }
+function initials(name: string): string {
+  return name
+    .split(/\s+/)
+    .filter(Boolean)
+    .slice(0, 2)
+    .map((w) => w[0])
+    .join('')
+    .toUpperCase();
+}
+
+function TradeCard({ r }: { r: FeedRow }) {
+  const isBuy = r.trade_type === 'purchase';
+  const isSell = r.trade_type === 'sale';
   return (
-    <div className="overflow-x-auto rounded-lg border border-neutral-200">
-      <table className="min-w-full divide-y divide-neutral-200 text-sm">
-        <thead className="bg-neutral-50 text-left text-xs uppercase tracking-wide text-neutral-500">
-          <tr>
-            <th className="px-4 py-3">Lawmaker</th>
-            <th className="px-4 py-3">Asset</th>
-            <th className="px-4 py-3">Type</th>
-            <th className="px-4 py-3">Date</th>
-            <th className="px-4 py-3">Amount</th>
-            <th className="px-4 py-3">Lag (d)</th>
-            <th className="px-4 py-3">Source</th>
-          </tr>
-        </thead>
-        <tbody className="divide-y divide-neutral-100">
-          {rows.map((r) => (
-            <tr key={r.id} className="hover:bg-neutral-50">
-              <td className="px-4 py-3">
-                <a href={`/lawmakers/${r.bioguide_id}`} className="font-medium hover:underline">
-                  {r.lawmaker_name}
-                </a>
-                <span className="ml-2 text-xs text-neutral-500">
-                  {r.chamber === 'senate' ? 'Senate' : 'House'} · {r.party}
-                </span>
-              </td>
-              <td className="px-4 py-3">
-                {r.ticker ? <span className="font-mono font-semibold">{r.ticker}</span> : r.asset_name}
-                <span className="ml-2 text-xs text-neutral-400">{r.owner_type}</span>
-              </td>
-              <td className="px-4 py-3">
-                <span className={r.trade_type === 'purchase' ? 'text-emerald-700' : r.trade_type === 'sale' ? 'text-red-700' : 'text-neutral-600'}>
-                  {r.trade_type}
-                </span>
-              </td>
-              <td className="px-4 py-3">{r.tx_date}</td>
-              <td className="px-4 py-3">{r.range_label}</td>
-              <td className="px-4 py-3">
-                {r.days_to_file}
-                {r.is_late && <span className="ml-1 text-xs font-semibold text-red-600">LATE</span>}
-              </td>
-              <td className="px-4 py-3">
-                <a href={r.source_url} target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">
-                  filing ↗
-                </a>
-              </td>
-            </tr>
-          ))}
-        </tbody>
-      </table>
-    </div>
+    <a
+      href={`/trades/${r.id}`}
+      className="flex items-center gap-4 bg-white px-4 py-3.5 transition-colors hover:bg-neutral-50"
+    >
+      {/* Avatar */}
+      <div
+        className={`flex h-10 w-10 shrink-0 items-center justify-center rounded-full text-xs font-bold text-white ${
+          r.party === 'democrat' ? 'bg-blue-500' : r.party === 'republican' ? 'bg-red-500' : 'bg-neutral-400'
+        }`}
+      >
+        {initials(r.lawmaker_name)}
+      </div>
+
+      {/* Name + meta */}
+      <div className="min-w-0 flex-1">
+        <div className="flex items-center gap-2 truncate text-sm font-semibold">
+          {r.ticker ?? <span className="truncate">{r.asset_name}</span>}
+          {r.is_late && (
+            <span className="rounded bg-red-50 px-1.5 py-0.5 text-[10px] font-bold uppercase text-red-600">
+              Late
+            </span>
+          )}
+        </div>
+        <div className="truncate text-xs text-neutral-500">
+          {r.lawmaker_name} · {r.chamber === 'senate' ? 'Senate' : 'House'}
+          {r.owner_type !== 'filer' && ` · ${r.owner_type.replace('_', ' ')}`}
+        </div>
+      </div>
+
+      {/* Right side: action + amount */}
+      <div className="shrink-0 text-right">
+        <div className={`text-sm font-bold ${isBuy ? 'text-emerald-600' : isSell ? 'text-orange-600' : 'text-neutral-600'}`}>
+          {isBuy ? 'Buy' : isSell ? 'Sell' : r.trade_type}
+        </div>
+        <div className="text-xs text-neutral-500">{r.range_label}</div>
+      </div>
+    </a>
   );
 }

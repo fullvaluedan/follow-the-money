@@ -29,7 +29,7 @@ export const filingsDocumentSchema = z.object({
     printed_name: z.string(),
     bioguide_id: z.string().nullable(),
     state: z.string().nullable(),
-    district: z.string().nullable(),
+    district: z.union([z.string(), z.number()]).nullable(),
   }),
   rows: z.array(parsedTradeRowSchema),
 });

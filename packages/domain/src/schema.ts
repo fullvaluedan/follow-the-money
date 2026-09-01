@@ -42,7 +42,7 @@ export const extractedFilingSchema = z.object({
     printed_name: z.string().min(1),
     bioguide_id: z.string().nullable().optional(),
     state: z.string().nullable().optional(),
-    district: z.string().nullable().optional(),
+    district: z.union([z.string(), z.number()]).nullable().optional(),
   }),
   trades: z.array(extractedTradeSchema),
   needs_hitl: z.boolean(),
