@@ -35,7 +35,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             </nav>
           </div>
         </header>
-        <main className="mx-auto max-w-5xl px-4 py-6">{children}</main>
+        <main className="mx-auto max-w-7xl px-6 py-8">{children}</main>
         <footer className="mt-12 border-t border-[var(--border)]">
           <div className="mx-auto max-w-5xl px-4 py-6 text-[11px] leading-relaxed text-dim opacity-70">
             {FOOTER_DISCLAIMER}

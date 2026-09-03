@@ -50,7 +50,7 @@ export default async function HomePage() {
     .innerJoin(assets, eq(trades.asset_id, assets.id))
     .where(and(eq(trades.status, 'published'), gte(trades.tx_date, cutoffIso)))
     .orderBy(desc(trades.tx_date))
-    .limit(400);
+    .limit(1200);
 
   const midOf = (r: { range_min: string | number | null; range_max: string | number | null }) =>
     r.range_min !== null && r.range_max !== null
@@ -158,8 +158,8 @@ export default async function HomePage() {
           <h2 className="text-sm font-bold uppercase tracking-wider text-dim">What's moving — sector net flow</h2>
           <a href="/sectors" className="text-xs font-semibold text-green hover:underline">Full map →</a>
         </div>
-        <div className="space-y-2.5">
-          {[...hotSectors, coldSector].filter(Boolean).map((s) => {
+        <div className="grid gap-x-10 gap-y-2.5 md:grid-cols-2">
+          {[...lb.sector_flow.filter((s) => s.sector !== 'Other')].map((s) => {
             const up = s.net >= 0;
             return (
               <div key={s.sector} className="flex items-center gap-3">
@@ -278,7 +278,7 @@ export default async function HomePage() {
         <h2 className="mb-3 px-1 text-sm font-bold uppercase tracking-wider text-dim">
           All trades — filter by size, direction, lateness
         </h2>
-        <FeedList rows={feedRows} defaultSize="100k" />
+        <FeedList rows={feedRows} defaultSize="50k" />
       </section>
 
       <p className="pt-2 text-center text-[11px] text-dim opacity-70">

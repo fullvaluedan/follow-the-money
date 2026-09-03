@@ -31,6 +31,11 @@ const SIZE_FILTERS = [
   { key: '15k', label: '$15K+', min: 15_000 },
   { key: 'all', label: 'All', min: 0 },
 ] as const;
+const RECENCY_FILTERS = [
+  { key: '30d', label: '30 days', days: 30 },
+  { key: '90d', label: '90 days', days: 90 },
+  { key: '365d', label: '1 year', days: 365 },
+] as const;
 
 /** Midpoint of the disclosed range, for filtering. */
 function midOf(r: FeedRow): number {
@@ -38,16 +43,20 @@ function midOf(r: FeedRow): number {
   return (r.range_min + r.range_max) / 2;
 }
 
-export default function FeedList({ rows, defaultSize = '100k' }: { rows: FeedRow[]; defaultSize?: string }) {
+export default function FeedList({ rows, defaultSize = '50k', showRecency = true }: { rows: FeedRow[]; defaultSize?: string; showRecency?: boolean }) {
   const [q, setQ] = useState('');
   const [type, setType] = useState<(typeof TYPES)[number]>('all');
   const [size, setSize] = useState<string>(defaultSize);
+  const [recency, setRecency] = useState<string>('30d');
   const [lateOnly, setLateOnly] = useState(false);
 
   const filtered = useMemo(() => {
     const min = SIZE_FILTERS.find((s) => s.key === size)?.min ?? 0;
+    const days = RECENCY_FILTERS.find((s) => s.key === recency)?.days ?? 365;
+    const cutoff = Date.now() - days * 86_400_000;
     return rows
       .filter((r) => midOf(r) >= min)
+      .filter((r) => (showRecency ? new Date(r.tx_date + 'T00:00:00Z').getTime() >= cutoff : true))
       .filter((r) => (type === 'all' ? true : r.trade_type === type))
       .filter((r) => (lateOnly ? r.is_late : true))
       .filter((r) => {
@@ -55,8 +64,8 @@ export default function FeedList({ rows, defaultSize = '100k' }: { rows: FeedRow
         const hay = `${r.lawmaker_name} ${r.ticker ?? ''} ${r.asset_name} ${r.sector ?? ''}`.toLowerCase();
         return hay.includes(q.toLowerCase());
       })
-      .sort((a, b) => midOf(b) - midOf(a)); // biggest first within the feed
-  }, [rows, q, type, size, lateOnly]);
+      .sort((a, b) => new Date(b.tx_date).getTime() - new Date(a.tx_date).getTime()); // newest first
+  }, [rows, q, type, size, recency, lateOnly, showRecency]);
 
   const totalShown = filtered.reduce((s, r) => s + midOf(r), 0);
   const fmt = (n: number) => (n >= 1e6 ? `$${(n / 1e6).toFixed(1)}M` : `$${Math.round(n / 1e3)}K`);
@@ -100,6 +109,20 @@ export default function FeedList({ rows, defaultSize = '100k' }: { rows: FeedRow
             </button>
           ))}
         </div>
+        {/* recency */}
+        {showRecency && (
+          <div className="flex rounded-xl bg-[var(--bg-card)] p-1 text-xs font-semibold">
+            {RECENCY_FILTERS.map((s) => (
+              <button
+                key={s.key}
+                onClick={() => setRecency(s.key)}
+                className={`rounded-lg px-3 py-1.5 transition-all duration-200 ${recency === s.key ? 'bg-[#152219] text-green' : 'text-dim hover:text-white'}`}
+              >
+                {s.label}
+              </button>
+            ))}
+          </div>
+        )}
         <label className="flex cursor-pointer items-center gap-1.5 text-xs font-medium text-dim">
           <input type="checkbox" checked={lateOnly} onChange={(e) => setLateOnly(e.target.checked)} className="h-3.5 w-3.5 accent-[var(--red)]" />
           Late
@@ -111,18 +134,18 @@ export default function FeedList({ rows, defaultSize = '100k' }: { rows: FeedRow
           <span className="font-bold text-white">{filtered.length}</span> trades ·{' '}
           <span className="font-bold text-gold">{fmt(totalShown)}</span> total size
         </span>
-        <span className="text-dim">sorted by size</span>
+        <span className="text-dim">newest first</span>
       </div>
 
       <div className="space-y-2">
         {filtered.length === 0 ? (
-          <div className="card p-8 text-center text-sm text-dim">Nothing matches — lower the size filter or clear search.</div>
+          <div className="card p-8 text-center text-sm text-dim">Nothing matches — widen the size or recency filter.</div>
         ) : (
-          filtered.slice(0, 60).map((r, i) => <TradeCard key={r.id} r={r} idx={i} />)
+          filtered.slice(0, 80).map((r, i) => <TradeCard key={r.id} r={r} idx={i} />)
         )}
       </div>
-      {filtered.length > 60 && (
-        <p className="mt-3 text-center text-xs text-dim">Showing 60 largest of {filtered.length} — refine filters to see more.</p>
+      {filtered.length > 80 && (
+        <p className="mt-3 text-center text-xs text-dim">Showing 80 most recent of {filtered.length} — refine filters to narrow.</p>
       )}
     </div>
   );
