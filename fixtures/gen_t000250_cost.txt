@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: JOHN THUNE
-Filing Date: 2024-03-16
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | Costco Wholesale Corp (COST) | P | 02/24/2024 | $100,001 - $250,000

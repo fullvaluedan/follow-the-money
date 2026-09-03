@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: KIRSTEN E. GILLIBRAND
+Filing Date: 2026-07-24
+
+Owner | Asset | Type | Transaction Date | Amount
+joint | Schlumberger NV (SLB) | P | 07/03/2026 | $50,001 - $100,000

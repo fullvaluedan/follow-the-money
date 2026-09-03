@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: HENRY CUELLAR
-Filing Date: 2024-04-08
-
-Owner | Asset | Type | Transaction Date | Amount
- | Micron Technology (MU) | P | 03/25/2024 | $15,001 - $50,000

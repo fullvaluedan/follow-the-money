@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: ROGER F. WICKER
-Filing Date: 2024-11-03
-
-Owner | Asset | Type | Transaction Date | Amount
- | Adobe Inc (ADBE) | S | 08/19/2024 | $50,001 - $100,000

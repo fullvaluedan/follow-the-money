@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: RICHARD BLUMENTHAL
+Filing Date: 2025-10-18
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Amazon.com Inc (AMZN) | S | 10/02/2025 | $1,001 - $15,000

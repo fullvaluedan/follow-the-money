@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: TAMMY BALDWIN
-Filing Date: 2024-10-26
-
-Owner | Asset | Type | Transaction Date | Amount
-joint | Prologis Inc (PLD) | P | 09/12/2024 | $15,001 - $50,000

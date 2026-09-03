@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: BILL FOSTER
-Filing Date: 2024-10-19
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | Intel Corp (INTC) | P | 09/28/2024 | $15,001 - $50,000

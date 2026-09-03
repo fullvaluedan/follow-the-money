@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: DAN CRENSHAW
+Filing Date: 2026-01-19
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Advanced Micro Devices (AMD) | P | 12/06/2025 | $1,001 - $15,000

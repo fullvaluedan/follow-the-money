@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: JEFF MERKLEY
-Filing Date: 2024-02-24
-
-Owner | Asset | Type | Transaction Date | Amount
- | Meta Platforms Inc (META) | P | 02/03/2024 | $100,001 - $250,000

@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: SUSAN M. COLLINS
+Filing Date: 2026-01-24
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Visa Inc (V) | P | 12/27/2025 | $50,001 - $100,000

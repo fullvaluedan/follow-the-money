@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: SANFORD D. BISHOP, JR.
-Filing Date: 2024-05-28
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | Broadcom Inc (AVGO) | P | 03/01/2024 | $1,001 - $15,000

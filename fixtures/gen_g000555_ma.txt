@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: KIRSTEN E. GILLIBRAND
-Filing Date: 2025-04-11
-
-Owner | Asset | Type | Transaction Date | Amount
- | Mastercard Inc (MA) | P | 12/12/2024 | $15,001 - $50,000

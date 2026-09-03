@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: RON JOHNSON
+Filing Date: 2026-08-21
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Eli Lilly and Co (LLY) | S | 08/05/2026 | $1,001 - $15,000

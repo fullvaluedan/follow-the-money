@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: TED LIEU
+Filing Date: 2025-10-23
+
+Owner | Asset | Type | Transaction Date | Amount
+ | American Express Co (AXP) | P | 10/02/2025 | $15,001 - $50,000

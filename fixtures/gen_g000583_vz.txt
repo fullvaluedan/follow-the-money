@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JOSH GOTTHEIMER
+Filing Date: 2026-05-18
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Verizon Communications (VZ) | S | 05/04/2026 | $1,001 - $15,000

@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: BILL CASSIDY
+Filing Date: 2026-06-20
+
+Owner | Asset | Type | Transaction Date | Amount
+ | American Express Co (AXP) | P | 06/04/2026 | $1,001 - $15,000

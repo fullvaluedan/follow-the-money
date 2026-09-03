@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: JOE COURTNEY
-Filing Date: 2024-04-18
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | Devon Energy Corp (DVN) | P | 03/11/2024 | $250,001 - $500,000

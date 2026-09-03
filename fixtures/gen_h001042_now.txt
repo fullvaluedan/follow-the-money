@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: MAZIE K. HIRONO
-Filing Date: 2024-06-02
-
-Owner | Asset | Type | Transaction Date | Amount
- | ServiceNow Inc (NOW) | P | 05/08/2024 | $250,001 - $500,000

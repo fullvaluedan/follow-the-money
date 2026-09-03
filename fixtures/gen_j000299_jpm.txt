@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: MIKE JOHNSON
+Filing Date: 2026-07-07
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | JPMorgan Chase & Co (JPM) | P | 06/04/2026 | $15,001 - $50,000

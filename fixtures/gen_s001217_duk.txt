@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: RICK SCOTT
+Filing Date: 2026-08-19
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Duke Energy Corp (DUK) | E | 06/19/2026 | $100,001 - $250,000

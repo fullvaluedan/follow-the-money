@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: DANNY K. DAVIS
+Filing Date: 2025-12-31
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Apple Inc (AAPL) | P | 10/04/2025 | $100,001 - $250,000

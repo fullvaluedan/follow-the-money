@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: BRAD SHERMAN
+Filing Date: 2026-04-21
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Coinbase Global Inc (COIN) | P | 04/03/2026 | $1,001 - $15,000

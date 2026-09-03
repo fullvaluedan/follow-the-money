@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: JOHN THUNE
-Filing Date: 2024-09-21
-
-Owner | Asset | Type | Transaction Date | Amount
-joint | RTX Corp (RTX) | P | 09/05/2024 | $1,001 - $15,000

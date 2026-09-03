@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: ADAM SMITH
-Filing Date: 2024-12-17
-
-Owner | Asset | Type | Transaction Date | Amount
-joint | Home Depot Inc (HD) | P | 11/19/2024 | $1,001 - $15,000

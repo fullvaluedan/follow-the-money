@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: DAN SULLIVAN
-Filing Date: 2024-09-02
-
-Owner | Asset | Type | Transaction Date | Amount
-joint | Pfizer Inc (PFE) | P | 02/08/2024 | $250,001 - $500,000

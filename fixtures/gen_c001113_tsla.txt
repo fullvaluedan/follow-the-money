@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: CATHERINE CORTEZ MASTO
-Filing Date: 2025-03-27
-
-Owner | Asset | Type | Transaction Date | Amount
- | Tesla Inc (TSLA) | P | 10/18/2024 | $50,001 - $100,000

@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: JOHN BOOZMAN
-Filing Date: 2025-01-04
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | Colgate-Palmolive Co (CL) | S | 10/20/2024 | $100,001 - $250,000

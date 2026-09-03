@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: MARSHA BLACKBURN
-Filing Date: 2024-09-19
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | Nike Inc (NKE) | S | 08/06/2024 | $50,001 - $100,000

@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: DAN SULLIVAN
-Filing Date: 2025-02-03
-
-Owner | Asset | Type | Transaction Date | Amount
- | GE Aerospace (GE) | S | 12/27/2024 | $1,001 - $15,000

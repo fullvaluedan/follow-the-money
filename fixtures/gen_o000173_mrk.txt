@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: ILHAN OMAR
+Filing Date: 2026-07-26
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Merck & Co Inc (MRK) | E | 07/03/2026 | $100,001 - $250,000

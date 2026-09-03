@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JOHN CORNYN
+Filing Date: 2026-04-22
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Simon Property Group (SPG) | P | 04/06/2026 | $1,001 - $15,000

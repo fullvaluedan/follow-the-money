@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: STEVE COHEN
+Filing Date: 2026-02-28
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Amazon.com Inc (AMZN) | S | 01/26/2026 | $50,001 - $100,000

@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: LUCY MCBATH
+Filing Date: 2026-05-01
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Caterpillar Inc (CAT) | S | 04/08/2026 | $50,001 - $100,000

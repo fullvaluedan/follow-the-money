@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: JEFF MERKLEY
-Filing Date: 2024-04-24
-
-Owner | Asset | Type | Transaction Date | Amount
-joint | Eli Lilly and Co (LLY) | P | 04/10/2024 | $15,001 - $50,000

@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: TED LIEU
-Filing Date: 2024-04-09
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | NextEra Energy Inc (NEE) | P | 03/17/2024 | $1,001 - $15,000

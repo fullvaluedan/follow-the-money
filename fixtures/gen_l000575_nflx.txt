@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JAMES LANKFORD
+Filing Date: 2026-10-01
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Netflix Inc (NFLX) | P | 08/24/2026 | $50,001 - $100,000

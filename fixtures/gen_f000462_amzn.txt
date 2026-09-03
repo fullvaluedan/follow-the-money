@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: LOIS FRANKEL
+Filing Date: 2026-04-03
+
+Owner | Asset | Type | Transaction Date | Amount
+joint | Amazon.com Inc (AMZN) | P | 02/24/2026 | $100,001 - $250,000

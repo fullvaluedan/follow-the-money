@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: GARY C. PETERS
+Filing Date: 2026-05-28
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Netflix Inc (NFLX) | S | 01/28/2026 | $1,001 - $15,000

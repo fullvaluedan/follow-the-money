@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: TOM EMMER
+Filing Date: 2026-09-27
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Microsoft Corp (MSFT) | P | 07/01/2026 | $1,001 - $15,000

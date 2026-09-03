@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: MIKE JOHNSON
-Filing Date: 2024-06-18
-
-Owner | Asset | Type | Transaction Date | Amount
- | Procter & Gamble Co (PG) | S | 06/02/2024 | $15,001 - $50,000

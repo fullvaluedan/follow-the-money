@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: ADAM B. SCHIFF
+Filing Date: 2026-01-28
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | PepsiCo Inc (PEP) | P | 09/30/2025 | $1,001 - $15,000

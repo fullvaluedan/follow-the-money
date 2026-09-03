@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JAMES E. RISCH
+Filing Date: 2026-07-08
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Advanced Micro Devices (AMD) | E | 05/31/2026 | $100,001 - $250,000

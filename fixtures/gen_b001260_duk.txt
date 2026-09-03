@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: VERN BUCHANAN
-Filing Date: 2024-06-24
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | Duke Energy Corp (DUK) | S | 06/10/2024 | $1,001 - $15,000

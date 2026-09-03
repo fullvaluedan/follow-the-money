@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: ELIZABETH WARREN
-Filing Date: 2024-10-26
-
-Owner | Asset | Type | Transaction Date | Amount
-joint | BlackRock Inc (BLK) | P | 10/03/2024 | $1,001 - $15,000

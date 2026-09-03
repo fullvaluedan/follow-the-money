@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: ADAM SMITH
+Filing Date: 2026-07-11
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Bank of America (BAC) | P | 04/26/2026 | $250,001 - $500,000

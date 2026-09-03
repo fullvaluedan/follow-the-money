@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: RON WYDEN
+Filing Date: 2026-08-30
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Oracle Corp (ORCL) | S | 08/09/2026 | $100,001 - $250,000

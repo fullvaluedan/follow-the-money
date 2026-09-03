@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JOHN HOEVEN
+Filing Date: 2026-11-18
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Mondelez International (MDLZ) | E | 07/21/2026 | $100,001 - $250,000

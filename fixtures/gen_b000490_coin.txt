@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: SANFORD D. BISHOP, JR.
-Filing Date: 2024-06-22
-
-Owner | Asset | Type | Transaction Date | Amount
- | Coinbase Global Inc (COIN) | P | 05/25/2024 | $1,001 - $15,000

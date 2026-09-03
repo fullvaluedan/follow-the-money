@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: DANNY K. DAVIS
-Filing Date: 2024-03-08
-
-Owner | Asset | Type | Transaction Date | Amount
-joint | American Express Co (AXP) | P | 02/21/2024 | $1,001 - $15,000

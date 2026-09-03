@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: JOHN THUNE
-Filing Date: 2025-01-13
-
-Owner | Asset | Type | Transaction Date | Amount
- | Prologis Inc (PLD) | P | 12/16/2024 | $1,001 - $15,000

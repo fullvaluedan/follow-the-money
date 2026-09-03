@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: JOE COURTNEY
-Filing Date: 2024-04-13
-
-Owner | Asset | Type | Transaction Date | Amount
- | JPMorgan Chase & Co (JPM) | P | 03/28/2024 | $1,001 - $15,000

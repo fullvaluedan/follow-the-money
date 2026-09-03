@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: TAMMY BALDWIN
-Filing Date: 2024-02-28
-
-Owner | Asset | Type | Transaction Date | Amount
- | Coinbase Global Inc (COIN) | P | 02/03/2024 | $15,001 - $50,000

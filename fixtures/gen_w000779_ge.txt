@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: RON WYDEN
-Filing Date: 2024-03-03
-
-Owner | Asset | Type | Transaction Date | Amount
- | GE Aerospace (GE) | P | 02/14/2024 | $1,001 - $15,000

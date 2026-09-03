@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: RICHARD J. DURBIN
+Filing Date: 2026-02-03
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Microsoft Corp (MSFT) | S | 01/13/2026 | $250,001 - $500,000

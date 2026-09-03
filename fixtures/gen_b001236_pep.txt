@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JOHN BOOZMAN
+Filing Date: 2026-12-14
+
+Owner | Asset | Type | Transaction Date | Amount
+ | PepsiCo Inc (PEP) | E | 07/28/2026 | $15,001 - $50,000

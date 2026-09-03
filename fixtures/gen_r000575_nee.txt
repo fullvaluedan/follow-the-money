@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: MIKE ROGERS
+Filing Date: 2026-07-19
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | NextEra Energy Inc (NEE) | P | 07/03/2026 | $15,001 - $50,000

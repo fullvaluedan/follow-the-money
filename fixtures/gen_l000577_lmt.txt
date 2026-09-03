@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: MIKE LEE
+Filing Date: 2026-12-14
+
+Owner | Asset | Type | Transaction Date | Amount
+joint | Lockheed Martin Corp (LMT) | P | 07/28/2026 | $15,001 - $50,000

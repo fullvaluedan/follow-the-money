@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: EMANUEL CLEAVER
-Filing Date: 2024-03-20
-
-Owner | Asset | Type | Transaction Date | Amount
- | ConocoPhillips (COP) | S | 03/06/2024 | $1,001 - $15,000

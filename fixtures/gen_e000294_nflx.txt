@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: TOM EMMER
+Filing Date: 2025-12-01
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Netflix Inc (NFLX) | P | 11/03/2025 | $100,001 - $250,000

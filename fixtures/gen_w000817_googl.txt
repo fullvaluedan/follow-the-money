@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: ELIZABETH WARREN
+Filing Date: 2025-11-18
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Alphabet Inc (GOOGL) | P | 10/24/2025 | $15,001 - $50,000

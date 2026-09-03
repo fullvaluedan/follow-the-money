@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: KATHY CASTOR
-Filing Date: 2024-11-14
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | Lockheed Martin Corp (LMT) | P | 10/12/2024 | $1,001 - $15,000

@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: DIANA DEGETTE
-Filing Date: 2024-07-23
-
-Owner | Asset | Type | Transaction Date | Amount
- | Duke Energy Corp (DUK) | P | 06/20/2024 | $50,001 - $100,000

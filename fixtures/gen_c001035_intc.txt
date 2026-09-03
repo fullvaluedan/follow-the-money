@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: SUSAN M. COLLINS
-Filing Date: 2024-11-19
-
-Owner | Asset | Type | Transaction Date | Amount
- | Intel Corp (INTC) | P | 06/12/2024 | $250,001 - $500,000

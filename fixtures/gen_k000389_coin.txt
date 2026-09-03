@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: RO KHANNA
+Filing Date: 2026-07-31
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Coinbase Global Inc (COIN) | S | 04/17/2026 | $1,001 - $15,000

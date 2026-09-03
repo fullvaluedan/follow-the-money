@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: JIM COSTA
-Filing Date: 2024-06-27
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | Exxon Mobil Corp (XOM) | P | 05/14/2024 | $15,001 - $50,000

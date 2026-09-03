@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: ERIC A. RICK CRAWFORD
-Filing Date: 2024-10-07
-
-Owner | Asset | Type | Transaction Date | Amount
-joint | Microsoft Corp (MSFT) | S | 09/04/2024 | $100,001 - $250,000

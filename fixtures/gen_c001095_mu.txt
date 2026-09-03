@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: TOM COTTON
-Filing Date: 2024-10-18
-
-Owner | Asset | Type | Transaction Date | Amount
-joint | Micron Technology (MU) | S | 07/22/2024 | $50,001 - $100,000

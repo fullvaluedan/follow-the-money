@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JOHN R. CARTER
+Filing Date: 2025-12-30
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Charles Schwab Corp (SCHW) | S | 12/07/2025 | $250,001 - $500,000

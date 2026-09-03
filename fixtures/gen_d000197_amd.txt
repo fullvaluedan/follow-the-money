@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: DIANA DEGETTE
-Filing Date: 2024-05-23
-
-Owner | Asset | Type | Transaction Date | Amount
- | Advanced Micro Devices (AMD) | P | 05/05/2024 | $250,001 - $500,000

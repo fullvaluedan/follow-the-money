@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: GARY C. PETERS
-Filing Date: 2025-02-14
-
-Owner | Asset | Type | Transaction Date | Amount
- | Micron Technology (MU) | S | 10/17/2024 | $15,001 - $50,000

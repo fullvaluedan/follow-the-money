@@ -95,7 +95,7 @@
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1001",
-   "filed_at": "2024-08-22",
+   "filed_at": "2026-04-24",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1001",
    "raw_kind": "pdf",
    "filer": {
@@ -106,11 +106,11 @@
    }
   },
   {
-   "file": "gen_m001157_coin.txt",
+   "file": "gen_m001157_avgo.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1002",
-   "filed_at": "2024-03-26",
+   "filed_at": "2026-05-25",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1002",
    "raw_kind": "pdf",
    "filer": {
@@ -121,11 +121,11 @@
    }
   },
   {
-   "file": "gen_c001120_orcl.txt",
+   "file": "gen_c001120_amd.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1003",
-   "filed_at": "2024-08-24",
+   "filed_at": "2026-01-19",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1003",
    "raw_kind": "pdf",
    "filer": {
@@ -136,11 +136,11 @@
    }
   },
   {
-   "file": "gen_c001120_tsla.txt",
+   "file": "gen_c001120_pld.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1004",
-   "filed_at": "2024-07-05",
+   "filed_at": "2025-10-12",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1004",
    "raw_kind": "pdf",
    "filer": {
@@ -151,11 +151,11 @@
    }
   },
   {
-   "file": "gen_k000389_mrk.txt",
+   "file": "gen_k000389_gs.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1005",
-   "filed_at": "2024-05-27",
+   "filed_at": "2026-05-09",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1005",
    "raw_kind": "pdf",
    "filer": {
@@ -166,11 +166,11 @@
    }
   },
   {
-   "file": "gen_k000389_amd.txt",
+   "file": "gen_k000389_low.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1006",
-   "filed_at": "2024-05-22",
+   "filed_at": "2026-08-24",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1006",
    "raw_kind": "pdf",
    "filer": {
@@ -181,11 +181,11 @@
    }
   },
   {
-   "file": "gen_k000389_mrk.txt",
+   "file": "gen_k000389_coin.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1007",
-   "filed_at": "2024-03-30",
+   "filed_at": "2026-07-31",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1007",
    "raw_kind": "pdf",
    "filer": {
@@ -196,11 +196,11 @@
    }
   },
   {
-   "file": "gen_t000250_rtx.txt",
+   "file": "gen_t000250_anet.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1008",
-   "filed_at": "2024-09-21",
+   "filed_at": "2025-11-12",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1008",
    "raw_kind": "pdf",
    "filer": {
@@ -211,11 +211,11 @@
    }
   },
   {
-   "file": "gen_t000250_smci.txt",
+   "file": "gen_t000250_lmt.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1009",
-   "filed_at": "2024-06-13",
+   "filed_at": "2026-06-09",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1009",
    "raw_kind": "pdf",
    "filer": {
@@ -226,11 +226,11 @@
    }
   },
   {
-   "file": "gen_t000250_cost.txt",
+   "file": "gen_t000250_nke.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1010",
-   "filed_at": "2024-03-16",
+   "filed_at": "2026-01-12",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1010",
    "raw_kind": "pdf",
    "filer": {
@@ -241,11 +241,11 @@
    }
   },
   {
-   "file": "gen_t000250_pld.txt",
+   "file": "gen_t000250_hd.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1011",
-   "filed_at": "2025-01-13",
+   "filed_at": "2026-01-31",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1011",
    "raw_kind": "pdf",
    "filer": {
@@ -256,11 +256,11 @@
    }
   },
   {
-   "file": "gen_w000817_blk.txt",
+   "file": "gen_w000817_slb.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1012",
-   "filed_at": "2024-10-26",
+   "filed_at": "2026-12-29",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1012",
    "raw_kind": "pdf",
    "filer": {
@@ -271,11 +271,11 @@
    }
   },
   {
-   "file": "gen_w000817_orcl.txt",
+   "file": "gen_w000817_tsla.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1013",
-   "filed_at": "2024-09-27",
+   "filed_at": "2026-12-07",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1013",
    "raw_kind": "pdf",
    "filer": {
@@ -286,27 +286,42 @@
    }
   },
   {
-   "file": "gen_c000127_cl.txt",
+   "file": "gen_w000817_amzn.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1014",
-   "filed_at": "2024-03-17",
+   "filed_at": "2025-10-09",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1014",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "MARIA CANTWELL",
-    "bioguide_id": "C000127",
-    "state": "WA",
+    "printed_name": "ELIZABETH WARREN",
+    "bioguide_id": "W000817",
+    "state": "MA",
     "district": null
    }
   },
   {
-   "file": "gen_c000127_crm.txt",
+   "file": "gen_w000817_googl.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1015",
-   "filed_at": "2024-04-04",
+   "filed_at": "2025-11-18",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1015",
+   "raw_kind": "pdf",
+   "filer": {
+    "printed_name": "ELIZABETH WARREN",
+    "bioguide_id": "W000817",
+    "state": "MA",
+    "district": null
+   }
+  },
+  {
+   "file": "gen_c000127_low.txt",
+   "chamber": "senate",
+   "source": "senate_efd",
+   "external_doc_id": "FTM-GEN-1016",
+   "filed_at": "2026-02-13",
+   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1016",
    "raw_kind": "pdf",
    "filer": {
     "printed_name": "MARIA CANTWELL",
@@ -316,41 +331,26 @@
    }
   },
   {
-   "file": "gen_s000033_nke.txt",
-   "chamber": "senate",
-   "source": "senate_efd",
-   "external_doc_id": "FTM-GEN-1016",
-   "filed_at": "2024-11-11",
-   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1016",
-   "raw_kind": "pdf",
-   "filer": {
-    "printed_name": "BERNARD SANDERS",
-    "bioguide_id": "S000033",
-    "state": "VT",
-    "district": null
-   }
-  },
-  {
-   "file": "gen_s000033_lmt.txt",
+   "file": "gen_c000127_anet.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1017",
-   "filed_at": "2025-01-15",
+   "filed_at": "2026-07-15",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1017",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "BERNARD SANDERS",
-    "bioguide_id": "S000033",
-    "state": "VT",
+    "printed_name": "MARIA CANTWELL",
+    "bioguide_id": "C000127",
+    "state": "WA",
     "district": null
    }
   },
   {
-   "file": "gen_s000033_coin.txt",
+   "file": "gen_s000033_ba.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1018",
-   "filed_at": "2024-07-25",
+   "filed_at": "2026-01-07",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1018",
    "raw_kind": "pdf",
    "filer": {
@@ -361,11 +361,11 @@
    }
   },
   {
-   "file": "gen_s000033_now.txt",
+   "file": "gen_s000033_cost.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1019",
-   "filed_at": "2024-04-03",
+   "filed_at": "2025-10-31",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1019",
    "raw_kind": "pdf",
    "filer": {
@@ -376,26 +376,26 @@
    }
   },
   {
-   "file": "gen_g000555_ma.txt",
+   "file": "gen_s000033_blk.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1020",
-   "filed_at": "2025-04-11",
+   "filed_at": "2025-11-22",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1020",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "KIRSTEN E. GILLIBRAND",
-    "bioguide_id": "G000555",
-    "state": "NY",
+    "printed_name": "BERNARD SANDERS",
+    "bioguide_id": "S000033",
+    "state": "VT",
     "district": null
    }
   },
   {
-   "file": "gen_g000555_vz.txt",
+   "file": "gen_g000555_slb.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1021",
-   "filed_at": "2024-03-27",
+   "filed_at": "2026-07-24",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1021",
    "raw_kind": "pdf",
    "filer": {
@@ -406,12 +406,57 @@
    }
   },
   {
-   "file": "gen_d000563_amzn.txt",
+   "file": "gen_g000555_xel.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1022",
-   "filed_at": "2024-08-08",
+   "filed_at": "2026-03-18",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1022",
+   "raw_kind": "pdf",
+   "filer": {
+    "printed_name": "KIRSTEN E. GILLIBRAND",
+    "bioguide_id": "G000555",
+    "state": "NY",
+    "district": null
+   }
+  },
+  {
+   "file": "gen_g000555_spg.txt",
+   "chamber": "senate",
+   "source": "senate_efd",
+   "external_doc_id": "FTM-GEN-1023",
+   "filed_at": "2026-03-04",
+   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1023",
+   "raw_kind": "pdf",
+   "filer": {
+    "printed_name": "KIRSTEN E. GILLIBRAND",
+    "bioguide_id": "G000555",
+    "state": "NY",
+    "district": null
+   }
+  },
+  {
+   "file": "gen_g000555_xel.txt",
+   "chamber": "senate",
+   "source": "senate_efd",
+   "external_doc_id": "FTM-GEN-1024",
+   "filed_at": "2025-10-31",
+   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1024",
+   "raw_kind": "pdf",
+   "filer": {
+    "printed_name": "KIRSTEN E. GILLIBRAND",
+    "bioguide_id": "G000555",
+    "state": "NY",
+    "district": null
+   }
+  },
+  {
+   "file": "gen_d000563_msft.txt",
+   "chamber": "senate",
+   "source": "senate_efd",
+   "external_doc_id": "FTM-GEN-1025",
+   "filed_at": "2026-02-03",
+   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1025",
    "raw_kind": "pdf",
    "filer": {
     "printed_name": "RICHARD J. DURBIN",
@@ -421,12 +466,12 @@
    }
   },
   {
-   "file": "gen_d000563_pld.txt",
+   "file": "gen_d000563_tjx.txt",
    "chamber": "senate",
    "source": "senate_efd",
-   "external_doc_id": "FTM-GEN-1023",
-   "filed_at": "2024-05-27",
-   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1023",
+   "external_doc_id": "FTM-GEN-1026",
+   "filed_at": "2026-05-04",
+   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1026",
    "raw_kind": "pdf",
    "filer": {
     "printed_name": "RICHARD J. DURBIN",
@@ -439,9 +484,9 @@
    "file": "gen_d000563_anet.txt",
    "chamber": "senate",
    "source": "senate_efd",
-   "external_doc_id": "FTM-GEN-1024",
-   "filed_at": "2024-05-18",
-   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1024",
+   "external_doc_id": "FTM-GEN-1027",
+   "filed_at": "2026-05-28",
+   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1027",
    "raw_kind": "pdf",
    "filer": {
     "printed_name": "RICHARD J. DURBIN",
@@ -451,89 +496,59 @@
    }
   },
   {
-   "file": "gen_b001261_googl.txt",
+   "file": "gen_d000563_psx.txt",
    "chamber": "senate",
    "source": "senate_efd",
-   "external_doc_id": "FTM-GEN-1025",
-   "filed_at": "2024-04-24",
-   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1025",
-   "raw_kind": "pdf",
-   "filer": {
-    "printed_name": "JOHN BARRASSO",
-    "bioguide_id": "B001261",
-    "state": "WY",
-    "district": null
-   }
-  },
-  {
-   "file": "gen_b001261_cop.txt",
-   "chamber": "senate",
-   "source": "senate_efd",
-   "external_doc_id": "FTM-GEN-1026",
-   "filed_at": "2024-05-06",
-   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1026",
-   "raw_kind": "pdf",
-   "filer": {
-    "printed_name": "JOHN BARRASSO",
-    "bioguide_id": "B001261",
-    "state": "WY",
-    "district": null
-   }
-  },
-  {
-   "file": "gen_f000454_jnj.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
-   "external_doc_id": "FTM-GEN-1027",
-   "filed_at": "2024-12-05",
-   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1027",
-   "raw_kind": "pdf",
-   "filer": {
-    "printed_name": "BILL FOSTER",
-    "bioguide_id": "F000454",
-    "state": "IL",
-    "district": 11
-   }
-  },
-  {
-   "file": "gen_f000454_googl.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1028",
-   "filed_at": "2025-02-03",
+   "filed_at": "2026-07-02",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1028",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "BILL FOSTER",
-    "bioguide_id": "F000454",
+    "printed_name": "RICHARD J. DURBIN",
+    "bioguide_id": "D000563",
     "state": "IL",
-    "district": 11
+    "district": null
    }
   },
   {
-   "file": "gen_f000454_amd.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
+   "file": "gen_b001261_orcl.txt",
+   "chamber": "senate",
+   "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1029",
-   "filed_at": "2024-12-24",
+   "filed_at": "2025-09-26",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1029",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "BILL FOSTER",
-    "bioguide_id": "F000454",
-    "state": "IL",
-    "district": 11
+    "printed_name": "JOHN BARRASSO",
+    "bioguide_id": "B001261",
+    "state": "WY",
+    "district": null
    }
   },
   {
-   "file": "gen_f000454_intc.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
+   "file": "gen_b001261_duk.txt",
+   "chamber": "senate",
+   "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1030",
-   "filed_at": "2024-10-19",
+   "filed_at": "2026-12-22",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1030",
    "raw_kind": "pdf",
    "filer": {
+    "printed_name": "JOHN BARRASSO",
+    "bioguide_id": "B001261",
+    "state": "WY",
+    "district": null
+   }
+  },
+  {
+   "file": "gen_f000454_wmt.txt",
+   "chamber": "house",
+   "source": "house_clerk_yearly",
+   "external_doc_id": "FTM-GEN-1031",
+   "filed_at": "2026-03-30",
+   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1031",
+   "raw_kind": "pdf",
+   "filer": {
     "printed_name": "BILL FOSTER",
     "bioguide_id": "F000454",
     "state": "IL",
@@ -541,41 +556,26 @@
    }
   },
   {
-   "file": "gen_c001056_cvx.txt",
-   "chamber": "senate",
-   "source": "senate_efd",
-   "external_doc_id": "FTM-GEN-1031",
-   "filed_at": "2024-09-27",
-   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1031",
-   "raw_kind": "pdf",
-   "filer": {
-    "printed_name": "JOHN CORNYN",
-    "bioguide_id": "C001056",
-    "state": "TX",
-    "district": null
-   }
-  },
-  {
-   "file": "gen_c001056_gs.txt",
-   "chamber": "senate",
-   "source": "senate_efd",
+   "file": "gen_f000454_coin.txt",
+   "chamber": "house",
+   "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1032",
-   "filed_at": "2024-01-24",
+   "filed_at": "2025-12-13",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1032",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JOHN CORNYN",
-    "bioguide_id": "C001056",
-    "state": "TX",
-    "district": null
+    "printed_name": "BILL FOSTER",
+    "bioguide_id": "F000454",
+    "state": "IL",
+    "district": 11
    }
   },
   {
-   "file": "gen_c001056_xel.txt",
+   "file": "gen_c001056_spg.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1033",
-   "filed_at": "2024-02-15",
+   "filed_at": "2026-04-22",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1033",
    "raw_kind": "pdf",
    "filer": {
@@ -586,41 +586,41 @@
    }
   },
   {
-   "file": "gen_s001217_pep.txt",
+   "file": "gen_c001056_abbv.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1034",
-   "filed_at": "2024-10-28",
+   "filed_at": "2026-05-11",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1034",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "RICK SCOTT",
-    "bioguide_id": "S001217",
-    "state": "FL",
+    "printed_name": "JOHN CORNYN",
+    "bioguide_id": "C001056",
+    "state": "TX",
     "district": null
    }
   },
   {
-   "file": "gen_s001217_nke.txt",
+   "file": "gen_c001056_cvx.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1035",
-   "filed_at": "2024-12-17",
+   "filed_at": "2026-02-14",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1035",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "RICK SCOTT",
-    "bioguide_id": "S001217",
-    "state": "FL",
+    "printed_name": "JOHN CORNYN",
+    "bioguide_id": "C001056",
+    "state": "TX",
     "district": null
    }
   },
   {
-   "file": "gen_s001217_tmus.txt",
+   "file": "gen_s001217_gs.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1036",
-   "filed_at": "2024-04-26",
+   "filed_at": "2026-11-27",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1036",
    "raw_kind": "pdf",
    "filer": {
@@ -631,11 +631,11 @@
    }
   },
   {
-   "file": "gen_s001217_hd.txt",
+   "file": "gen_s001217_duk.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1037",
-   "filed_at": "2024-09-06",
+   "filed_at": "2026-08-19",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1037",
    "raw_kind": "pdf",
    "filer": {
@@ -646,11 +646,11 @@
    }
   },
   {
-   "file": "gen_o000172_cl.txt",
+   "file": "gen_o000172_cost.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1038",
-   "filed_at": "2024-02-06",
+   "filed_at": "2026-05-10",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1038",
    "raw_kind": "pdf",
    "filer": {
@@ -661,11 +661,11 @@
    }
   },
   {
-   "file": "gen_o000172_t.txt",
+   "file": "gen_o000172_cost.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1039",
-   "filed_at": "2024-09-07",
+   "filed_at": "2025-11-06",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1039",
    "raw_kind": "pdf",
    "filer": {
@@ -676,26 +676,26 @@
    }
   },
   {
-   "file": "gen_h001042_dvn.txt",
-   "chamber": "senate",
-   "source": "senate_efd",
+   "file": "gen_o000172_jnj.txt",
+   "chamber": "house",
+   "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1040",
-   "filed_at": "2024-06-17",
+   "filed_at": "2025-11-15",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1040",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "MAZIE K. HIRONO",
-    "bioguide_id": "H001042",
-    "state": "HI",
-    "district": null
+    "printed_name": "ALEXANDRIA OCASIO-CORTEZ",
+    "bioguide_id": "O000172",
+    "state": "NY",
+    "district": 14
    }
   },
   {
-   "file": "gen_h001042_lmt.txt",
+   "file": "gen_h001042_pld.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1041",
-   "filed_at": "2025-03-02",
+   "filed_at": "2026-04-06",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1041",
    "raw_kind": "pdf",
    "filer": {
@@ -706,11 +706,11 @@
    }
   },
   {
-   "file": "gen_h001042_now.txt",
+   "file": "gen_h001042_mdlz.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1042",
-   "filed_at": "2024-06-02",
+   "filed_at": "2026-07-10",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1042",
    "raw_kind": "pdf",
    "filer": {
@@ -721,41 +721,41 @@
    }
   },
   {
-   "file": "gen_w000805_jpm.txt",
+   "file": "gen_h001042_so.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1043",
-   "filed_at": "2024-06-25",
+   "filed_at": "2025-12-26",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1043",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "MARK R. WARNER",
-    "bioguide_id": "W000805",
-    "state": "VA",
+    "printed_name": "MAZIE K. HIRONO",
+    "bioguide_id": "H001042",
+    "state": "HI",
     "district": null
    }
   },
   {
-   "file": "gen_w000805_xel.txt",
+   "file": "gen_h001042_t.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1044",
-   "filed_at": "2024-03-06",
+   "filed_at": "2026-02-18",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1044",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "MARK R. WARNER",
-    "bioguide_id": "W000805",
-    "state": "VA",
+    "printed_name": "MAZIE K. HIRONO",
+    "bioguide_id": "H001042",
+    "state": "HI",
     "district": null
    }
   },
   {
-   "file": "gen_w000805_cl.txt",
+   "file": "gen_w000805_wmt.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1045",
-   "filed_at": "2024-05-03",
+   "filed_at": "2026-01-13",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1045",
    "raw_kind": "pdf",
    "filer": {
@@ -766,26 +766,26 @@
    }
   },
   {
-   "file": "gen_e000294_t.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
+   "file": "gen_w000805_avgo.txt",
+   "chamber": "senate",
+   "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1046",
-   "filed_at": "2024-02-13",
+   "filed_at": "2026-05-06",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1046",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "TOM EMMER",
-    "bioguide_id": "E000294",
-    "state": "MN",
-    "district": 6
+    "printed_name": "MARK R. WARNER",
+    "bioguide_id": "W000805",
+    "state": "VA",
+    "district": null
    }
   },
   {
-   "file": "gen_e000294_mrk.txt",
+   "file": "gen_e000294_msft.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1047",
-   "filed_at": "2024-08-21",
+   "filed_at": "2026-09-27",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1047",
    "raw_kind": "pdf",
    "filer": {
@@ -796,11 +796,11 @@
    }
   },
   {
-   "file": "gen_e000294_crm.txt",
+   "file": "gen_e000294_ma.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1048",
-   "filed_at": "2024-04-13",
+   "filed_at": "2026-04-28",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1048",
    "raw_kind": "pdf",
    "filer": {
@@ -811,41 +811,41 @@
    }
   },
   {
-   "file": "gen_m000355_axp.txt",
-   "chamber": "senate",
-   "source": "senate_efd",
+   "file": "gen_e000294_nflx.txt",
+   "chamber": "house",
+   "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1049",
-   "filed_at": "2024-07-19",
+   "filed_at": "2025-12-01",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1049",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "MITCH MCCONNELL",
-    "bioguide_id": "M000355",
-    "state": "KY",
-    "district": null
+    "printed_name": "TOM EMMER",
+    "bioguide_id": "E000294",
+    "state": "MN",
+    "district": 6
    }
   },
   {
-   "file": "gen_m000355_mrk.txt",
-   "chamber": "senate",
-   "source": "senate_efd",
+   "file": "gen_e000294_low.txt",
+   "chamber": "house",
+   "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1050",
-   "filed_at": "2024-11-05",
+   "filed_at": "2026-01-24",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1050",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "MITCH MCCONNELL",
-    "bioguide_id": "M000355",
-    "state": "KY",
-    "district": null
+    "printed_name": "TOM EMMER",
+    "bioguide_id": "E000294",
+    "state": "MN",
+    "district": 6
    }
   },
   {
-   "file": "gen_m000355_lmt.txt",
+   "file": "gen_m000355_ba.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1051",
-   "filed_at": "2024-12-17",
+   "filed_at": "2026-07-28",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1051",
    "raw_kind": "pdf",
    "filer": {
@@ -856,11 +856,11 @@
    }
   },
   {
-   "file": "gen_m000355_intc.txt",
+   "file": "gen_m000355_tmus.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1052",
-   "filed_at": "2024-08-08",
+   "filed_at": "2026-09-11",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1052",
    "raw_kind": "pdf",
    "filer": {
@@ -871,26 +871,26 @@
    }
   },
   {
-   "file": "gen_r000575_slb.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
+   "file": "gen_m000355_vz.txt",
+   "chamber": "senate",
+   "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1053",
-   "filed_at": "2024-03-13",
+   "filed_at": "2026-08-26",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1053",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "MIKE ROGERS",
-    "bioguide_id": "R000575",
-    "state": "AL",
-    "district": 3
+    "printed_name": "MITCH MCCONNELL",
+    "bioguide_id": "M000355",
+    "state": "KY",
+    "district": null
    }
   },
   {
-   "file": "gen_r000575_rtx.txt",
+   "file": "gen_r000575_bac.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1054",
-   "filed_at": "2024-11-29",
+   "filed_at": "2026-10-04",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1054",
    "raw_kind": "pdf",
    "filer": {
@@ -901,11 +901,11 @@
    }
   },
   {
-   "file": "gen_r000575_amd.txt",
+   "file": "gen_r000575_nee.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1055",
-   "filed_at": "2024-05-12",
+   "filed_at": "2026-07-19",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1055",
    "raw_kind": "pdf",
    "filer": {
@@ -916,11 +916,11 @@
    }
   },
   {
-   "file": "gen_r000122_pep.txt",
+   "file": "gen_r000122_tsla.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1056",
-   "filed_at": "2024-08-07",
+   "filed_at": "2026-04-04",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1056",
    "raw_kind": "pdf",
    "filer": {
@@ -931,11 +931,11 @@
    }
   },
   {
-   "file": "gen_r000122_nflx.txt",
+   "file": "gen_r000122_wmt.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1057",
-   "filed_at": "2024-08-30",
+   "filed_at": "2026-03-10",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1057",
    "raw_kind": "pdf",
    "filer": {
@@ -946,11 +946,11 @@
    }
   },
   {
-   "file": "gen_j000293_ko.txt",
+   "file": "gen_j000293_tsla.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1058",
-   "filed_at": "2024-12-07",
+   "filed_at": "2026-09-06",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1058",
    "raw_kind": "pdf",
    "filer": {
@@ -961,11 +961,11 @@
    }
   },
   {
-   "file": "gen_j000293_avgo.txt",
+   "file": "gen_j000293_noc.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1059",
-   "filed_at": "2024-08-03",
+   "filed_at": "2026-01-23",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1059",
    "raw_kind": "pdf",
    "filer": {
@@ -976,11 +976,11 @@
    }
   },
   {
-   "file": "gen_j000293_cl.txt",
+   "file": "gen_j000293_blk.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1060",
-   "filed_at": "2024-08-22",
+   "filed_at": "2026-01-05",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1060",
    "raw_kind": "pdf",
    "filer": {
@@ -991,26 +991,26 @@
    }
   },
   {
-   "file": "gen_b001230_coin.txt",
+   "file": "gen_j000293_lly.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1061",
-   "filed_at": "2024-02-28",
+   "filed_at": "2026-08-21",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1061",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "TAMMY BALDWIN",
-    "bioguide_id": "B001230",
+    "printed_name": "RON JOHNSON",
+    "bioguide_id": "J000293",
     "state": "WI",
     "district": null
    }
   },
   {
-   "file": "gen_b001230_pld.txt",
+   "file": "gen_b001230_tsla.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1062",
-   "filed_at": "2024-10-26",
+   "filed_at": "2026-05-02",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1062",
    "raw_kind": "pdf",
    "filer": {
@@ -1021,11 +1021,11 @@
    }
   },
   {
-   "file": "gen_b001230_gs.txt",
+   "file": "gen_b001230_pep.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1063",
-   "filed_at": "2024-02-24",
+   "filed_at": "2026-03-12",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1063",
    "raw_kind": "pdf",
    "filer": {
@@ -1036,26 +1036,26 @@
    }
   },
   {
-   "file": "gen_b001230_blk.txt",
+   "file": "gen_p000595_nflx.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1064",
-   "filed_at": "2024-01-19",
+   "filed_at": "2026-05-28",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1064",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "TAMMY BALDWIN",
-    "bioguide_id": "B001230",
-    "state": "WI",
+    "printed_name": "GARY C. PETERS",
+    "bioguide_id": "P000595",
+    "state": "MI",
     "district": null
    }
   },
   {
-   "file": "gen_p000595_intc.txt",
+   "file": "gen_p000595_spg.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1065",
-   "filed_at": "2024-11-22",
+   "filed_at": "2026-08-21",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1065",
    "raw_kind": "pdf",
    "filer": {
@@ -1066,56 +1066,56 @@
    }
   },
   {
-   "file": "gen_p000595_t.txt",
+   "file": "gen_k000367_intc.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1066",
-   "filed_at": "2024-08-12",
+   "filed_at": "2026-11-01",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1066",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "GARY C. PETERS",
-    "bioguide_id": "P000595",
-    "state": "MI",
+    "printed_name": "AMY KLOBUCHAR",
+    "bioguide_id": "K000367",
+    "state": "MN",
     "district": null
    }
   },
   {
-   "file": "gen_p000595_mu.txt",
+   "file": "gen_k000367_aapl.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1067",
-   "filed_at": "2025-02-14",
+   "filed_at": "2026-10-30",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1067",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "GARY C. PETERS",
-    "bioguide_id": "P000595",
-    "state": "MI",
+    "printed_name": "AMY KLOBUCHAR",
+    "bioguide_id": "K000367",
+    "state": "MN",
     "district": null
    }
   },
   {
-   "file": "gen_p000595_xel.txt",
+   "file": "gen_k000367_pg.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1068",
-   "filed_at": "2025-03-02",
+   "filed_at": "2026-06-13",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1068",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "GARY C. PETERS",
-    "bioguide_id": "P000595",
-    "state": "MI",
+    "printed_name": "AMY KLOBUCHAR",
+    "bioguide_id": "K000367",
+    "state": "MN",
     "district": null
    }
   },
   {
-   "file": "gen_k000367_nke.txt",
+   "file": "gen_k000367_jnj.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1069",
-   "filed_at": "2024-03-19",
+   "filed_at": "2025-11-03",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1069",
    "raw_kind": "pdf",
    "filer": {
@@ -1126,41 +1126,41 @@
    }
   },
   {
-   "file": "gen_k000367_xel.txt",
+   "file": "gen_h001046_unh.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1070",
-   "filed_at": "2024-12-10",
+   "filed_at": "2025-12-21",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1070",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "AMY KLOBUCHAR",
-    "bioguide_id": "K000367",
-    "state": "MN",
+    "printed_name": "MARTIN HEINRICH",
+    "bioguide_id": "H001046",
+    "state": "NM",
     "district": null
    }
   },
   {
-   "file": "gen_k000367_lmt.txt",
+   "file": "gen_h001046_pfe.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1071",
-   "filed_at": "2024-12-26",
+   "filed_at": "2026-05-05",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1071",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "AMY KLOBUCHAR",
-    "bioguide_id": "K000367",
-    "state": "MN",
+    "printed_name": "MARTIN HEINRICH",
+    "bioguide_id": "H001046",
+    "state": "NM",
     "district": null
    }
   },
   {
-   "file": "gen_h001046_so.txt",
+   "file": "gen_h001046_meta.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1072",
-   "filed_at": "2024-09-28",
+   "filed_at": "2026-04-17",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1072",
    "raw_kind": "pdf",
    "filer": {
@@ -1171,26 +1171,26 @@
    }
   },
   {
-   "file": "gen_h001046_amd.txt",
+   "file": "gen_c001098_mu.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1073",
-   "filed_at": "2024-12-11",
+   "filed_at": "2026-04-20",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1073",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "MARTIN HEINRICH",
-    "bioguide_id": "H001046",
-    "state": "NM",
+    "printed_name": "TED CRUZ",
+    "bioguide_id": "C001098",
+    "state": "TX",
     "district": null
    }
   },
   {
-   "file": "gen_c001098_msft.txt",
+   "file": "gen_c001098_pep.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1074",
-   "filed_at": "2024-01-31",
+   "filed_at": "2026-08-30",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1074",
    "raw_kind": "pdf",
    "filer": {
@@ -1201,11 +1201,11 @@
    }
   },
   {
-   "file": "gen_c001098_mrk.txt",
+   "file": "gen_c001098_wmt.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1075",
-   "filed_at": "2024-05-25",
+   "filed_at": "2025-11-28",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1075",
    "raw_kind": "pdf",
    "filer": {
@@ -1216,11 +1216,11 @@
    }
   },
   {
-   "file": "gen_b001267_cop.txt",
+   "file": "gen_b001267_xel.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1076",
-   "filed_at": "2024-05-01",
+   "filed_at": "2025-11-05",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1076",
    "raw_kind": "pdf",
    "filer": {
@@ -1231,11 +1231,11 @@
    }
   },
   {
-   "file": "gen_b001267_isrg.txt",
+   "file": "gen_b001267_tsla.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1077",
-   "filed_at": "2024-05-11",
+   "filed_at": "2026-09-08",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1077",
    "raw_kind": "pdf",
    "filer": {
@@ -1246,26 +1246,26 @@
    }
   },
   {
-   "file": "gen_s001150_pld.txt",
+   "file": "gen_b001267_googl.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1078",
-   "filed_at": "2024-10-04",
+   "filed_at": "2026-12-18",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1078",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "ADAM B. SCHIFF",
-    "bioguide_id": "S001150",
-    "state": "CA",
+    "printed_name": "MICHAEL F. BENNET",
+    "bioguide_id": "B001267",
+    "state": "CO",
     "district": null
    }
   },
   {
-   "file": "gen_s001150_xel.txt",
+   "file": "gen_s001150_wmt.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1079",
-   "filed_at": "2024-11-16",
+   "filed_at": "2026-04-10",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1079",
    "raw_kind": "pdf",
    "filer": {
@@ -1276,11 +1276,11 @@
    }
   },
   {
-   "file": "gen_s001150_abbv.txt",
+   "file": "gen_s001150_aapl.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1080",
-   "filed_at": "2024-06-07",
+   "filed_at": "2026-04-10",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1080",
    "raw_kind": "pdf",
    "filer": {
@@ -1291,11 +1291,11 @@
    }
   },
   {
-   "file": "gen_s001150_nvda.txt",
+   "file": "gen_s001150_googl.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1081",
-   "filed_at": "2024-02-14",
+   "filed_at": "2026-02-16",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1081",
    "raw_kind": "pdf",
    "filer": {
@@ -1306,17 +1306,17 @@
    }
   },
   {
-   "file": "gen_w000779_nee.txt",
+   "file": "gen_s001150_pep.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1082",
-   "filed_at": "2024-06-24",
+   "filed_at": "2026-01-28",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1082",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "RON WYDEN",
-    "bioguide_id": "W000779",
-    "state": "OR",
+    "printed_name": "ADAM B. SCHIFF",
+    "bioguide_id": "S001150",
+    "state": "CA",
     "district": null
    }
   },
@@ -1325,7 +1325,7 @@
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1083",
-   "filed_at": "2024-07-23",
+   "filed_at": "2026-06-26",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1083",
    "raw_kind": "pdf",
    "filer": {
@@ -1336,11 +1336,11 @@
    }
   },
   {
-   "file": "gen_w000779_ge.txt",
+   "file": "gen_w000779_mrk.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1084",
-   "filed_at": "2024-03-03",
+   "filed_at": "2026-06-12",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1084",
    "raw_kind": "pdf",
    "filer": {
@@ -1351,26 +1351,26 @@
    }
   },
   {
-   "file": "gen_m001111_cl.txt",
+   "file": "gen_w000779_orcl.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1085",
-   "filed_at": "2024-12-06",
+   "filed_at": "2026-08-30",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1085",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "PATTY MURRAY",
-    "bioguide_id": "M001111",
-    "state": "WA",
+    "printed_name": "RON WYDEN",
+    "bioguide_id": "W000779",
+    "state": "OR",
     "district": null
    }
   },
   {
-   "file": "gen_m001111_msft.txt",
+   "file": "gen_m001111_adbe.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1086",
-   "filed_at": "2024-08-24",
+   "filed_at": "2025-12-03",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1086",
    "raw_kind": "pdf",
    "filer": {
@@ -1381,26 +1381,26 @@
    }
   },
   {
-   "file": "gen_s000510_hd.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
+   "file": "gen_m001111_anet.txt",
+   "chamber": "senate",
+   "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1087",
-   "filed_at": "2024-11-16",
+   "filed_at": "2026-09-20",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1087",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "ADAM SMITH",
-    "bioguide_id": "S000510",
+    "printed_name": "PATTY MURRAY",
+    "bioguide_id": "M001111",
     "state": "WA",
-    "district": 9
+    "district": null
    }
   },
   {
-   "file": "gen_s000510_t.txt",
+   "file": "gen_s000510_bac.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1088",
-   "filed_at": "2024-07-31",
+   "filed_at": "2026-07-11",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1088",
    "raw_kind": "pdf",
    "filer": {
@@ -1411,11 +1411,11 @@
    }
   },
   {
-   "file": "gen_s000510_hd.txt",
+   "file": "gen_s000510_pfe.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1089",
-   "filed_at": "2024-12-17",
+   "filed_at": "2026-06-25",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1089",
    "raw_kind": "pdf",
    "filer": {
@@ -1426,41 +1426,41 @@
    }
   },
   {
-   "file": "gen_n000002_cl.txt",
+   "file": "gen_s000510_pep.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1090",
-   "filed_at": "2024-10-01",
+   "filed_at": "2026-04-04",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1090",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JERROLD NADLER",
-    "bioguide_id": "N000002",
-    "state": "NY",
-    "district": 12
+    "printed_name": "ADAM SMITH",
+    "bioguide_id": "S000510",
+    "state": "WA",
+    "district": 9
    }
   },
   {
-   "file": "gen_n000002_blk.txt",
+   "file": "gen_s000510_tsla.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1091",
-   "filed_at": "2024-06-10",
+   "filed_at": "2026-08-02",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1091",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JERROLD NADLER",
-    "bioguide_id": "N000002",
-    "state": "NY",
-    "district": 12
+    "printed_name": "ADAM SMITH",
+    "bioguide_id": "S000510",
+    "state": "WA",
+    "district": 9
    }
   },
   {
-   "file": "gen_n000002_orcl.txt",
+   "file": "gen_n000002_mrk.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1092",
-   "filed_at": "2024-03-14",
+   "filed_at": "2026-04-28",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1092",
    "raw_kind": "pdf",
    "filer": {
@@ -1471,11 +1471,11 @@
    }
   },
   {
-   "file": "gen_n000002_wmt.txt",
+   "file": "gen_n000002_isrg.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1093",
-   "filed_at": "2024-12-29",
+   "filed_at": "2026-01-27",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1093",
    "raw_kind": "pdf",
    "filer": {
@@ -1486,41 +1486,41 @@
    }
   },
   {
-   "file": "gen_c001067_psx.txt",
+   "file": "gen_n000002_crm.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1094",
-   "filed_at": "2024-06-12",
+   "filed_at": "2027-01-05",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1094",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "YVETTE D. CLARKE",
-    "bioguide_id": "C001067",
+    "printed_name": "JERROLD NADLER",
+    "bioguide_id": "N000002",
     "state": "NY",
-    "district": 9
+    "district": 12
    }
   },
   {
-   "file": "gen_c001067_blk.txt",
+   "file": "gen_n000002_rtx.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1095",
-   "filed_at": "2024-11-10",
+   "filed_at": "2025-12-10",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1095",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "YVETTE D. CLARKE",
-    "bioguide_id": "C001067",
+    "printed_name": "JERROLD NADLER",
+    "bioguide_id": "N000002",
     "state": "NY",
-    "district": 9
+    "district": 12
    }
   },
   {
-   "file": "gen_c001067_jnj.txt",
+   "file": "gen_c001067_msft.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1096",
-   "filed_at": "2025-01-11",
+   "filed_at": "2026-05-28",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1096",
    "raw_kind": "pdf",
    "filer": {
@@ -1531,41 +1531,41 @@
    }
   },
   {
-   "file": "gen_g000546_anet.txt",
+   "file": "gen_c001067_slb.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1097",
-   "filed_at": "2024-07-22",
+   "filed_at": "2026-09-07",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1097",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "SAM GRAVES",
-    "bioguide_id": "G000546",
-    "state": "MO",
-    "district": 6
+    "printed_name": "YVETTE D. CLARKE",
+    "bioguide_id": "C001067",
+    "state": "NY",
+    "district": 9
    }
   },
   {
-   "file": "gen_g000546_tmus.txt",
+   "file": "gen_c001067_tsla.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1098",
-   "filed_at": "2024-10-26",
+   "filed_at": "2026-05-13",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1098",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "SAM GRAVES",
-    "bioguide_id": "G000546",
-    "state": "MO",
-    "district": 6
+    "printed_name": "YVETTE D. CLARKE",
+    "bioguide_id": "C001067",
+    "state": "NY",
+    "district": 9
    }
   },
   {
-   "file": "gen_g000546_cat.txt",
+   "file": "gen_g000546_pfe.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1099",
-   "filed_at": "2024-03-21",
+   "filed_at": "2026-08-05",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1099",
    "raw_kind": "pdf",
    "filer": {
@@ -1576,11 +1576,11 @@
    }
   },
   {
-   "file": "gen_g000546_nflx.txt",
+   "file": "gen_g000546_so.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1100",
-   "filed_at": "2025-02-13",
+   "filed_at": "2025-12-04",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1100",
    "raw_kind": "pdf",
    "filer": {
@@ -1591,26 +1591,26 @@
    }
   },
   {
-   "file": "gen_d000628_vrtx.txt",
+   "file": "gen_g000546_amd.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1101",
-   "filed_at": "2024-08-29",
+   "filed_at": "2026-03-21",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1101",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "NEAL P. DUNN",
-    "bioguide_id": "D000628",
-    "state": "FL",
-    "district": 2
+    "printed_name": "SAM GRAVES",
+    "bioguide_id": "G000546",
+    "state": "MO",
+    "district": 6
    }
   },
   {
-   "file": "gen_d000628_coin.txt",
+   "file": "gen_d000628_mcd.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1102",
-   "filed_at": "2024-07-27",
+   "filed_at": "2026-11-03",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1102",
    "raw_kind": "pdf",
    "filer": {
@@ -1621,26 +1621,26 @@
    }
   },
   {
-   "file": "gen_j000299_amzn.txt",
+   "file": "gen_d000628_psx.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1103",
-   "filed_at": "2024-09-03",
+   "filed_at": "2025-10-31",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1103",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "MIKE JOHNSON",
-    "bioguide_id": "J000299",
-    "state": "LA",
-    "district": 4
+    "printed_name": "NEAL P. DUNN",
+    "bioguide_id": "D000628",
+    "state": "FL",
+    "district": 2
    }
   },
   {
-   "file": "gen_j000299_cop.txt",
+   "file": "gen_j000299_jpm.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1104",
-   "filed_at": "2024-07-10",
+   "filed_at": "2026-07-07",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1104",
    "raw_kind": "pdf",
    "filer": {
@@ -1651,11 +1651,11 @@
    }
   },
   {
-   "file": "gen_j000299_pg.txt",
+   "file": "gen_j000299_amzn.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1105",
-   "filed_at": "2024-06-18",
+   "filed_at": "2026-02-13",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1105",
    "raw_kind": "pdf",
    "filer": {
@@ -1666,26 +1666,26 @@
    }
   },
   {
-   "file": "gen_l000577_cl.txt",
-   "chamber": "senate",
-   "source": "senate_efd",
+   "file": "gen_j000299_dis.txt",
+   "chamber": "house",
+   "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1106",
-   "filed_at": "2024-05-13",
+   "filed_at": "2026-04-16",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1106",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "MIKE LEE",
-    "bioguide_id": "L000577",
-    "state": "UT",
-    "district": null
+    "printed_name": "MIKE JOHNSON",
+    "bioguide_id": "J000299",
+    "state": "LA",
+    "district": 4
    }
   },
   {
-   "file": "gen_l000577_low.txt",
+   "file": "gen_l000577_lmt.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1107",
-   "filed_at": "2024-10-02",
+   "filed_at": "2026-12-14",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1107",
    "raw_kind": "pdf",
    "filer": {
@@ -1700,7 +1700,7 @@
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1108",
-   "filed_at": "2024-10-09",
+   "filed_at": "2026-05-09",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1108",
    "raw_kind": "pdf",
    "filer": {
@@ -1711,11 +1711,11 @@
    }
   },
   {
-   "file": "gen_l000577_duk.txt",
+   "file": "gen_l000577_amt.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1109",
-   "filed_at": "2024-02-28",
+   "filed_at": "2026-01-23",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1109",
    "raw_kind": "pdf",
    "filer": {
@@ -1726,11 +1726,11 @@
    }
   },
   {
-   "file": "gen_c001095_wmt.txt",
+   "file": "gen_c001095_cat.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1110",
-   "filed_at": "2024-03-15",
+   "filed_at": "2026-09-05",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1110",
    "raw_kind": "pdf",
    "filer": {
@@ -1741,11 +1741,11 @@
    }
   },
   {
-   "file": "gen_c001095_mu.txt",
+   "file": "gen_c001095_orcl.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1111",
-   "filed_at": "2024-10-18",
+   "filed_at": "2026-03-30",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1111",
    "raw_kind": "pdf",
    "filer": {
@@ -1756,11 +1756,11 @@
    }
   },
   {
-   "file": "gen_c001095_pep.txt",
+   "file": "gen_c001095_wmt.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1112",
-   "filed_at": "2024-03-11",
+   "filed_at": "2026-04-13",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1112",
    "raw_kind": "pdf",
    "filer": {
@@ -1771,26 +1771,26 @@
    }
   },
   {
-   "file": "gen_c001095_lmt.txt",
+   "file": "gen_s001198_cl.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1113",
-   "filed_at": "2024-02-06",
+   "filed_at": "2026-02-06",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1113",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "TOM COTTON",
-    "bioguide_id": "C001095",
-    "state": "AR",
+    "printed_name": "DAN SULLIVAN",
+    "bioguide_id": "S001198",
+    "state": "AK",
     "district": null
    }
   },
   {
-   "file": "gen_s001198_ge.txt",
+   "file": "gen_s001198_blk.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1114",
-   "filed_at": "2025-02-03",
+   "filed_at": "2026-03-27",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1114",
    "raw_kind": "pdf",
    "filer": {
@@ -1801,11 +1801,11 @@
    }
   },
   {
-   "file": "gen_s001198_nflx.txt",
+   "file": "gen_s001198_duk.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1115",
-   "filed_at": "2024-03-31",
+   "filed_at": "2025-11-14",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1115",
    "raw_kind": "pdf",
    "filer": {
@@ -1816,41 +1816,41 @@
    }
   },
   {
-   "file": "gen_s001198_avgo.txt",
-   "chamber": "senate",
-   "source": "senate_efd",
+   "file": "gen_m001208_hon.txt",
+   "chamber": "house",
+   "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1116",
-   "filed_at": "2024-12-07",
+   "filed_at": "2025-12-24",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1116",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "DAN SULLIVAN",
-    "bioguide_id": "S001198",
-    "state": "AK",
-    "district": null
+    "printed_name": "LUCY MCBATH",
+    "bioguide_id": "M001208",
+    "state": "GA",
+    "district": 6
    }
   },
   {
-   "file": "gen_s001198_pfe.txt",
-   "chamber": "senate",
-   "source": "senate_efd",
+   "file": "gen_m001208_so.txt",
+   "chamber": "house",
+   "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1117",
-   "filed_at": "2024-09-02",
+   "filed_at": "2026-07-13",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1117",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "DAN SULLIVAN",
-    "bioguide_id": "S001198",
-    "state": "AK",
-    "district": null
+    "printed_name": "LUCY MCBATH",
+    "bioguide_id": "M001208",
+    "state": "GA",
+    "district": 6
    }
   },
   {
-   "file": "gen_m001208_ko.txt",
+   "file": "gen_m001208_cat.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1118",
-   "filed_at": "2024-05-17",
+   "filed_at": "2026-05-01",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1118",
    "raw_kind": "pdf",
    "filer": {
@@ -1861,26 +1861,26 @@
    }
   },
   {
-   "file": "gen_m001208_duk.txt",
+   "file": "gen_o000173_mrk.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1119",
-   "filed_at": "2025-02-06",
+   "filed_at": "2026-07-26",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1119",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "LUCY MCBATH",
-    "bioguide_id": "M001208",
-    "state": "GA",
-    "district": 6
+    "printed_name": "ILHAN OMAR",
+    "bioguide_id": "O000173",
+    "state": "MN",
+    "district": 5
    }
   },
   {
-   "file": "gen_o000173_pep.txt",
+   "file": "gen_o000173_low.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1120",
-   "filed_at": "2024-09-20",
+   "filed_at": "2026-02-23",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1120",
    "raw_kind": "pdf",
    "filer": {
@@ -1891,26 +1891,26 @@
    }
   },
   {
-   "file": "gen_o000173_duk.txt",
+   "file": "gen_b001285_lly.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1121",
-   "filed_at": "2024-09-29",
+   "filed_at": "2026-07-16",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1121",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "ILHAN OMAR",
-    "bioguide_id": "O000173",
-    "state": "MN",
-    "district": 5
+    "printed_name": "JULIA BROWNLEY",
+    "bioguide_id": "B001285",
+    "state": "CA",
+    "district": 26
    }
   },
   {
-   "file": "gen_b001285_now.txt",
+   "file": "gen_b001285_wmt.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1122",
-   "filed_at": "2024-02-25",
+   "filed_at": "2025-11-22",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1122",
    "raw_kind": "pdf",
    "filer": {
@@ -1921,11 +1921,11 @@
    }
   },
   {
-   "file": "gen_b001285_cl.txt",
+   "file": "gen_b001285_unp.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1123",
-   "filed_at": "2024-12-27",
+   "filed_at": "2026-05-12",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1123",
    "raw_kind": "pdf",
    "filer": {
@@ -1936,11 +1936,11 @@
    }
   },
   {
-   "file": "gen_g000583_lly.txt",
+   "file": "gen_g000583_vz.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1124",
-   "filed_at": "2024-08-06",
+   "filed_at": "2026-05-18",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1124",
    "raw_kind": "pdf",
    "filer": {
@@ -1951,11 +1951,11 @@
    }
   },
   {
-   "file": "gen_g000583_axp.txt",
+   "file": "gen_g000583_amt.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1125",
-   "filed_at": "2025-01-08",
+   "filed_at": "2025-11-12",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1125",
    "raw_kind": "pdf",
    "filer": {
@@ -1966,41 +1966,41 @@
    }
   },
   {
-   "file": "gen_g000583_duk.txt",
+   "file": "gen_c001103_tmus.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1126",
-   "filed_at": "2024-03-11",
+   "filed_at": "2026-03-30",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1126",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JOSH GOTTHEIMER",
-    "bioguide_id": "G000583",
-    "state": "NJ",
-    "district": 5
+    "printed_name": "EARL L. BUDDY CARTER",
+    "bioguide_id": "C001103",
+    "state": "GA",
+    "district": 1
    }
   },
   {
-   "file": "gen_g000583_low.txt",
+   "file": "gen_c001103_spg.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1127",
-   "filed_at": "2024-07-27",
+   "filed_at": "2025-10-30",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1127",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JOSH GOTTHEIMER",
-    "bioguide_id": "G000583",
-    "state": "NJ",
-    "district": 5
+    "printed_name": "EARL L. BUDDY CARTER",
+    "bioguide_id": "C001103",
+    "state": "GA",
+    "district": 1
    }
   },
   {
-   "file": "gen_c001103_vz.txt",
+   "file": "gen_c001103_nflx.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1128",
-   "filed_at": "2024-06-06",
+   "filed_at": "2026-08-17",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1128",
    "raw_kind": "pdf",
    "filer": {
@@ -2011,1992 +2011,1842 @@
    }
   },
   {
-   "file": "gen_c001103_cl.txt",
+   "file": "gen_w000812_avgo.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1129",
-   "filed_at": "2024-06-27",
+   "filed_at": "2026-05-11",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1129",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "EARL L. BUDDY CARTER",
-    "bioguide_id": "C001103",
-    "state": "GA",
-    "district": 1
+    "printed_name": "ANN WAGNER",
+    "bioguide_id": "W000812",
+    "state": "MO",
+    "district": 2
    }
   },
   {
-   "file": "gen_c001103_ko.txt",
+   "file": "gen_w000812_aapl.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1130",
-   "filed_at": "2024-02-25",
+   "filed_at": "2025-12-11",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1130",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "EARL L. BUDDY CARTER",
-    "bioguide_id": "C001103",
-    "state": "GA",
-    "district": 1
-   }
-  },
-  {
-   "file": "gen_w000812_vz.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
-   "external_doc_id": "FTM-GEN-1131",
-   "filed_at": "2024-06-29",
-   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1131",
-   "raw_kind": "pdf",
-   "filer": {
     "printed_name": "ANN WAGNER",
     "bioguide_id": "W000812",
     "state": "MO",
     "district": 2
-   }
-  },
-  {
-   "file": "gen_w000812_mrk.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
-   "external_doc_id": "FTM-GEN-1132",
-   "filed_at": "2024-05-23",
-   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1132",
-   "raw_kind": "pdf",
-   "filer": {
-    "printed_name": "ANN WAGNER",
-    "bioguide_id": "W000812",
-    "state": "MO",
-    "district": 2
-   }
-  },
-  {
-   "file": "gen_w000812_pg.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
-   "external_doc_id": "FTM-GEN-1133",
-   "filed_at": "2024-09-22",
-   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1133",
-   "raw_kind": "pdf",
-   "filer": {
-    "printed_name": "ANN WAGNER",
-    "bioguide_id": "W000812",
-    "state": "MO",
-    "district": 2
-   }
-  },
-  {
-   "file": "gen_w000812_gs.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
-   "external_doc_id": "FTM-GEN-1134",
-   "filed_at": "2024-08-24",
-   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1134",
-   "raw_kind": "pdf",
-   "filer": {
-    "printed_name": "ANN WAGNER",
-    "bioguide_id": "W000812",
-    "state": "MO",
-    "district": 2
-   }
-  },
-  {
-   "file": "gen_d000617_ko.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
-   "external_doc_id": "FTM-GEN-1135",
-   "filed_at": "2024-06-14",
-   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1135",
-   "raw_kind": "pdf",
-   "filer": {
-    "printed_name": "SUZAN K. DELBENE",
-    "bioguide_id": "D000617",
-    "state": "WA",
-    "district": 1
    }
   },
   {
    "file": "gen_d000617_pg.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
+   "external_doc_id": "FTM-GEN-1131",
+   "filed_at": "2026-08-06",
+   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1131",
+   "raw_kind": "pdf",
+   "filer": {
+    "printed_name": "SUZAN K. DELBENE",
+    "bioguide_id": "D000617",
+    "state": "WA",
+    "district": 1
+   }
+  },
+  {
+   "file": "gen_d000617_unh.txt",
+   "chamber": "house",
+   "source": "house_clerk_yearly",
+   "external_doc_id": "FTM-GEN-1132",
+   "filed_at": "2026-06-20",
+   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1132",
+   "raw_kind": "pdf",
+   "filer": {
+    "printed_name": "SUZAN K. DELBENE",
+    "bioguide_id": "D000617",
+    "state": "WA",
+    "district": 1
+   }
+  },
+  {
+   "file": "gen_b001260_pfe.txt",
+   "chamber": "house",
+   "source": "house_clerk_yearly",
+   "external_doc_id": "FTM-GEN-1133",
+   "filed_at": "2026-03-15",
+   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1133",
+   "raw_kind": "pdf",
+   "filer": {
+    "printed_name": "VERN BUCHANAN",
+    "bioguide_id": "B001260",
+    "state": "FL",
+    "district": 16
+   }
+  },
+  {
+   "file": "gen_b001260_tsla.txt",
+   "chamber": "house",
+   "source": "house_clerk_yearly",
+   "external_doc_id": "FTM-GEN-1134",
+   "filed_at": "2025-12-08",
+   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1134",
+   "raw_kind": "pdf",
+   "filer": {
+    "printed_name": "VERN BUCHANAN",
+    "bioguide_id": "B001260",
+    "state": "FL",
+    "district": 16
+   }
+  },
+  {
+   "file": "gen_b001260_ma.txt",
+   "chamber": "house",
+   "source": "house_clerk_yearly",
+   "external_doc_id": "FTM-GEN-1135",
+   "filed_at": "2026-03-02",
+   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1135",
+   "raw_kind": "pdf",
+   "filer": {
+    "printed_name": "VERN BUCHANAN",
+    "bioguide_id": "B001260",
+    "state": "FL",
+    "district": 16
+   }
+  },
+  {
+   "file": "gen_b001260_low.txt",
+   "chamber": "house",
+   "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1136",
-   "filed_at": "2024-11-06",
+   "filed_at": "2026-07-06",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1136",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "SUZAN K. DELBENE",
-    "bioguide_id": "D000617",
-    "state": "WA",
-    "district": 1
+    "printed_name": "VERN BUCHANAN",
+    "bioguide_id": "B001260",
+    "state": "FL",
+    "district": 16
    }
   },
   {
-   "file": "gen_d000617_dis.txt",
+   "file": "gen_f000462_amzn.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1137",
-   "filed_at": "2025-01-12",
+   "filed_at": "2026-04-03",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1137",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "SUZAN K. DELBENE",
-    "bioguide_id": "D000617",
-    "state": "WA",
-    "district": 1
+    "printed_name": "LOIS FRANKEL",
+    "bioguide_id": "F000462",
+    "state": "FL",
+    "district": 22
    }
   },
   {
-   "file": "gen_b001260_wmt.txt",
+   "file": "gen_f000462_lly.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1138",
-   "filed_at": "2024-09-14",
+   "filed_at": "2026-03-15",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1138",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "VERN BUCHANAN",
-    "bioguide_id": "B001260",
+    "printed_name": "LOIS FRANKEL",
+    "bioguide_id": "F000462",
     "state": "FL",
-    "district": 16
+    "district": 22
    }
   },
   {
-   "file": "gen_b001260_duk.txt",
+   "file": "gen_l000582_axp.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1139",
-   "filed_at": "2024-06-24",
+   "filed_at": "2025-10-23",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1139",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "VERN BUCHANAN",
-    "bioguide_id": "B001260",
-    "state": "FL",
-    "district": 16
+    "printed_name": "TED LIEU",
+    "bioguide_id": "L000582",
+    "state": "CA",
+    "district": 36
    }
   },
   {
-   "file": "gen_b001260_meta.txt",
+   "file": "gen_l000582_spg.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1140",
-   "filed_at": "2024-10-25",
+   "filed_at": "2026-08-07",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1140",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "VERN BUCHANAN",
-    "bioguide_id": "B001260",
-    "state": "FL",
-    "district": 16
+    "printed_name": "TED LIEU",
+    "bioguide_id": "L000582",
+    "state": "CA",
+    "district": 36
    }
   },
   {
-   "file": "gen_b001260_axp.txt",
+   "file": "gen_l000582_msft.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1141",
-   "filed_at": "2024-08-24",
+   "filed_at": "2026-03-30",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1141",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "VERN BUCHANAN",
-    "bioguide_id": "B001260",
-    "state": "FL",
-    "district": 16
+    "printed_name": "TED LIEU",
+    "bioguide_id": "L000582",
+    "state": "CA",
+    "district": 36
    }
   },
   {
-   "file": "gen_f000462_nee.txt",
+   "file": "gen_s000344_coin.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1142",
-   "filed_at": "2024-12-06",
+   "filed_at": "2026-04-21",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1142",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "LOIS FRANKEL",
-    "bioguide_id": "F000462",
-    "state": "FL",
-    "district": 22
+    "printed_name": "BRAD SHERMAN",
+    "bioguide_id": "S000344",
+    "state": "CA",
+    "district": 32
    }
   },
   {
-   "file": "gen_f000462_mdlz.txt",
+   "file": "gen_s000344_tmus.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1143",
-   "filed_at": "2024-03-07",
+   "filed_at": "2026-05-28",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1143",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "LOIS FRANKEL",
-    "bioguide_id": "F000462",
-    "state": "FL",
-    "district": 22
+    "printed_name": "BRAD SHERMAN",
+    "bioguide_id": "S000344",
+    "state": "CA",
+    "district": 32
    }
   },
   {
-   "file": "gen_f000462_pg.txt",
+   "file": "gen_s000344_ge.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1144",
-   "filed_at": "2024-11-25",
+   "filed_at": "2026-05-26",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1144",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "LOIS FRANKEL",
-    "bioguide_id": "F000462",
-    "state": "FL",
-    "district": 22
+    "printed_name": "BRAD SHERMAN",
+    "bioguide_id": "S000344",
+    "state": "CA",
+    "district": 32
    }
   },
   {
-   "file": "gen_l000582_mrk.txt",
+   "file": "gen_s000344_abbv.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1145",
-   "filed_at": "2024-07-11",
+   "filed_at": "2026-04-04",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1145",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "TED LIEU",
-    "bioguide_id": "L000582",
+    "printed_name": "BRAD SHERMAN",
+    "bioguide_id": "S000344",
     "state": "CA",
-    "district": 36
+    "district": 32
    }
   },
   {
-   "file": "gen_l000582_intc.txt",
+   "file": "gen_h001047_coin.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1146",
-   "filed_at": "2024-06-06",
+   "filed_at": "2026-06-27",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1146",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "TED LIEU",
-    "bioguide_id": "L000582",
-    "state": "CA",
-    "district": 36
+    "printed_name": "JAMES A. HIMES",
+    "bioguide_id": "H001047",
+    "state": "CT",
+    "district": 4
    }
   },
   {
-   "file": "gen_l000582_nee.txt",
+   "file": "gen_h001047_cat.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1147",
-   "filed_at": "2024-04-09",
+   "filed_at": "2025-10-07",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1147",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "TED LIEU",
-    "bioguide_id": "L000582",
-    "state": "CA",
-    "district": 36
+    "printed_name": "JAMES A. HIMES",
+    "bioguide_id": "H001047",
+    "state": "CT",
+    "district": 4
    }
   },
   {
-   "file": "gen_l000582_intc.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
+   "file": "gen_k000384_amd.txt",
+   "chamber": "senate",
+   "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1148",
-   "filed_at": "2024-10-24",
+   "filed_at": "2026-04-12",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1148",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "TED LIEU",
-    "bioguide_id": "L000582",
-    "state": "CA",
-    "district": 36
+    "printed_name": "TIM KAINE",
+    "bioguide_id": "K000384",
+    "state": "VA",
+    "district": null
    }
   },
   {
-   "file": "gen_s000344_spg.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
+   "file": "gen_k000384_adbe.txt",
+   "chamber": "senate",
+   "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1149",
-   "filed_at": "2024-05-07",
+   "filed_at": "2026-09-25",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1149",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "BRAD SHERMAN",
-    "bioguide_id": "S000344",
-    "state": "CA",
-    "district": 32
+    "printed_name": "TIM KAINE",
+    "bioguide_id": "K000384",
+    "state": "VA",
+    "district": null
    }
   },
   {
-   "file": "gen_s000344_blk.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
+   "file": "gen_k000384_ko.txt",
+   "chamber": "senate",
+   "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1150",
-   "filed_at": "2024-11-21",
+   "filed_at": "2026-07-20",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1150",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "BRAD SHERMAN",
-    "bioguide_id": "S000344",
-    "state": "CA",
-    "district": 32
+    "printed_name": "TIM KAINE",
+    "bioguide_id": "K000384",
+    "state": "VA",
+    "district": null
    }
   },
   {
-   "file": "gen_s000344_ba.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
+   "file": "gen_k000384_ma.txt",
+   "chamber": "senate",
+   "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1151",
-   "filed_at": "2024-03-11",
+   "filed_at": "2026-04-16",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1151",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "BRAD SHERMAN",
-    "bioguide_id": "S000344",
-    "state": "CA",
-    "district": 32
+    "printed_name": "TIM KAINE",
+    "bioguide_id": "K000384",
+    "state": "VA",
+    "district": null
    }
   },
   {
-   "file": "gen_s000344_aapl.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
+   "file": "gen_b001288_jnj.txt",
+   "chamber": "senate",
+   "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1152",
-   "filed_at": "2025-01-17",
+   "filed_at": "2026-07-01",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1152",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "BRAD SHERMAN",
-    "bioguide_id": "S000344",
-    "state": "CA",
-    "district": 32
+    "printed_name": "CORY A. BOOKER",
+    "bioguide_id": "B001288",
+    "state": "NJ",
+    "district": null
    }
   },
   {
-   "file": "gen_h001047_now.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
+   "file": "gen_b001288_amt.txt",
+   "chamber": "senate",
+   "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1153",
-   "filed_at": "2024-03-24",
+   "filed_at": "2026-03-16",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1153",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JAMES A. HIMES",
-    "bioguide_id": "H001047",
-    "state": "CT",
-    "district": 4
+    "printed_name": "CORY A. BOOKER",
+    "bioguide_id": "B001288",
+    "state": "NJ",
+    "district": null
    }
   },
   {
-   "file": "gen_h001047_pfe.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
+   "file": "gen_b001288_so.txt",
+   "chamber": "senate",
+   "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1154",
-   "filed_at": "2024-09-12",
+   "filed_at": "2025-10-13",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1154",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JAMES A. HIMES",
-    "bioguide_id": "H001047",
-    "state": "CT",
-    "district": 4
+    "printed_name": "CORY A. BOOKER",
+    "bioguide_id": "B001288",
+    "state": "NJ",
+    "district": null
    }
   },
   {
-   "file": "gen_k000384_orcl.txt",
+   "file": "gen_v000128_ms.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1155",
-   "filed_at": "2024-10-22",
+   "filed_at": "2027-01-28",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1155",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "TIM KAINE",
-    "bioguide_id": "K000384",
-    "state": "VA",
+    "printed_name": "CHRIS VAN HOLLEN",
+    "bioguide_id": "V000128",
+    "state": "MD",
     "district": null
    }
   },
   {
-   "file": "gen_k000384_slb.txt",
+   "file": "gen_v000128_msft.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1156",
-   "filed_at": "2024-08-05",
+   "filed_at": "2025-10-30",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1156",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "TIM KAINE",
-    "bioguide_id": "K000384",
-    "state": "VA",
+    "printed_name": "CHRIS VAN HOLLEN",
+    "bioguide_id": "V000128",
+    "state": "MD",
     "district": null
    }
   },
   {
-   "file": "gen_k000384_jpm.txt",
+   "file": "gen_v000128_wmt.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1157",
-   "filed_at": "2024-08-02",
+   "filed_at": "2025-10-27",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1157",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "TIM KAINE",
-    "bioguide_id": "K000384",
-    "state": "VA",
+    "printed_name": "CHRIS VAN HOLLEN",
+    "bioguide_id": "V000128",
+    "state": "MD",
     "district": null
    }
   },
   {
-   "file": "gen_k000384_pld.txt",
+   "file": "gen_h001061_mdlz.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1158",
-   "filed_at": "2024-03-15",
+   "filed_at": "2026-09-05",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1158",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "TIM KAINE",
-    "bioguide_id": "K000384",
-    "state": "VA",
+    "printed_name": "JOHN HOEVEN",
+    "bioguide_id": "H001061",
+    "state": "ND",
     "district": null
    }
   },
   {
-   "file": "gen_b001288_pld.txt",
+   "file": "gen_h001061_mdlz.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1159",
-   "filed_at": "2024-02-07",
+   "filed_at": "2026-11-18",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1159",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "CORY A. BOOKER",
-    "bioguide_id": "B001288",
-    "state": "NJ",
+    "printed_name": "JOHN HOEVEN",
+    "bioguide_id": "H001061",
+    "state": "ND",
     "district": null
    }
   },
   {
-   "file": "gen_b001288_pg.txt",
+   "file": "gen_h001061_hd.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1160",
-   "filed_at": "2024-02-21",
+   "filed_at": "2025-11-30",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1160",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "CORY A. BOOKER",
-    "bioguide_id": "B001288",
-    "state": "NJ",
+    "printed_name": "JOHN HOEVEN",
+    "bioguide_id": "H001061",
+    "state": "ND",
     "district": null
    }
   },
   {
-   "file": "gen_b001288_pg.txt",
+   "file": "gen_c001113_mdlz.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1161",
-   "filed_at": "2024-04-05",
+   "filed_at": "2026-08-03",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1161",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "CORY A. BOOKER",
-    "bioguide_id": "B001288",
-    "state": "NJ",
+    "printed_name": "CATHERINE CORTEZ MASTO",
+    "bioguide_id": "C001113",
+    "state": "NV",
     "district": null
    }
   },
   {
-   "file": "gen_b001288_anet.txt",
+   "file": "gen_c001113_mdlz.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1162",
-   "filed_at": "2024-11-07",
+   "filed_at": "2025-11-22",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1162",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "CORY A. BOOKER",
-    "bioguide_id": "B001288",
-    "state": "NJ",
+    "printed_name": "CATHERINE CORTEZ MASTO",
+    "bioguide_id": "C001113",
+    "state": "NV",
     "district": null
    }
   },
   {
-   "file": "gen_v000128_anet.txt",
+   "file": "gen_e000295_duk.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1163",
-   "filed_at": "2024-11-09",
+   "filed_at": "2026-10-13",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1163",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "CHRIS VAN HOLLEN",
-    "bioguide_id": "V000128",
-    "state": "MD",
+    "printed_name": "JONI ERNST",
+    "bioguide_id": "E000295",
+    "state": "IA",
     "district": null
    }
   },
   {
-   "file": "gen_v000128_nflx.txt",
+   "file": "gen_e000295_blk.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1164",
-   "filed_at": "2024-09-23",
+   "filed_at": "2026-08-13",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1164",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "CHRIS VAN HOLLEN",
-    "bioguide_id": "V000128",
-    "state": "MD",
+    "printed_name": "JONI ERNST",
+    "bioguide_id": "E000295",
+    "state": "IA",
     "district": null
    }
   },
   {
-   "file": "gen_v000128_cost.txt",
+   "file": "gen_l000575_ms.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1165",
-   "filed_at": "2025-01-10",
+   "filed_at": "2026-03-26",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1165",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "CHRIS VAN HOLLEN",
-    "bioguide_id": "V000128",
-    "state": "MD",
+    "printed_name": "JAMES LANKFORD",
+    "bioguide_id": "L000575",
+    "state": "OK",
     "district": null
    }
   },
   {
-   "file": "gen_v000128_ma.txt",
+   "file": "gen_l000575_schw.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1166",
-   "filed_at": "2024-05-09",
+   "filed_at": "2026-09-18",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1166",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "CHRIS VAN HOLLEN",
-    "bioguide_id": "V000128",
-    "state": "MD",
+    "printed_name": "JAMES LANKFORD",
+    "bioguide_id": "L000575",
+    "state": "OK",
     "district": null
    }
   },
   {
-   "file": "gen_h001061_pld.txt",
+   "file": "gen_l000575_nflx.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1167",
-   "filed_at": "2024-09-18",
+   "filed_at": "2026-10-01",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1167",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JOHN HOEVEN",
-    "bioguide_id": "H001061",
-    "state": "ND",
+    "printed_name": "JAMES LANKFORD",
+    "bioguide_id": "L000575",
+    "state": "OK",
     "district": null
    }
   },
   {
-   "file": "gen_h001061_nee.txt",
+   "file": "gen_l000575_dis.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1168",
-   "filed_at": "2024-04-12",
+   "filed_at": "2025-11-08",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1168",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JOHN HOEVEN",
-    "bioguide_id": "H001061",
-    "state": "ND",
+    "printed_name": "JAMES LANKFORD",
+    "bioguide_id": "L000575",
+    "state": "OK",
     "district": null
    }
   },
   {
-   "file": "gen_h001061_googl.txt",
+   "file": "gen_w000802_nvda.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1169",
-   "filed_at": "2025-01-25",
+   "filed_at": "2026-01-30",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1169",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JOHN HOEVEN",
-    "bioguide_id": "H001061",
-    "state": "ND",
+    "printed_name": "SHELDON WHITEHOUSE",
+    "bioguide_id": "W000802",
+    "state": "RI",
     "district": null
    }
   },
   {
-   "file": "gen_h001061_abbv.txt",
+   "file": "gen_w000802_dis.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1170",
-   "filed_at": "2024-10-23",
+   "filed_at": "2026-01-30",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1170",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JOHN HOEVEN",
-    "bioguide_id": "H001061",
-    "state": "ND",
+    "printed_name": "SHELDON WHITEHOUSE",
+    "bioguide_id": "W000802",
+    "state": "RI",
     "district": null
    }
   },
   {
-   "file": "gen_c001113_t.txt",
+   "file": "gen_w000437_now.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1171",
-   "filed_at": "2024-04-13",
+   "filed_at": "2026-08-13",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1171",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "CATHERINE CORTEZ MASTO",
-    "bioguide_id": "C001113",
-    "state": "NV",
+    "printed_name": "ROGER F. WICKER",
+    "bioguide_id": "W000437",
+    "state": "MS",
     "district": null
    }
   },
   {
-   "file": "gen_c001113_tsla.txt",
+   "file": "gen_w000437_dvn.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1172",
-   "filed_at": "2025-03-27",
+   "filed_at": "2026-01-24",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1172",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "CATHERINE CORTEZ MASTO",
-    "bioguide_id": "C001113",
-    "state": "NV",
+    "printed_name": "ROGER F. WICKER",
+    "bioguide_id": "W000437",
+    "state": "MS",
     "district": null
    }
   },
   {
-   "file": "gen_c001113_cat.txt",
+   "file": "gen_w000437_aapl.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1173",
-   "filed_at": "2024-09-19",
+   "filed_at": "2025-10-05",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1173",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "CATHERINE CORTEZ MASTO",
-    "bioguide_id": "C001113",
-    "state": "NV",
+    "printed_name": "ROGER F. WICKER",
+    "bioguide_id": "W000437",
+    "state": "MS",
     "district": null
    }
   },
   {
-   "file": "gen_c001113_ba.txt",
+   "file": "gen_c001035_v.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1174",
-   "filed_at": "2024-03-08",
+   "filed_at": "2026-01-24",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1174",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "CATHERINE CORTEZ MASTO",
-    "bioguide_id": "C001113",
-    "state": "NV",
+    "printed_name": "SUSAN M. COLLINS",
+    "bioguide_id": "C001035",
+    "state": "ME",
     "district": null
    }
   },
   {
-   "file": "gen_e000295_low.txt",
+   "file": "gen_c001035_spg.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1175",
-   "filed_at": "2024-02-03",
+   "filed_at": "2025-12-10",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1175",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JONI ERNST",
-    "bioguide_id": "E000295",
-    "state": "IA",
+    "printed_name": "SUSAN M. COLLINS",
+    "bioguide_id": "C001035",
+    "state": "ME",
     "district": null
    }
   },
   {
-   "file": "gen_e000295_cost.txt",
+   "file": "gen_c001035_wmt.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1176",
-   "filed_at": "2024-12-13",
+   "filed_at": "2026-08-20",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1176",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JONI ERNST",
-    "bioguide_id": "E000295",
-    "state": "IA",
+    "printed_name": "SUSAN M. COLLINS",
+    "bioguide_id": "C001035",
+    "state": "ME",
     "district": null
    }
   },
   {
-   "file": "gen_l000575_smci.txt",
+   "file": "gen_c001035_blk.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1177",
-   "filed_at": "2024-02-19",
+   "filed_at": "2026-05-28",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1177",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JAMES LANKFORD",
-    "bioguide_id": "L000575",
-    "state": "OK",
+    "printed_name": "SUSAN M. COLLINS",
+    "bioguide_id": "C001035",
+    "state": "ME",
     "district": null
    }
   },
   {
-   "file": "gen_l000575_gs.txt",
+   "file": "gen_m001176_dvn.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1178",
-   "filed_at": "2024-07-17",
+   "filed_at": "2025-12-20",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1178",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JAMES LANKFORD",
-    "bioguide_id": "L000575",
-    "state": "OK",
+    "printed_name": "JEFF MERKLEY",
+    "bioguide_id": "M001176",
+    "state": "OR",
     "district": null
    }
   },
   {
-   "file": "gen_l000575_psx.txt",
+   "file": "gen_m001176_now.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1179",
-   "filed_at": "2024-12-21",
+   "filed_at": "2026-11-10",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1179",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JAMES LANKFORD",
-    "bioguide_id": "L000575",
-    "state": "OK",
+    "printed_name": "JEFF MERKLEY",
+    "bioguide_id": "M001176",
+    "state": "OR",
     "district": null
    }
   },
   {
-   "file": "gen_l000575_isrg.txt",
+   "file": "gen_m001176_lmt.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1180",
-   "filed_at": "2024-06-08",
+   "filed_at": "2026-12-26",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1180",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JAMES LANKFORD",
-    "bioguide_id": "L000575",
-    "state": "OK",
+    "printed_name": "JEFF MERKLEY",
+    "bioguide_id": "M001176",
+    "state": "OR",
     "district": null
    }
   },
   {
-   "file": "gen_w000802_dvn.txt",
+   "file": "gen_m001176_ba.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1181",
-   "filed_at": "2024-11-04",
+   "filed_at": "2025-12-02",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1181",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "SHELDON WHITEHOUSE",
-    "bioguide_id": "W000802",
-    "state": "RI",
+    "printed_name": "JEFF MERKLEY",
+    "bioguide_id": "M001176",
+    "state": "OR",
     "district": null
    }
   },
   {
-   "file": "gen_w000802_cl.txt",
+   "file": "gen_r000584_tjx.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1182",
-   "filed_at": "2024-12-19",
+   "filed_at": "2025-10-22",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1182",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "SHELDON WHITEHOUSE",
-    "bioguide_id": "W000802",
-    "state": "RI",
+    "printed_name": "JAMES E. RISCH",
+    "bioguide_id": "R000584",
+    "state": "ID",
     "district": null
    }
   },
   {
-   "file": "gen_w000802_nke.txt",
+   "file": "gen_r000584_amd.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1183",
-   "filed_at": "2024-06-26",
+   "filed_at": "2026-07-08",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1183",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "SHELDON WHITEHOUSE",
-    "bioguide_id": "W000802",
-    "state": "RI",
+    "printed_name": "JAMES E. RISCH",
+    "bioguide_id": "R000584",
+    "state": "ID",
     "district": null
    }
   },
   {
-   "file": "gen_w000802_jnj.txt",
+   "file": "gen_r000584_gs.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1184",
-   "filed_at": "2024-02-06",
+   "filed_at": "2025-12-25",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1184",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "SHELDON WHITEHOUSE",
-    "bioguide_id": "W000802",
-    "state": "RI",
+    "printed_name": "JAMES E. RISCH",
+    "bioguide_id": "R000584",
+    "state": "ID",
     "district": null
    }
   },
   {
-   "file": "gen_w000437_smci.txt",
+   "file": "gen_s001181_wmt.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1185",
-   "filed_at": "2024-11-04",
+   "filed_at": "2026-04-03",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1185",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "ROGER F. WICKER",
-    "bioguide_id": "W000437",
-    "state": "MS",
+    "printed_name": "JEANNE SHAHEEN",
+    "bioguide_id": "S001181",
+    "state": "NH",
     "district": null
    }
   },
   {
-   "file": "gen_w000437_adbe.txt",
+   "file": "gen_s001181_ba.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1186",
-   "filed_at": "2024-11-03",
+   "filed_at": "2026-07-18",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1186",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "ROGER F. WICKER",
-    "bioguide_id": "W000437",
-    "state": "MS",
+    "printed_name": "JEANNE SHAHEEN",
+    "bioguide_id": "S001181",
+    "state": "NH",
     "district": null
    }
   },
   {
-   "file": "gen_w000437_msft.txt",
+   "file": "gen_s001181_pfe.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1187",
-   "filed_at": "2024-08-06",
+   "filed_at": "2026-01-25",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1187",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "ROGER F. WICKER",
-    "bioguide_id": "W000437",
-    "state": "MS",
+    "printed_name": "JEANNE SHAHEEN",
+    "bioguide_id": "S001181",
+    "state": "NH",
     "district": null
    }
   },
   {
-   "file": "gen_c001035_bac.txt",
+   "file": "gen_s001181_ba.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1188",
-   "filed_at": "2024-10-27",
+   "filed_at": "2026-09-27",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1188",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "SUSAN M. COLLINS",
-    "bioguide_id": "C001035",
-    "state": "ME",
+    "printed_name": "JEANNE SHAHEEN",
+    "bioguide_id": "S001181",
+    "state": "NH",
     "district": null
    }
   },
   {
-   "file": "gen_c001035_pep.txt",
+   "file": "gen_c001088_dvn.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1189",
-   "filed_at": "2024-08-15",
+   "filed_at": "2025-11-19",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1189",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "SUSAN M. COLLINS",
-    "bioguide_id": "C001035",
-    "state": "ME",
+    "printed_name": "CHRISTOPHER A. COONS",
+    "bioguide_id": "C001088",
+    "state": "DE",
     "district": null
    }
   },
   {
-   "file": "gen_c001035_amd.txt",
+   "file": "gen_c001088_psx.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1190",
-   "filed_at": "2024-04-12",
+   "filed_at": "2026-05-25",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1190",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "SUSAN M. COLLINS",
-    "bioguide_id": "C001035",
-    "state": "ME",
+    "printed_name": "CHRISTOPHER A. COONS",
+    "bioguide_id": "C001088",
+    "state": "DE",
     "district": null
    }
   },
   {
-   "file": "gen_c001035_intc.txt",
-   "chamber": "senate",
-   "source": "senate_efd",
+   "file": "gen_a000055_vz.txt",
+   "chamber": "house",
+   "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1191",
-   "filed_at": "2024-11-19",
+   "filed_at": "2026-03-23",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1191",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "SUSAN M. COLLINS",
-    "bioguide_id": "C001035",
-    "state": "ME",
-    "district": null
+    "printed_name": "ROBERT B. ADERHOLT",
+    "bioguide_id": "A000055",
+    "state": "AL",
+    "district": 4
    }
   },
   {
-   "file": "gen_m001176_pg.txt",
-   "chamber": "senate",
-   "source": "senate_efd",
+   "file": "gen_a000055_ms.txt",
+   "chamber": "house",
+   "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1192",
-   "filed_at": "2024-08-27",
+   "filed_at": "2026-05-04",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1192",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JEFF MERKLEY",
-    "bioguide_id": "M001176",
-    "state": "OR",
-    "district": null
+    "printed_name": "ROBERT B. ADERHOLT",
+    "bioguide_id": "A000055",
+    "state": "AL",
+    "district": 4
    }
   },
   {
-   "file": "gen_m001176_lly.txt",
-   "chamber": "senate",
-   "source": "senate_efd",
+   "file": "gen_a000055_mu.txt",
+   "chamber": "house",
+   "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1193",
-   "filed_at": "2024-04-24",
+   "filed_at": "2026-01-30",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1193",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JEFF MERKLEY",
-    "bioguide_id": "M001176",
-    "state": "OR",
-    "district": null
+    "printed_name": "ROBERT B. ADERHOLT",
+    "bioguide_id": "A000055",
+    "state": "AL",
+    "district": 4
    }
   },
   {
-   "file": "gen_m001176_hon.txt",
-   "chamber": "senate",
-   "source": "senate_efd",
+   "file": "gen_a000055_rtx.txt",
+   "chamber": "house",
+   "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1194",
-   "filed_at": "2024-04-30",
+   "filed_at": "2026-04-10",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1194",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JEFF MERKLEY",
-    "bioguide_id": "M001176",
-    "state": "OR",
-    "district": null
+    "printed_name": "ROBERT B. ADERHOLT",
+    "bioguide_id": "A000055",
+    "state": "AL",
+    "district": 4
    }
   },
   {
-   "file": "gen_m001176_meta.txt",
-   "chamber": "senate",
-   "source": "senate_efd",
+   "file": "gen_b000490_ge.txt",
+   "chamber": "house",
+   "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1195",
-   "filed_at": "2024-02-24",
+   "filed_at": "2025-11-24",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1195",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JEFF MERKLEY",
-    "bioguide_id": "M001176",
-    "state": "OR",
-    "district": null
+    "printed_name": "SANFORD D. BISHOP, JR.",
+    "bioguide_id": "B000490",
+    "state": "GA",
+    "district": 2
    }
   },
   {
-   "file": "gen_r000584_coin.txt",
-   "chamber": "senate",
-   "source": "senate_efd",
+   "file": "gen_b000490_cop.txt",
+   "chamber": "house",
+   "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1196",
-   "filed_at": "2024-09-12",
+   "filed_at": "2026-04-02",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1196",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JAMES E. RISCH",
-    "bioguide_id": "R000584",
-    "state": "ID",
-    "district": null
+    "printed_name": "SANFORD D. BISHOP, JR.",
+    "bioguide_id": "B000490",
+    "state": "GA",
+    "district": 2
    }
   },
   {
-   "file": "gen_r000584_cost.txt",
-   "chamber": "senate",
-   "source": "senate_efd",
+   "file": "gen_b000490_isrg.txt",
+   "chamber": "house",
+   "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1197",
-   "filed_at": "2024-08-24",
+   "filed_at": "2026-08-14",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1197",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JAMES E. RISCH",
-    "bioguide_id": "R000584",
-    "state": "ID",
-    "district": null
+    "printed_name": "SANFORD D. BISHOP, JR.",
+    "bioguide_id": "B000490",
+    "state": "GA",
+    "district": 2
    }
   },
   {
-   "file": "gen_s001181_lly.txt",
+   "file": "gen_b001243_dvn.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1198",
-   "filed_at": "2024-06-22",
+   "filed_at": "2026-09-05",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1198",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JEANNE SHAHEEN",
-    "bioguide_id": "S001181",
-    "state": "NH",
+    "printed_name": "MARSHA BLACKBURN",
+    "bioguide_id": "B001243",
+    "state": "TN",
     "district": null
    }
   },
   {
-   "file": "gen_s001181_abbv.txt",
+   "file": "gen_b001243_msft.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1199",
-   "filed_at": "2024-09-15",
+   "filed_at": "2025-11-30",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1199",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JEANNE SHAHEEN",
-    "bioguide_id": "S001181",
-    "state": "NH",
+    "printed_name": "MARSHA BLACKBURN",
+    "bioguide_id": "B001243",
+    "state": "TN",
     "district": null
    }
   },
   {
-   "file": "gen_c001088_lly.txt",
+   "file": "gen_b001243_coin.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1200",
-   "filed_at": "2025-04-09",
+   "filed_at": "2026-09-09",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1200",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "CHRISTOPHER A. COONS",
-    "bioguide_id": "C001088",
-    "state": "DE",
+    "printed_name": "MARSHA BLACKBURN",
+    "bioguide_id": "B001243",
+    "state": "TN",
     "district": null
    }
   },
   {
-   "file": "gen_c001088_intc.txt",
+   "file": "gen_b001277_amzn.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1201",
-   "filed_at": "2024-07-03",
+   "filed_at": "2025-10-18",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1201",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "CHRISTOPHER A. COONS",
-    "bioguide_id": "C001088",
-    "state": "DE",
+    "printed_name": "RICHARD BLUMENTHAL",
+    "bioguide_id": "B001277",
+    "state": "CT",
     "district": null
    }
   },
   {
-   "file": "gen_c001088_ba.txt",
+   "file": "gen_b001277_ge.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1202",
-   "filed_at": "2024-10-07",
+   "filed_at": "2026-03-11",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1202",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "CHRISTOPHER A. COONS",
-    "bioguide_id": "C001088",
-    "state": "DE",
+    "printed_name": "RICHARD BLUMENTHAL",
+    "bioguide_id": "B001277",
+    "state": "CT",
     "district": null
    }
   },
   {
-   "file": "gen_a000055_nvda.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
+   "file": "gen_b001236_tjx.txt",
+   "chamber": "senate",
+   "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1203",
-   "filed_at": "2025-05-22",
+   "filed_at": "2026-01-26",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1203",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "ROBERT B. ADERHOLT",
-    "bioguide_id": "A000055",
-    "state": "AL",
-    "district": 4
+    "printed_name": "JOHN BOOZMAN",
+    "bioguide_id": "B001236",
+    "state": "AR",
+    "district": null
    }
   },
   {
-   "file": "gen_a000055_ba.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
+   "file": "gen_b001236_pep.txt",
+   "chamber": "senate",
+   "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1204",
-   "filed_at": "2024-08-23",
+   "filed_at": "2026-12-14",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1204",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "ROBERT B. ADERHOLT",
-    "bioguide_id": "A000055",
-    "state": "AL",
-    "district": 4
+    "printed_name": "JOHN BOOZMAN",
+    "bioguide_id": "B001236",
+    "state": "AR",
+    "district": null
    }
   },
   {
-   "file": "gen_b000490_cat.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
+   "file": "gen_b001236_slb.txt",
+   "chamber": "senate",
+   "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1205",
-   "filed_at": "2024-12-04",
+   "filed_at": "2025-12-07",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1205",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "SANFORD D. BISHOP, JR.",
-    "bioguide_id": "B000490",
-    "state": "GA",
-    "district": 2
+    "printed_name": "JOHN BOOZMAN",
+    "bioguide_id": "B001236",
+    "state": "AR",
+    "district": null
    }
   },
   {
-   "file": "gen_b000490_mrk.txt",
+   "file": "gen_c000059_googl.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1206",
-   "filed_at": "2024-11-03",
+   "filed_at": "2026-09-10",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1206",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "SANFORD D. BISHOP, JR.",
-    "bioguide_id": "B000490",
-    "state": "GA",
-    "district": 2
+    "printed_name": "KEN CALVERT",
+    "bioguide_id": "C000059",
+    "state": "CA",
+    "district": 41
    }
   },
   {
-   "file": "gen_b000490_coin.txt",
+   "file": "gen_c000059_tsla.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1207",
-   "filed_at": "2024-06-22",
+   "filed_at": "2026-08-24",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1207",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "SANFORD D. BISHOP, JR.",
-    "bioguide_id": "B000490",
-    "state": "GA",
-    "district": 2
+    "printed_name": "KEN CALVERT",
+    "bioguide_id": "C000059",
+    "state": "CA",
+    "district": 41
    }
   },
   {
-   "file": "gen_b000490_avgo.txt",
+   "file": "gen_c000059_amt.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1208",
-   "filed_at": "2024-05-28",
+   "filed_at": "2026-06-02",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1208",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "SANFORD D. BISHOP, JR.",
-    "bioguide_id": "B000490",
-    "state": "GA",
-    "district": 2
+    "printed_name": "KEN CALVERT",
+    "bioguide_id": "C000059",
+    "state": "CA",
+    "district": 41
    }
   },
   {
-   "file": "gen_b001243_ms.txt",
-   "chamber": "senate",
-   "source": "senate_efd",
+   "file": "gen_c001051_schw.txt",
+   "chamber": "house",
+   "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1209",
-   "filed_at": "2024-10-15",
+   "filed_at": "2025-12-30",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1209",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "MARSHA BLACKBURN",
-    "bioguide_id": "B001243",
-    "state": "TN",
-    "district": null
+    "printed_name": "JOHN R. CARTER",
+    "bioguide_id": "C001051",
+    "state": "TX",
+    "district": 31
    }
   },
   {
-   "file": "gen_b001243_nke.txt",
-   "chamber": "senate",
-   "source": "senate_efd",
+   "file": "gen_c001051_psx.txt",
+   "chamber": "house",
+   "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1210",
-   "filed_at": "2024-09-19",
+   "filed_at": "2026-02-11",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1210",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "MARSHA BLACKBURN",
-    "bioguide_id": "B001243",
-    "state": "TN",
-    "district": null
+    "printed_name": "JOHN R. CARTER",
+    "bioguide_id": "C001051",
+    "state": "TX",
+    "district": 31
    }
   },
   {
-   "file": "gen_b001277_mrk.txt",
-   "chamber": "senate",
-   "source": "senate_efd",
+   "file": "gen_c001051_intc.txt",
+   "chamber": "house",
+   "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1211",
-   "filed_at": "2024-05-29",
+   "filed_at": "2026-04-19",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1211",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "RICHARD BLUMENTHAL",
-    "bioguide_id": "B001277",
-    "state": "CT",
-    "district": null
+    "printed_name": "JOHN R. CARTER",
+    "bioguide_id": "C001051",
+    "state": "TX",
+    "district": 31
    }
   },
   {
-   "file": "gen_b001277_nvda.txt",
+   "file": "gen_c001075_cvx.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1212",
-   "filed_at": "2024-02-15",
+   "filed_at": "2026-08-31",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1212",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "RICHARD BLUMENTHAL",
-    "bioguide_id": "B001277",
-    "state": "CT",
+    "printed_name": "BILL CASSIDY",
+    "bioguide_id": "C001075",
+    "state": "LA",
     "district": null
    }
   },
   {
-   "file": "gen_b001277_nee.txt",
+   "file": "gen_c001075_pep.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1213",
-   "filed_at": "2024-11-11",
+   "filed_at": "2026-05-06",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1213",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "RICHARD BLUMENTHAL",
-    "bioguide_id": "B001277",
-    "state": "CT",
+    "printed_name": "BILL CASSIDY",
+    "bioguide_id": "C001075",
+    "state": "LA",
     "district": null
    }
   },
   {
-   "file": "gen_b001277_blk.txt",
+   "file": "gen_c001075_ba.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1214",
-   "filed_at": "2024-03-29",
+   "filed_at": "2026-08-12",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1214",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "RICHARD BLUMENTHAL",
-    "bioguide_id": "B001277",
-    "state": "CT",
+    "printed_name": "BILL CASSIDY",
+    "bioguide_id": "C001075",
+    "state": "LA",
     "district": null
    }
   },
   {
-   "file": "gen_b001236_avgo.txt",
+   "file": "gen_c001075_axp.txt",
    "chamber": "senate",
    "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1215",
-   "filed_at": "2024-11-10",
+   "filed_at": "2026-06-20",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1215",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JOHN BOOZMAN",
-    "bioguide_id": "B001236",
-    "state": "AR",
+    "printed_name": "BILL CASSIDY",
+    "bioguide_id": "C001075",
+    "state": "LA",
     "district": null
    }
   },
   {
-   "file": "gen_b001236_cl.txt",
-   "chamber": "senate",
-   "source": "senate_efd",
+   "file": "gen_c001066_orcl.txt",
+   "chamber": "house",
+   "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1216",
-   "filed_at": "2025-01-04",
+   "filed_at": "2026-05-14",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1216",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JOHN BOOZMAN",
-    "bioguide_id": "B001236",
-    "state": "AR",
-    "district": null
+    "printed_name": "KATHY CASTOR",
+    "bioguide_id": "C001066",
+    "state": "FL",
+    "district": 14
    }
   },
   {
-   "file": "gen_b001236_xel.txt",
-   "chamber": "senate",
-   "source": "senate_efd",
+   "file": "gen_c001066_jnj.txt",
+   "chamber": "house",
+   "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1217",
-   "filed_at": "2024-07-19",
+   "filed_at": "2025-11-25",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1217",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JOHN BOOZMAN",
-    "bioguide_id": "B001236",
-    "state": "AR",
-    "district": null
+    "printed_name": "KATHY CASTOR",
+    "bioguide_id": "C001066",
+    "state": "FL",
+    "district": 14
    }
   },
   {
-   "file": "gen_c000059_ms.txt",
+   "file": "gen_c001080_meta.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1218",
-   "filed_at": "2024-05-16",
+   "filed_at": "2026-01-24",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1218",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "KEN CALVERT",
-    "bioguide_id": "C000059",
+    "printed_name": "JUDY CHU",
+    "bioguide_id": "C001080",
     "state": "CA",
-    "district": 41
+    "district": 28
    }
   },
   {
-   "file": "gen_c000059_vrtx.txt",
+   "file": "gen_c001080_hd.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1219",
-   "filed_at": "2024-11-06",
+   "filed_at": "2026-01-15",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1219",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "KEN CALVERT",
-    "bioguide_id": "C000059",
+    "printed_name": "JUDY CHU",
+    "bioguide_id": "C001080",
     "state": "CA",
-    "district": 41
+    "district": 28
    }
   },
   {
-   "file": "gen_c000059_cvx.txt",
+   "file": "gen_c001080_lmt.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1220",
-   "filed_at": "2024-04-14",
+   "filed_at": "2026-04-26",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1220",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "KEN CALVERT",
-    "bioguide_id": "C000059",
+    "printed_name": "JUDY CHU",
+    "bioguide_id": "C001080",
     "state": "CA",
-    "district": 41
+    "district": 28
    }
   },
   {
-   "file": "gen_c001051_blk.txt",
+   "file": "gen_c001080_now.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1221",
-   "filed_at": "2024-03-07",
+   "filed_at": "2026-10-08",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1221",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JOHN R. CARTER",
-    "bioguide_id": "C001051",
-    "state": "TX",
-    "district": 31
+    "printed_name": "JUDY CHU",
+    "bioguide_id": "C001080",
+    "state": "CA",
+    "district": 28
    }
   },
   {
-   "file": "gen_c001051_nvda.txt",
+   "file": "gen_c001061_nvda.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1222",
-   "filed_at": "2025-01-11",
+   "filed_at": "2026-03-28",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1222",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JOHN R. CARTER",
-    "bioguide_id": "C001051",
-    "state": "TX",
-    "district": 31
+    "printed_name": "EMANUEL CLEAVER",
+    "bioguide_id": "C001061",
+    "state": "MO",
+    "district": 5
    }
   },
   {
-   "file": "gen_c001075_pld.txt",
-   "chamber": "senate",
-   "source": "senate_efd",
+   "file": "gen_c001061_mu.txt",
+   "chamber": "house",
+   "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1223",
-   "filed_at": "2024-11-01",
+   "filed_at": "2026-05-23",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1223",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "BILL CASSIDY",
-    "bioguide_id": "C001075",
-    "state": "LA",
-    "district": null
+    "printed_name": "EMANUEL CLEAVER",
+    "bioguide_id": "C001061",
+    "state": "MO",
+    "district": 5
    }
   },
   {
-   "file": "gen_c001075_tmus.txt",
-   "chamber": "senate",
-   "source": "senate_efd",
+   "file": "gen_c001061_smci.txt",
+   "chamber": "house",
+   "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1224",
-   "filed_at": "2024-02-12",
+   "filed_at": "2026-06-11",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1224",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "BILL CASSIDY",
-    "bioguide_id": "C001075",
-    "state": "LA",
-    "district": null
+    "printed_name": "EMANUEL CLEAVER",
+    "bioguide_id": "C001061",
+    "state": "MO",
+    "district": 5
    }
   },
   {
-   "file": "gen_c001075_slb.txt",
-   "chamber": "senate",
-   "source": "senate_efd",
+   "file": "gen_c001068_amzn.txt",
+   "chamber": "house",
+   "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1225",
-   "filed_at": "2024-03-22",
+   "filed_at": "2026-02-28",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1225",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "BILL CASSIDY",
-    "bioguide_id": "C001075",
-    "state": "LA",
-    "district": null
+    "printed_name": "STEVE COHEN",
+    "bioguide_id": "C001068",
+    "state": "TN",
+    "district": 9
    }
   },
   {
-   "file": "gen_c001066_googl.txt",
+   "file": "gen_c001068_axp.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1226",
-   "filed_at": "2024-03-21",
+   "filed_at": "2026-08-01",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1226",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "KATHY CASTOR",
-    "bioguide_id": "C001066",
-    "state": "FL",
-    "district": 14
+    "printed_name": "STEVE COHEN",
+    "bioguide_id": "C001068",
+    "state": "TN",
+    "district": 9
    }
   },
   {
-   "file": "gen_c001066_dvn.txt",
+   "file": "gen_c001068_jnj.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1227",
-   "filed_at": "2024-06-01",
+   "filed_at": "2026-07-24",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1227",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "KATHY CASTOR",
-    "bioguide_id": "C001066",
-    "state": "FL",
-    "district": 14
+    "printed_name": "STEVE COHEN",
+    "bioguide_id": "C001068",
+    "state": "TN",
+    "district": 9
    }
   },
   {
-   "file": "gen_c001066_abbv.txt",
+   "file": "gen_c001053_rtx.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1228",
-   "filed_at": "2025-03-06",
+   "filed_at": "2026-03-29",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1228",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "KATHY CASTOR",
-    "bioguide_id": "C001066",
-    "state": "FL",
-    "district": 14
+    "printed_name": "TOM COLE",
+    "bioguide_id": "C001053",
+    "state": "OK",
+    "district": 4
    }
   },
   {
-   "file": "gen_c001066_lmt.txt",
+   "file": "gen_c001053_smci.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1229",
-   "filed_at": "2024-11-14",
+   "filed_at": "2026-03-27",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1229",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "KATHY CASTOR",
-    "bioguide_id": "C001066",
-    "state": "FL",
-    "district": 14
+    "printed_name": "TOM COLE",
+    "bioguide_id": "C001053",
+    "state": "OK",
+    "district": 4
    }
   },
   {
-   "file": "gen_c001080_aapl.txt",
+   "file": "gen_c001053_pfe.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1230",
-   "filed_at": "2024-12-23",
+   "filed_at": "2026-08-18",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1230",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JUDY CHU",
-    "bioguide_id": "C001080",
-    "state": "CA",
-    "district": 28
+    "printed_name": "TOM COLE",
+    "bioguide_id": "C001053",
+    "state": "OK",
+    "district": 4
    }
   },
   {
-   "file": "gen_c001080_adbe.txt",
+   "file": "gen_c001059_mu.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1231",
-   "filed_at": "2024-06-02",
+   "filed_at": "2026-02-13",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1231",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JUDY CHU",
-    "bioguide_id": "C001080",
+    "printed_name": "JIM COSTA",
+    "bioguide_id": "C001059",
     "state": "CA",
-    "district": 28
+    "district": 21
    }
   },
   {
-   "file": "gen_c001061_noc.txt",
+   "file": "gen_c001059_ge.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1232",
-   "filed_at": "2024-06-19",
+   "filed_at": "2026-02-08",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1232",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "EMANUEL CLEAVER",
-    "bioguide_id": "C001061",
-    "state": "MO",
-    "district": 5
+    "printed_name": "JIM COSTA",
+    "bioguide_id": "C001059",
+    "state": "CA",
+    "district": 21
    }
   },
   {
-   "file": "gen_c001061_wmt.txt",
+   "file": "gen_c001069_vz.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1233",
-   "filed_at": "2024-04-07",
+   "filed_at": "2026-06-10",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1233",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "EMANUEL CLEAVER",
-    "bioguide_id": "C001061",
-    "state": "MO",
-    "district": 5
+    "printed_name": "JOE COURTNEY",
+    "bioguide_id": "C001069",
+    "state": "CT",
+    "district": 2
    }
   },
   {
-   "file": "gen_c001061_cop.txt",
+   "file": "gen_c001069_ko.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1234",
-   "filed_at": "2024-03-20",
+   "filed_at": "2026-05-12",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1234",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "EMANUEL CLEAVER",
-    "bioguide_id": "C001061",
-    "state": "MO",
-    "district": 5
+    "printed_name": "JOE COURTNEY",
+    "bioguide_id": "C001069",
+    "state": "CT",
+    "district": 2
    }
   },
   {
-   "file": "gen_c001068_v.txt",
+   "file": "gen_c001069_slb.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1235",
-   "filed_at": "2024-12-21",
+   "filed_at": "2026-01-18",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1235",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "STEVE COHEN",
-    "bioguide_id": "C001068",
-    "state": "TN",
-    "district": 9
+    "printed_name": "JOE COURTNEY",
+    "bioguide_id": "C001069",
+    "state": "CT",
+    "district": 2
    }
   },
   {
-   "file": "gen_c001068_t.txt",
+   "file": "gen_c001069_coin.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1236",
-   "filed_at": "2025-05-21",
+   "filed_at": "2025-10-30",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1236",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "STEVE COHEN",
-    "bioguide_id": "C001068",
-    "state": "TN",
-    "district": 9
+    "printed_name": "JOE COURTNEY",
+    "bioguide_id": "C001069",
+    "state": "CT",
+    "district": 2
    }
   },
   {
-   "file": "gen_c001068_anet.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
+   "file": "gen_c000880_meta.txt",
+   "chamber": "senate",
+   "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1237",
-   "filed_at": "2025-04-12",
+   "filed_at": "2026-11-13",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1237",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "STEVE COHEN",
-    "bioguide_id": "C001068",
-    "state": "TN",
-    "district": 9
+    "printed_name": "MIKE CRAPO",
+    "bioguide_id": "C000880",
+    "state": "ID",
+    "district": null
    }
   },
   {
-   "file": "gen_c001053_mcd.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
+   "file": "gen_c000880_cat.txt",
+   "chamber": "senate",
+   "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1238",
-   "filed_at": "2024-04-06",
+   "filed_at": "2026-02-12",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1238",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "TOM COLE",
-    "bioguide_id": "C001053",
-    "state": "OK",
-    "district": 4
+    "printed_name": "MIKE CRAPO",
+    "bioguide_id": "C000880",
+    "state": "ID",
+    "district": null
    }
   },
   {
-   "file": "gen_c001053_cost.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
+   "file": "gen_c000880_pg.txt",
+   "chamber": "senate",
+   "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1239",
-   "filed_at": "2024-07-04",
+   "filed_at": "2026-04-18",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1239",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "TOM COLE",
-    "bioguide_id": "C001053",
-    "state": "OK",
-    "district": 4
+    "printed_name": "MIKE CRAPO",
+    "bioguide_id": "C000880",
+    "state": "ID",
+    "district": null
    }
   },
   {
-   "file": "gen_c001053_cost.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
+   "file": "gen_c000880_avgo.txt",
+   "chamber": "senate",
+   "source": "senate_efd",
    "external_doc_id": "FTM-GEN-1240",
-   "filed_at": "2024-07-09",
+   "filed_at": "2026-08-31",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1240",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "TOM COLE",
-    "bioguide_id": "C001053",
-    "state": "OK",
-    "district": 4
+    "printed_name": "MIKE CRAPO",
+    "bioguide_id": "C000880",
+    "state": "ID",
+    "district": null
    }
   },
   {
-   "file": "gen_c001053_pep.txt",
+   "file": "gen_c001087_noc.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1241",
-   "filed_at": "2024-03-26",
+   "filed_at": "2026-04-27",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1241",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "TOM COLE",
-    "bioguide_id": "C001053",
-    "state": "OK",
-    "district": 4
+    "printed_name": "ERIC A. RICK CRAWFORD",
+    "bioguide_id": "C001087",
+    "state": "AR",
+    "district": 1
    }
   },
   {
-   "file": "gen_c001059_xom.txt",
+   "file": "gen_c001087_meta.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1242",
-   "filed_at": "2024-06-27",
+   "filed_at": "2026-06-11",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1242",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JIM COSTA",
-    "bioguide_id": "C001059",
-    "state": "CA",
-    "district": 21
+    "printed_name": "ERIC A. RICK CRAWFORD",
+    "bioguide_id": "C001087",
+    "state": "AR",
+    "district": 1
    }
   },
   {
-   "file": "gen_c001059_nvda.txt",
+   "file": "gen_c001087_cvx.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1243",
-   "filed_at": "2024-07-17",
+   "filed_at": "2026-07-28",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1243",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JIM COSTA",
-    "bioguide_id": "C001059",
-    "state": "CA",
-    "district": 21
+    "printed_name": "ERIC A. RICK CRAWFORD",
+    "bioguide_id": "C001087",
+    "state": "AR",
+    "district": 1
    }
   },
   {
-   "file": "gen_c001059_xel.txt",
+   "file": "gen_c001063_msft.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1244",
-   "filed_at": "2024-03-17",
+   "filed_at": "2026-07-31",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1244",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JIM COSTA",
-    "bioguide_id": "C001059",
-    "state": "CA",
-    "district": 21
+    "printed_name": "HENRY CUELLAR",
+    "bioguide_id": "C001063",
+    "state": "TX",
+    "district": 28
    }
   },
   {
-   "file": "gen_c001069_amd.txt",
+   "file": "gen_c001063_mcd.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1245",
-   "filed_at": "2024-12-25",
+   "filed_at": "2026-11-11",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1245",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JOE COURTNEY",
-    "bioguide_id": "C001069",
-    "state": "CT",
-    "district": 2
+    "printed_name": "HENRY CUELLAR",
+    "bioguide_id": "C001063",
+    "state": "TX",
+    "district": 28
    }
   },
   {
-   "file": "gen_c001069_dvn.txt",
+   "file": "gen_d000096_orcl.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1246",
-   "filed_at": "2024-04-18",
+   "filed_at": "2025-10-18",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1246",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JOE COURTNEY",
-    "bioguide_id": "C001069",
-    "state": "CT",
-    "district": 2
+    "printed_name": "DANNY K. DAVIS",
+    "bioguide_id": "D000096",
+    "state": "IL",
+    "district": 7
    }
   },
   {
-   "file": "gen_c001069_jpm.txt",
+   "file": "gen_d000096_ko.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1247",
-   "filed_at": "2024-04-13",
+   "filed_at": "2026-07-26",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1247",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "JOE COURTNEY",
-    "bioguide_id": "C001069",
-    "state": "CT",
-    "district": 2
+    "printed_name": "DANNY K. DAVIS",
+    "bioguide_id": "D000096",
+    "state": "IL",
+    "district": 7
    }
   },
   {
-   "file": "gen_c000880_vz.txt",
-   "chamber": "senate",
-   "source": "senate_efd",
+   "file": "gen_d000096_aapl.txt",
+   "chamber": "house",
+   "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1248",
-   "filed_at": "2025-04-14",
+   "filed_at": "2025-12-31",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1248",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "MIKE CRAPO",
-    "bioguide_id": "C000880",
-    "state": "ID",
-    "district": null
+    "printed_name": "DANNY K. DAVIS",
+    "bioguide_id": "D000096",
+    "state": "IL",
+    "district": 7
    }
   },
   {
-   "file": "gen_c000880_dvn.txt",
-   "chamber": "senate",
-   "source": "senate_efd",
+   "file": "gen_d000096_slb.txt",
+   "chamber": "house",
+   "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1249",
-   "filed_at": "2024-06-07",
+   "filed_at": "2026-07-20",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1249",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "MIKE CRAPO",
-    "bioguide_id": "C000880",
-    "state": "ID",
-    "district": null
+    "printed_name": "DANNY K. DAVIS",
+    "bioguide_id": "D000096",
+    "state": "IL",
+    "district": 7
    }
   },
   {
-   "file": "gen_c001087_jnj.txt",
+   "file": "gen_d000197_lly.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1250",
-   "filed_at": "2024-10-20",
+   "filed_at": "2026-01-12",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1250",
    "raw_kind": "pdf",
    "filer": {
-    "printed_name": "ERIC A. RICK CRAWFORD",
-    "bioguide_id": "C001087",
-    "state": "AR",
+    "printed_name": "DIANA DEGETTE",
+    "bioguide_id": "D000197",
+    "state": "CO",
     "district": 1
    }
   },
   {
-   "file": "gen_c001087_msft.txt",
+   "file": "gen_d000197_vz.txt",
    "chamber": "house",
    "source": "house_clerk_yearly",
    "external_doc_id": "FTM-GEN-1251",
-   "filed_at": "2024-10-07",
+   "filed_at": "2026-06-24",
    "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1251",
-   "raw_kind": "pdf",
-   "filer": {
-    "printed_name": "ERIC A. RICK CRAWFORD",
-    "bioguide_id": "C001087",
-    "state": "AR",
-    "district": 1
-   }
-  },
-  {
-   "file": "gen_c001063_orcl.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
-   "external_doc_id": "FTM-GEN-1252",
-   "filed_at": "2024-08-28",
-   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1252",
-   "raw_kind": "pdf",
-   "filer": {
-    "printed_name": "HENRY CUELLAR",
-    "bioguide_id": "C001063",
-    "state": "TX",
-    "district": 28
-   }
-  },
-  {
-   "file": "gen_c001063_dvn.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
-   "external_doc_id": "FTM-GEN-1253",
-   "filed_at": "2024-07-13",
-   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1253",
-   "raw_kind": "pdf",
-   "filer": {
-    "printed_name": "HENRY CUELLAR",
-    "bioguide_id": "C001063",
-    "state": "TX",
-    "district": 28
-   }
-  },
-  {
-   "file": "gen_c001063_low.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
-   "external_doc_id": "FTM-GEN-1254",
-   "filed_at": "2024-04-19",
-   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1254",
-   "raw_kind": "pdf",
-   "filer": {
-    "printed_name": "HENRY CUELLAR",
-    "bioguide_id": "C001063",
-    "state": "TX",
-    "district": 28
-   }
-  },
-  {
-   "file": "gen_c001063_mu.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
-   "external_doc_id": "FTM-GEN-1255",
-   "filed_at": "2024-04-08",
-   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1255",
-   "raw_kind": "pdf",
-   "filer": {
-    "printed_name": "HENRY CUELLAR",
-    "bioguide_id": "C001063",
-    "state": "TX",
-    "district": 28
-   }
-  },
-  {
-   "file": "gen_d000096_v.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
-   "external_doc_id": "FTM-GEN-1256",
-   "filed_at": "2024-08-03",
-   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1256",
-   "raw_kind": "pdf",
-   "filer": {
-    "printed_name": "DANNY K. DAVIS",
-    "bioguide_id": "D000096",
-    "state": "IL",
-    "district": 7
-   }
-  },
-  {
-   "file": "gen_d000096_axp.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
-   "external_doc_id": "FTM-GEN-1257",
-   "filed_at": "2024-03-08",
-   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1257",
-   "raw_kind": "pdf",
-   "filer": {
-    "printed_name": "DANNY K. DAVIS",
-    "bioguide_id": "D000096",
-    "state": "IL",
-    "district": 7
-   }
-  },
-  {
-   "file": "gen_d000096_pld.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
-   "external_doc_id": "FTM-GEN-1258",
-   "filed_at": "2024-09-02",
-   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1258",
-   "raw_kind": "pdf",
-   "filer": {
-    "printed_name": "DANNY K. DAVIS",
-    "bioguide_id": "D000096",
-    "state": "IL",
-    "district": 7
-   }
-  },
-  {
-   "file": "gen_d000197_duk.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
-   "external_doc_id": "FTM-GEN-1259",
-   "filed_at": "2024-07-23",
-   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1259",
-   "raw_kind": "pdf",
-   "filer": {
-    "printed_name": "DIANA DEGETTE",
-    "bioguide_id": "D000197",
-    "state": "CO",
-    "district": 1
-   }
-  },
-  {
-   "file": "gen_d000197_amd.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
-   "external_doc_id": "FTM-GEN-1260",
-   "filed_at": "2024-05-23",
-   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1260",
-   "raw_kind": "pdf",
-   "filer": {
-    "printed_name": "DIANA DEGETTE",
-    "bioguide_id": "D000197",
-    "state": "CO",
-    "district": 1
-   }
-  },
-  {
-   "file": "gen_d000197_psx.txt",
-   "chamber": "house",
-   "source": "house_clerk_yearly",
-   "external_doc_id": "FTM-GEN-1261",
-   "filed_at": "2024-03-23",
-   "source_url": "https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure/ViewFiling?FilingReferenceID=FTM-GEN-1261",
    "raw_kind": "pdf",
    "filer": {
     "printed_name": "DIANA DEGETTE",

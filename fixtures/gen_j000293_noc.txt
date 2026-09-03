@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: RON JOHNSON
+Filing Date: 2026-01-23
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Northrop Grumman Corp (NOC) | S | 12/29/2025 | $50,001 - $100,000

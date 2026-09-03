@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: PATTY MURRAY
-Filing Date: 2024-12-06
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | Colgate-Palmolive Co (CL) | S | 11/08/2024 | $1,001 - $15,000

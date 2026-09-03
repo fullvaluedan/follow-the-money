@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: MARSHA BLACKBURN
+Filing Date: 2026-09-05
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Devon Energy Corp (DVN) | P | 07/23/2026 | $100,001 - $250,000

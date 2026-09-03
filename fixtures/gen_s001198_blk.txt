@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: DAN SULLIVAN
+Filing Date: 2026-03-27
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | BlackRock Inc (BLK) | P | 03/02/2026 | $15,001 - $50,000

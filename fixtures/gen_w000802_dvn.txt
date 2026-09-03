@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: SHELDON WHITEHOUSE
-Filing Date: 2024-11-04
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | Devon Energy Corp (DVN) | P | 05/28/2024 | $1,001 - $15,000

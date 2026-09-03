@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: JOHN BOOZMAN
-Filing Date: 2024-07-19
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | Xcel Energy Inc (XEL) | P | 05/19/2024 | $1,001 - $15,000

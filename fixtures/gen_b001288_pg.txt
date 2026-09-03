@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: CORY A. BOOKER
-Filing Date: 2024-04-05
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | Procter & Gamble Co (PG) | S | 03/15/2024 | $250,001 - $500,000

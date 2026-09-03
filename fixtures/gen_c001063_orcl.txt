@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: HENRY CUELLAR
-Filing Date: 2024-08-28
-
-Owner | Asset | Type | Transaction Date | Amount
-joint | Oracle Corp (ORCL) | P | 08/10/2024 | $250,001 - $500,000

@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: ADAM SMITH
+Filing Date: 2026-04-04
+
+Owner | Asset | Type | Transaction Date | Amount
+ | PepsiCo Inc (PEP) | S | 02/25/2026 | $1,001 - $15,000

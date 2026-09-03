@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: MIKE ROGERS
-Filing Date: 2024-11-29
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | RTX Corp (RTX) | S | 08/01/2024 | $15,001 - $50,000

@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: MICHAEL T. MCCAUL
+Filing Date: 2026-05-25
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Broadcom Inc (AVGO) | P | 02/26/2026 | $250,001 - $500,000

@@ -132,7 +132,10 @@ for (const lm of members) {
     const type = rnd() < 0.62 ? 'P' : rnd() < 0.85 ? 'S' : 'E';
     const owner = pick(OWNERS);
     const range = pick(RANGES);
-    const tx = `2024-${String(1 + Math.floor(rnd() * 12)).padStart(2, '0')}-${String(1 + Math.floor(rnd() * 28)).padStart(2, '0')}`;
+    // random tx date within last 360 days
+    const txDate = new Date();
+    txDate.setUTCDate(txDate.getUTCDate() - Math.floor(rnd() * 360));
+    const tx = iso(txDate);
     const delay = rnd() < 0.2 ? pick([61, 76, 88, 105, 120, 139, 160, 207]) : pick([14, 16, 18, 21, 23, 25, 28, 33, 38, 44]);
     const filedAt = addDays(tx, delay);
     const id = 'FTM-GEN-' + String(1000 + n);

@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: MICHAEL T. MCCAUL
-Filing Date: 2024-03-26
-
-Owner | Asset | Type | Transaction Date | Amount
-joint | Coinbase Global Inc (COIN) | P | 03/08/2024 | $15,001 - $50,000

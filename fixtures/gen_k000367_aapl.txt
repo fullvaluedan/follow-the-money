@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: AMY KLOBUCHAR
+Filing Date: 2026-10-30
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Apple Inc (AAPL) | S | 07/02/2026 | $50,001 - $100,000

@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: CHRIS VAN HOLLEN
-Filing Date: 2024-09-23
-
-Owner | Asset | Type | Transaction Date | Amount
- | Netflix Inc (NFLX) | P | 09/05/2024 | $100,001 - $250,000

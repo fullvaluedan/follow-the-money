@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: SUSAN M. COLLINS
-Filing Date: 2024-10-27
-
-Owner | Asset | Type | Transaction Date | Amount
- | Bank of America (BAC) | S | 10/09/2024 | $50,001 - $100,000

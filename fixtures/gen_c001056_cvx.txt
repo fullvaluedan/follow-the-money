@@ -1,7 +1,7 @@
 House of Representatives / United States Senate
 Periodic Transaction Report
 Filer: JOHN CORNYN
-Filing Date: 2024-09-27
+Filing Date: 2026-02-14
 
 Owner | Asset | Type | Transaction Date | Amount
-spouse | Chevron Corp (CVX) | S | 09/09/2024 | $1,001 - $15,000
+spouse | Chevron Corp (CVX) | S | 01/01/2026 | $1,001 - $15,000

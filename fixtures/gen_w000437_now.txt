@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: ROGER F. WICKER
+Filing Date: 2026-08-13
+
+Owner | Asset | Type | Transaction Date | Amount
+ | ServiceNow Inc (NOW) | P | 07/06/2026 | $50,001 - $100,000

@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JERROLD NADLER
+Filing Date: 2025-12-10
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | RTX Corp (RTX) | S | 10/27/2025 | $1,001 - $15,000

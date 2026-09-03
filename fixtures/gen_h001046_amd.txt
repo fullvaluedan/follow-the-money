@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: MARTIN HEINRICH
-Filing Date: 2024-12-11
-
-Owner | Asset | Type | Transaction Date | Amount
- | Advanced Micro Devices (AMD) | P | 05/18/2024 | $100,001 - $250,000

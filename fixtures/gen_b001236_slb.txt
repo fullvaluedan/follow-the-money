@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JOHN BOOZMAN
+Filing Date: 2025-12-07
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Schlumberger NV (SLB) | P | 11/23/2025 | $1,001 - $15,000

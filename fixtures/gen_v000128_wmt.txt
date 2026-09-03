@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: CHRIS VAN HOLLEN
+Filing Date: 2025-10-27
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Walmart Inc (WMT) | P | 10/04/2025 | $15,001 - $50,000

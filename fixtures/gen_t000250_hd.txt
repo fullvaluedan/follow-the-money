@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JOHN THUNE
+Filing Date: 2026-01-31
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Home Depot Inc (HD) | E | 01/17/2026 | $1,001 - $15,000

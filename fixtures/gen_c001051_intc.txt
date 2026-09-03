@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JOHN R. CARTER
+Filing Date: 2026-04-19
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Intel Corp (INTC) | P | 04/03/2026 | $250,001 - $500,000

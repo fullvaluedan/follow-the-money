@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: ROGER F. WICKER
+Filing Date: 2026-01-24
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Devon Energy Corp (DVN) | P | 01/01/2026 | $15,001 - $50,000

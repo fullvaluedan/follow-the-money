@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: BILL FOSTER
-Filing Date: 2024-12-24
-
-Owner | Asset | Type | Transaction Date | Amount
- | Advanced Micro Devices (AMD) | P | 12/08/2024 | $250,001 - $500,000

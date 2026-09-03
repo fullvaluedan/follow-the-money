@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: MIKE CRAPO
+Filing Date: 2026-02-12
+
+Owner | Asset | Type | Transaction Date | Amount
+joint | Caterpillar Inc (CAT) | P | 12/30/2025 | $15,001 - $50,000

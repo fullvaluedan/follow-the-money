@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: TED LIEU
+Filing Date: 2026-08-07
+
+Owner | Asset | Type | Transaction Date | Amount
+joint | Simon Property Group (SPG) | S | 07/15/2026 | $250,001 - $500,000

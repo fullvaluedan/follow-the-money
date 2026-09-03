@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: SUSAN M. COLLINS
+Filing Date: 2025-12-10
+
+Owner | Asset | Type | Transaction Date | Amount
+joint | Simon Property Group (SPG) | P | 11/24/2025 | $15,001 - $50,000

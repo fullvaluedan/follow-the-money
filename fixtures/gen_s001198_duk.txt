@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: DAN SULLIVAN
+Filing Date: 2025-11-14
+
+Owner | Asset | Type | Transaction Date | Amount
+joint | Duke Energy Corp (DUK) | S | 10/27/2025 | $1,001 - $15,000

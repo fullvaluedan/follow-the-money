@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: HENRY CUELLAR
+Filing Date: 2026-07-31
+
+Owner | Asset | Type | Transaction Date | Amount
+joint | Microsoft Corp (MSFT) | P | 07/15/2026 | $1,001 - $15,000

@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: MARIA CANTWELL
+Filing Date: 2026-07-15
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Arista Networks (ANET) | P | 06/07/2026 | $15,001 - $50,000

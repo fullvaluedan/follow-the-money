@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JEFF MERKLEY
+Filing Date: 2025-12-20
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Devon Energy Corp (DVN) | S | 11/27/2025 | $15,001 - $50,000

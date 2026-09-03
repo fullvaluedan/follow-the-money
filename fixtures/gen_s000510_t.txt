@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: ADAM SMITH
-Filing Date: 2024-07-31
-
-Owner | Asset | Type | Transaction Date | Amount
- | AT&T Inc (T) | P | 07/10/2024 | $15,001 - $50,000

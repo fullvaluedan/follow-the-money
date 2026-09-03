@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: MITCH MCCONNELL
-Filing Date: 2024-08-08
-
-Owner | Asset | Type | Transaction Date | Amount
-joint | Intel Corp (INTC) | S | 07/18/2024 | $250,001 - $500,000

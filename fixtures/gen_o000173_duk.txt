@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: ILHAN OMAR
-Filing Date: 2024-09-29
-
-Owner | Asset | Type | Transaction Date | Amount
- | Duke Energy Corp (DUK) | P | 03/06/2024 | $1,001 - $15,000

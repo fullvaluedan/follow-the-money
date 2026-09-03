@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: TOM COTTON
+Filing Date: 2026-09-05
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Caterpillar Inc (CAT) | P | 08/20/2026 | $1,001 - $15,000

@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: BILL FOSTER
-Filing Date: 2024-12-05
-
-Owner | Asset | Type | Transaction Date | Amount
- | Johnson & Johnson (JNJ) | S | 10/05/2024 | $250,001 - $500,000

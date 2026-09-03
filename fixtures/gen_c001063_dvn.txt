@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: HENRY CUELLAR
-Filing Date: 2024-07-13
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | Devon Energy Corp (DVN) | S | 06/18/2024 | $1,001 - $15,000

@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: MIKE CRAPO
-Filing Date: 2024-06-07
-
-Owner | Asset | Type | Transaction Date | Amount
- | Devon Energy Corp (DVN) | P | 05/05/2024 | $100,001 - $250,000

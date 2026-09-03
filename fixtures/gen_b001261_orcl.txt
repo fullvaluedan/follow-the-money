@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JOHN BARRASSO
+Filing Date: 2025-09-26
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Oracle Corp (ORCL) | S | 09/10/2025 | $100,001 - $250,000

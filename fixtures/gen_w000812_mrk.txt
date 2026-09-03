@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: ANN WAGNER
-Filing Date: 2024-05-23
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | Merck & Co Inc (MRK) | S | 04/09/2024 | $100,001 - $250,000

@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: JAMES A. HIMES
-Filing Date: 2024-09-12
-
-Owner | Asset | Type | Transaction Date | Amount
- | Pfizer Inc (PFE) | P | 08/05/2024 | $1,001 - $15,000

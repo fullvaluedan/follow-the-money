@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: BILL CASSIDY
-Filing Date: 2024-03-22
-
-Owner | Asset | Type | Transaction Date | Amount
- | Schlumberger NV (SLB) | S | 03/06/2024 | $50,001 - $100,000

@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: ROBERT B. ADERHOLT
+Filing Date: 2026-05-04
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Morgan Stanley (MS) | S | 04/20/2026 | $15,001 - $50,000

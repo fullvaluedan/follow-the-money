@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: BRAD SHERMAN
+Filing Date: 2026-05-26
+
+Owner | Asset | Type | Transaction Date | Amount
+ | GE Aerospace (GE) | S | 04/23/2026 | $100,001 - $250,000

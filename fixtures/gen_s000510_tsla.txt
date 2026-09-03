@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: ADAM SMITH
+Filing Date: 2026-08-02
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Tesla Inc (TSLA) | S | 06/19/2026 | $15,001 - $50,000

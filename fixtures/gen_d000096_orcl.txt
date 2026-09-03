@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: DANNY K. DAVIS
+Filing Date: 2025-10-18
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Oracle Corp (ORCL) | P | 10/04/2025 | $1,001 - $15,000

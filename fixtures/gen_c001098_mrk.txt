@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: TED CRUZ
-Filing Date: 2024-05-25
-
-Owner | Asset | Type | Transaction Date | Amount
- | Merck & Co Inc (MRK) | P | 05/11/2024 | $100,001 - $250,000

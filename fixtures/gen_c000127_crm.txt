@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: MARIA CANTWELL
-Filing Date: 2024-04-04
-
-Owner | Asset | Type | Transaction Date | Amount
- | Salesforce Inc (CRM) | P | 03/10/2024 | $15,001 - $50,000

@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: MIKE LEE
-Filing Date: 2024-02-28
-
-Owner | Asset | Type | Transaction Date | Amount
-joint | Duke Energy Corp (DUK) | P | 01/26/2024 | $100,001 - $250,000

@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: RICHARD J. DURBIN
-Filing Date: 2024-05-27
-
-Owner | Asset | Type | Transaction Date | Amount
- | Prologis Inc (PLD) | S | 05/11/2024 | $100,001 - $250,000

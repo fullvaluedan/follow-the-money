@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: SUSAN M. COLLINS
-Filing Date: 2024-08-15
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | PepsiCo Inc (PEP) | P | 07/28/2024 | $1,001 - $15,000

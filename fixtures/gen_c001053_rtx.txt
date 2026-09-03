@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: TOM COLE
+Filing Date: 2026-03-29
+
+Owner | Asset | Type | Transaction Date | Amount
+joint | RTX Corp (RTX) | S | 03/08/2026 | $1,001 - $15,000

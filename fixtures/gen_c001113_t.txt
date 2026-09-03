@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: CATHERINE CORTEZ MASTO
-Filing Date: 2024-04-13
-
-Owner | Asset | Type | Transaction Date | Amount
-joint | AT&T Inc (T) | P | 01/16/2024 | $250,001 - $500,000

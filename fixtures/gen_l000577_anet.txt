@@ -1,7 +1,7 @@
 House of Representatives / United States Senate
 Periodic Transaction Report
 Filer: MIKE LEE
-Filing Date: 2024-10-09
+Filing Date: 2026-05-09
 
 Owner | Asset | Type | Transaction Date | Amount
-spouse | Arista Networks (ANET) | P | 06/11/2024 | $50,001 - $100,000
+joint | Arista Networks (ANET) | P | 04/06/2026 | $15,001 - $50,000

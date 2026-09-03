@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: TOM COTTON
+Filing Date: 2026-03-30
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Oracle Corp (ORCL) | S | 02/25/2026 | $15,001 - $50,000

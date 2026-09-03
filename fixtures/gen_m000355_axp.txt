@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: MITCH MCCONNELL
-Filing Date: 2024-07-19
-
-Owner | Asset | Type | Transaction Date | Amount
- | American Express Co (AXP) | P | 02/10/2024 | $1,001 - $15,000

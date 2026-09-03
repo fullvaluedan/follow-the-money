@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JAMES A. HIMES
+Filing Date: 2026-06-27
+
+Owner | Asset | Type | Transaction Date | Amount
+joint | Coinbase Global Inc (COIN) | P | 04/12/2026 | $15,001 - $50,000

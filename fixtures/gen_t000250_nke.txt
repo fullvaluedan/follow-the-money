@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JOHN THUNE
+Filing Date: 2026-01-12
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Nike Inc (NKE) | P | 12/20/2025 | $15,001 - $50,000

@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: KATHY CASTOR
-Filing Date: 2024-03-21
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | Alphabet Inc (GOOGL) | P | 02/17/2024 | $100,001 - $250,000

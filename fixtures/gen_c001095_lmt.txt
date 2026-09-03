@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: TOM COTTON
-Filing Date: 2024-02-06
-
-Owner | Asset | Type | Transaction Date | Amount
-joint | Lockheed Martin Corp (LMT) | P | 01/12/2024 | $100,001 - $250,000

@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: RON JOHNSON
+Filing Date: 2026-09-06
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Tesla Inc (TSLA) | S | 08/19/2026 | $1,001 - $15,000

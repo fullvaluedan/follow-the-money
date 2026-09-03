@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: JOE COURTNEY
-Filing Date: 2024-12-25
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | Advanced Micro Devices (AMD) | P | 09/11/2024 | $15,001 - $50,000

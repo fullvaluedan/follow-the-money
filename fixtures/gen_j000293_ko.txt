@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: RON JOHNSON
-Filing Date: 2024-12-07
-
-Owner | Asset | Type | Transaction Date | Amount
- | Coca-Cola Co (KO) | S | 11/21/2024 | $100,001 - $250,000

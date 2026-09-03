@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: SAM GRAVES
+Filing Date: 2026-08-05
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Pfizer Inc (PFE) | P | 07/20/2026 | $50,001 - $100,000

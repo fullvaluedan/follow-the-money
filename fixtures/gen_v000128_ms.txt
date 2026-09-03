@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: CHRIS VAN HOLLEN
+Filing Date: 2027-01-28
+
+Owner | Asset | Type | Transaction Date | Amount
+joint | Morgan Stanley (MS) | P | 08/21/2026 | $1,001 - $15,000

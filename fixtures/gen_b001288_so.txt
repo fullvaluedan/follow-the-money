@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: CORY A. BOOKER
+Filing Date: 2025-10-13
+
+Owner | Asset | Type | Transaction Date | Amount
+joint | Southern Co (SO) | P | 09/29/2025 | $250,001 - $500,000

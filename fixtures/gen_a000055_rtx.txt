@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: ROBERT B. ADERHOLT
+Filing Date: 2026-04-10
+
+Owner | Asset | Type | Transaction Date | Amount
+ | RTX Corp (RTX) | P | 03/03/2026 | $100,001 - $250,000

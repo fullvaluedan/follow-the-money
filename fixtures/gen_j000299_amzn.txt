@@ -1,7 +1,7 @@
 House of Representatives / United States Senate
 Periodic Transaction Report
 Filer: MIKE JOHNSON
-Filing Date: 2024-09-03
+Filing Date: 2026-02-13
 
 Owner | Asset | Type | Transaction Date | Amount
-spouse | Amazon.com Inc (AMZN) | P | 07/27/2024 | $250,001 - $500,000
+joint | Amazon.com Inc (AMZN) | P | 01/11/2026 | $1,001 - $15,000

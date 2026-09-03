@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: ELIZABETH WARREN
+Filing Date: 2026-12-29
+
+Owner | Asset | Type | Transaction Date | Amount
+joint | Schlumberger NV (SLB) | P | 06/05/2026 | $15,001 - $50,000

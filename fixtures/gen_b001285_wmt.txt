@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JULIA BROWNLEY
+Filing Date: 2025-11-22
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Walmart Inc (WMT) | P | 10/20/2025 | $100,001 - $250,000

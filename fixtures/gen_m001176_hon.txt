@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: JEFF MERKLEY
-Filing Date: 2024-04-30
-
-Owner | Asset | Type | Transaction Date | Amount
- | Honeywell International (HON) | P | 01/01/2024 | $1,001 - $15,000

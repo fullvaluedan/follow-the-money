@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: CORY A. BOOKER
+Filing Date: 2026-07-01
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Johnson & Johnson (JNJ) | S | 06/03/2026 | $15,001 - $50,000

@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: JOHN HOEVEN
-Filing Date: 2024-09-18
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | Prologis Inc (PLD) | P | 06/22/2024 | $15,001 - $50,000

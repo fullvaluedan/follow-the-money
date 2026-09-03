@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: JOSH GOTTHEIMER
-Filing Date: 2024-03-11
-
-Owner | Asset | Type | Transaction Date | Amount
-joint | Duke Energy Corp (DUK) | P | 02/19/2024 | $250,001 - $500,000

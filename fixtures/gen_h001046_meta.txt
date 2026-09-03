@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: MARTIN HEINRICH
+Filing Date: 2026-04-17
+
+Owner | Asset | Type | Transaction Date | Amount
+joint | Meta Platforms Inc (META) | S | 11/08/2025 | $250,001 - $500,000

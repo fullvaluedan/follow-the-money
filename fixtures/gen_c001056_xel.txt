@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: JOHN CORNYN
-Filing Date: 2024-02-15
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | Xcel Energy Inc (XEL) | S | 02/01/2024 | $1,001 - $15,000

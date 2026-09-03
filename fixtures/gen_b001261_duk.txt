@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JOHN BARRASSO
+Filing Date: 2026-12-22
+
+Owner | Asset | Type | Transaction Date | Amount
+joint | Duke Energy Corp (DUK) | P | 07/15/2026 | $15,001 - $50,000

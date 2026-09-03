@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JAMES LANKFORD
+Filing Date: 2026-09-18
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Charles Schwab Corp (SCHW) | S | 02/23/2026 | $1,001 - $15,000

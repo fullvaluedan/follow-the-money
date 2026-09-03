@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: STEVE COHEN
-Filing Date: 2025-05-21
-
-Owner | Asset | Type | Transaction Date | Amount
-joint | AT&T Inc (T) | S | 12/12/2024 | $1,001 - $15,000

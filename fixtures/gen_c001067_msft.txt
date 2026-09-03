@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: YVETTE D. CLARKE
+Filing Date: 2026-05-28
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Microsoft Corp (MSFT) | S | 01/28/2026 | $1,001 - $15,000

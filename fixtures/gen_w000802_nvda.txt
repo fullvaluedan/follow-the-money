@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: SHELDON WHITEHOUSE
+Filing Date: 2026-01-30
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | NVIDIA Corp (NVDA) | E | 12/17/2025 | $100,001 - $250,000

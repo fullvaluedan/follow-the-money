@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JOE COURTNEY
+Filing Date: 2026-01-18
+
+Owner | Asset | Type | Transaction Date | Amount
+joint | Schlumberger NV (SLB) | P | 12/16/2025 | $1,001 - $15,000

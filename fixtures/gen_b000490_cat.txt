@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: SANFORD D. BISHOP, JR.
-Filing Date: 2024-12-04
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | Caterpillar Inc (CAT) | P | 10/04/2024 | $1,001 - $15,000

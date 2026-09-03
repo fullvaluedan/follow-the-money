@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: JOSH GOTTHEIMER
-Filing Date: 2024-07-27
-
-Owner | Asset | Type | Transaction Date | Amount
- | Lowe’s Companies (LOW) | P | 07/02/2024 | $15,001 - $50,000

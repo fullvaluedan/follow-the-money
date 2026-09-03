@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: DAN SULLIVAN
-Filing Date: 2024-12-07
-
-Owner | Asset | Type | Transaction Date | Amount
-joint | Broadcom Inc (AVGO) | P | 05/14/2024 | $1,001 - $15,000

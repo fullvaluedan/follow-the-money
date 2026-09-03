@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: ALEXANDRIA OCASIO-CORTEZ
+Filing Date: 2025-11-15
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Johnson & Johnson (JNJ) | P | 10/13/2025 | $250,001 - $500,000

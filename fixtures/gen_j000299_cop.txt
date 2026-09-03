@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: MIKE JOHNSON
-Filing Date: 2024-07-10
-
-Owner | Asset | Type | Transaction Date | Amount
- | ConocoPhillips (COP) | S | 06/24/2024 | $15,001 - $50,000

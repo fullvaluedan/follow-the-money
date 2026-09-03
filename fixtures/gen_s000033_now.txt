@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: BERNARD SANDERS
-Filing Date: 2024-04-03
-
-Owner | Asset | Type | Transaction Date | Amount
- | ServiceNow Inc (NOW) | P | 02/25/2024 | $50,001 - $100,000

@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JACK REED
+Filing Date: 2026-03-10
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Walmart Inc (WMT) | P | 02/20/2026 | $15,001 - $50,000

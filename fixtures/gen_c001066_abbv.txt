@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: KATHY CASTOR
-Filing Date: 2025-03-06
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | AbbVie Inc (ABBV) | S | 12/20/2024 | $50,001 - $100,000

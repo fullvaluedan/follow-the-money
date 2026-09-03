@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: RICK SCOTT
-Filing Date: 2024-12-17
-
-Owner | Asset | Type | Transaction Date | Amount
- | Nike Inc (NKE) | E | 11/19/2024 | $1,001 - $15,000

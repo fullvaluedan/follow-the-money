@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: LUCY MCBATH
-Filing Date: 2025-02-06
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | Duke Energy Corp (DUK) | P | 11/22/2024 | $250,001 - $500,000

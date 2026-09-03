@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: BERNARD SANDERS
+Filing Date: 2025-11-22
+
+Owner | Asset | Type | Transaction Date | Amount
+ | BlackRock Inc (BLK) | P | 10/30/2025 | $15,001 - $50,000

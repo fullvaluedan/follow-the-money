@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: SAM GRAVES
-Filing Date: 2024-07-22
-
-Owner | Asset | Type | Transaction Date | Amount
-joint | Arista Networks (ANET) | P | 06/19/2024 | $15,001 - $50,000

@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: STEVE COHEN
+Filing Date: 2026-08-01
+
+Owner | Asset | Type | Transaction Date | Amount
+ | American Express Co (AXP) | E | 07/14/2026 | $100,001 - $250,000

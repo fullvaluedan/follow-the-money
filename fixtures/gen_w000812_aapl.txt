@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: ANN WAGNER
+Filing Date: 2025-12-11
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Apple Inc (AAPL) | P | 09/14/2025 | $250,001 - $500,000

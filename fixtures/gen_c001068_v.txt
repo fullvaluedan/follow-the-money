@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: STEVE COHEN
-Filing Date: 2024-12-21
-
-Owner | Asset | Type | Transaction Date | Amount
- | Visa Inc (V) | S | 09/24/2024 | $1,001 - $15,000

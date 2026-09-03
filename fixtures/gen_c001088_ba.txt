@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: CHRISTOPHER A. COONS
-Filing Date: 2024-10-07
-
-Owner | Asset | Type | Transaction Date | Amount
- | Boeing Co (BA) | P | 08/24/2024 | $15,001 - $50,000

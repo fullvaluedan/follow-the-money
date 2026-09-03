@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: JOSH GOTTHEIMER
-Filing Date: 2024-08-06
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | Eli Lilly and Co (LLY) | P | 07/14/2024 | $100,001 - $250,000

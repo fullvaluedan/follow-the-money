@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: RICK SCOTT
-Filing Date: 2024-10-28
-
-Owner | Asset | Type | Transaction Date | Amount
- | PepsiCo Inc (PEP) | P | 09/25/2024 | $1,001 - $15,000

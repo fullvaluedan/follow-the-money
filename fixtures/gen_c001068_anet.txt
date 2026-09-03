@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: STEVE COHEN
-Filing Date: 2025-04-12
-
-Owner | Asset | Type | Transaction Date | Amount
- | Arista Networks (ANET) | E | 12/13/2024 | $100,001 - $250,000

@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: ROBERT B. ADERHOLT
+Filing Date: 2026-01-30
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Micron Technology (MU) | P | 10/02/2025 | $1,001 - $15,000

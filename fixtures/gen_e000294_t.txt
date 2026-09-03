@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: TOM EMMER
-Filing Date: 2024-02-13
-
-Owner | Asset | Type | Transaction Date | Amount
- | AT&T Inc (T) | S | 01/23/2024 | $50,001 - $100,000

@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: MIKE ROGERS
-Filing Date: 2024-05-12
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | Advanced Micro Devices (AMD) | P | 04/19/2024 | $1,001 - $15,000

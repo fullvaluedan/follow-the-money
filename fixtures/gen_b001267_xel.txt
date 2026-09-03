@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: MICHAEL F. BENNET
+Filing Date: 2025-11-05
+
+Owner | Asset | Type | Transaction Date | Amount
+joint | Xcel Energy Inc (XEL) | P | 10/20/2025 | $1,001 - $15,000

@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JAMES LANKFORD
+Filing Date: 2025-11-08
+
+Owner | Asset | Type | Transaction Date | Amount
+joint | Walt Disney Co (DIS) | P | 10/06/2025 | $15,001 - $50,000

@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: SAM GRAVES
+Filing Date: 2026-03-21
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Advanced Micro Devices (AMD) | P | 03/03/2026 | $1,001 - $15,000

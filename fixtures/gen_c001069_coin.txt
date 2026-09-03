@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JOE COURTNEY
+Filing Date: 2025-10-30
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Coinbase Global Inc (COIN) | P | 10/16/2025 | $15,001 - $50,000

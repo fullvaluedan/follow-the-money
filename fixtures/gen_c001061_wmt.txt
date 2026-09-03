@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: EMANUEL CLEAVER
-Filing Date: 2024-04-07
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | Walmart Inc (WMT) | P | 03/10/2024 | $100,001 - $250,000

@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: DAN CRENSHAW
-Filing Date: 2024-07-05
-
-Owner | Asset | Type | Transaction Date | Amount
- | Tesla Inc (TSLA) | P | 06/17/2024 | $1,001 - $15,000

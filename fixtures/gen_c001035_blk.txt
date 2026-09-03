@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: SUSAN M. COLLINS
+Filing Date: 2026-05-28
+
+Owner | Asset | Type | Transaction Date | Amount
+ | BlackRock Inc (BLK) | P | 05/07/2026 | $100,001 - $250,000

@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: ADAM B. SCHIFF
-Filing Date: 2024-10-04
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | Prologis Inc (PLD) | P | 09/16/2024 | $100,001 - $250,000

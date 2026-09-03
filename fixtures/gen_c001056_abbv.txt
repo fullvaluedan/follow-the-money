@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JOHN CORNYN
+Filing Date: 2026-05-11
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | AbbVie Inc (ABBV) | P | 04/18/2026 | $250,001 - $500,000
