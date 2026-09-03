@@ -1,5 +1,5 @@
 {
- "computed_at": "2026-09-03T14:08:26.581Z",
+ "computed_at": "2026-09-03T15:14:16.883Z",
  "window_days": 365,
  "cutoff": "2025-09-03",
  "members": [
@@ -139,21 +139,6 @@
    "cadence": "selective"
   },
   {
-   "bioguide_id": "C001120",
-   "name": "Dan Crenshaw",
-   "party": "republican",
-   "chamber": "house",
-   "state": "TX",
-   "n": 5,
-   "buys": 2,
-   "sells": 3,
-   "avg_excess_return": 26.2,
-   "win_rate": 80,
-   "total_notional": 107003,
-   "last_trade_date": "2026-06-01",
-   "cadence": "active"
-  },
-  {
    "bioguide_id": "B001261",
    "name": "John Barrasso",
    "party": "republican",
@@ -174,12 +159,12 @@
    "party": "republican",
    "chamber": "house",
    "state": "FL",
-   "n": 1,
-   "buys": 0,
+   "n": 2,
+   "buys": 1,
    "sells": 1,
-   "avg_excess_return": 24.18,
+   "avg_excess_return": 25.43,
    "win_rate": 100,
-   "total_notional": 8001,
+   "total_notional": 16001,
    "last_trade_date": "2026-02-10",
    "cadence": "selective"
   },
@@ -211,6 +196,21 @@
    "win_rate": 100,
    "total_notional": 183001,
    "last_trade_date": "2026-07-03",
+   "cadence": "selective"
+  },
+  {
+   "bioguide_id": "S001214",
+   "name": "W. Gregory Steube",
+   "party": "republican",
+   "chamber": "house",
+   "state": "FL",
+   "n": 1,
+   "buys": 1,
+   "sells": 0,
+   "avg_excess_return": 21.65,
+   "win_rate": 100,
+   "total_notional": 8001,
+   "last_trade_date": "2026-03-18",
    "cadence": "selective"
   },
   {
@@ -259,6 +259,36 @@
    "cadence": "regular"
   },
   {
+   "bioguide_id": "L000577",
+   "name": "Mike Lee",
+   "party": "republican",
+   "chamber": "senate",
+   "state": "UT",
+   "n": 10,
+   "buys": 3,
+   "sells": 7,
+   "avg_excess_return": 15.34,
+   "win_rate": 70,
+   "total_notional": 153505,
+   "last_trade_date": "2026-07-28",
+   "cadence": "active"
+  },
+  {
+   "bioguide_id": "C001055",
+   "name": "Ed Case",
+   "party": "democrat",
+   "chamber": "house",
+   "state": "HI",
+   "n": 4,
+   "buys": 4,
+   "sells": 0,
+   "avg_excess_return": 15.12,
+   "win_rate": 100,
+   "total_notional": 32002,
+   "last_trade_date": "2026-08-13",
+   "cadence": "regular"
+  },
+  {
    "bioguide_id": "C001066",
    "name": "Kathy Castor",
    "party": "democrat",
@@ -289,6 +319,51 @@
    "cadence": "regular"
   },
   {
+   "bioguide_id": "M001217",
+   "name": "Jared Moskowitz",
+   "party": "democrat",
+   "chamber": "house",
+   "state": "FL",
+   "n": 42,
+   "buys": 27,
+   "sells": 15,
+   "avg_excess_return": 13.42,
+   "win_rate": 67,
+   "total_notional": 336021,
+   "last_trade_date": "2026-06-18",
+   "cadence": "active"
+  },
+  {
+   "bioguide_id": "F000483",
+   "name": "Laura Friedman",
+   "party": "democrat",
+   "chamber": "house",
+   "state": "CA",
+   "n": 2,
+   "buys": 0,
+   "sells": 2,
+   "avg_excess_return": 13.24,
+   "win_rate": 50,
+   "total_notional": 16001,
+   "last_trade_date": "2026-04-08",
+   "cadence": "selective"
+  },
+  {
+   "bioguide_id": "C001120",
+   "name": "Dan Crenshaw",
+   "party": "republican",
+   "chamber": "house",
+   "state": "TX",
+   "n": 9,
+   "buys": 4,
+   "sells": 5,
+   "avg_excess_return": 12.72,
+   "win_rate": 44,
+   "total_notional": 139005,
+   "last_trade_date": "2026-06-01",
+   "cadence": "active"
+  },
+  {
    "bioguide_id": "C001063",
    "name": "Henry Cuellar",
    "party": "democrat",
@@ -304,21 +379,6 @@
    "cadence": "selective"
   },
   {
-   "bioguide_id": "L000577",
-   "name": "Mike Lee",
-   "party": "republican",
-   "chamber": "senate",
-   "state": "UT",
-   "n": 7,
-   "buys": 3,
-   "sells": 4,
-   "avg_excess_return": 11.77,
-   "win_rate": 57,
-   "total_notional": 129504,
-   "last_trade_date": "2026-07-28",
-   "cadence": "active"
-  },
-  {
    "bioguide_id": "C000127",
    "name": "Maria Cantwell",
    "party": "democrat",
@@ -327,7 +387,7 @@
    "n": 54,
    "buys": 49,
    "sells": 5,
-   "avg_excess_return": 11.39,
+   "avg_excess_return": 11.44,
    "win_rate": 65,
    "total_notional": 16172027,
    "last_trade_date": "2026-06-24",
@@ -347,21 +407,6 @@
    "total_notional": 415502,
    "last_trade_date": "2026-07-15",
    "cadence": "regular"
-  },
-  {
-   "bioguide_id": "D000032",
-   "name": "Byron Donalds",
-   "party": "republican",
-   "chamber": "house",
-   "state": "FL",
-   "n": 11,
-   "buys": 6,
-   "sells": 5,
-   "avg_excess_return": 10.96,
-   "win_rate": 55,
-   "total_notional": 88006,
-   "last_trade_date": "2026-06-09",
-   "cadence": "active"
   },
   {
    "bioguide_id": "W000812",
@@ -392,21 +437,6 @@
    "total_notional": 130002,
    "last_trade_date": "2026-06-05",
    "cadence": "regular"
-  },
-  {
-   "bioguide_id": "F000110",
-   "name": "Cleo Fields",
-   "party": "democrat",
-   "chamber": "house",
-   "state": "LA",
-   "n": 6,
-   "buys": 6,
-   "sells": 0,
-   "avg_excess_return": 9.75,
-   "win_rate": 67,
-   "total_notional": 48003,
-   "last_trade_date": "2026-06-26",
-   "cadence": "active"
   },
   {
    "bioguide_id": "C001035",
@@ -526,21 +556,6 @@
    "win_rate": 75,
    "total_notional": 223502,
    "last_trade_date": "2026-05-20",
-   "cadence": "regular"
-  },
-  {
-   "bioguide_id": "D000399",
-   "name": "Lloyd Doggett",
-   "party": "democrat",
-   "chamber": "house",
-   "state": "TX",
-   "n": 4,
-   "buys": 4,
-   "sells": 0,
-   "avg_excess_return": 7.52,
-   "win_rate": 75,
-   "total_notional": 32002,
-   "last_trade_date": "2026-06-12",
    "cadence": "regular"
   },
   {
@@ -664,6 +679,21 @@
    "cadence": "regular"
   },
   {
+   "bioguide_id": "M001218",
+   "name": "Richard McCormick",
+   "party": "republican",
+   "chamber": "house",
+   "state": "GA",
+   "n": 43,
+   "buys": 17,
+   "sells": 26,
+   "avg_excess_return": 6.55,
+   "win_rate": 63,
+   "total_notional": 344022,
+   "last_trade_date": "2026-07-30",
+   "cadence": "active"
+  },
+  {
    "bioguide_id": "B001243",
    "name": "Marsha Blackburn",
    "party": "republican",
@@ -739,18 +769,33 @@
    "cadence": "regular"
   },
   {
-   "bioguide_id": "M001218",
-   "name": "Richard McCormick",
+   "bioguide_id": "S000168",
+   "name": "Maria Elvira Salazar",
    "party": "republican",
    "chamber": "house",
-   "state": "GA",
-   "n": 27,
-   "buys": 8,
-   "sells": 19,
-   "avg_excess_return": 3.82,
-   "win_rate": 56,
-   "total_notional": 216014,
-   "last_trade_date": "2026-07-30",
+   "state": "FL",
+   "n": 24,
+   "buys": 20,
+   "sells": 4,
+   "avg_excess_return": 4.2,
+   "win_rate": 50,
+   "total_notional": 192012,
+   "last_trade_date": "2026-07-28",
+   "cadence": "active"
+  },
+  {
+   "bioguide_id": "C001123",
+   "name": "Gilbert Ray Cisneros, Jr.",
+   "party": "democrat",
+   "chamber": "house",
+   "state": "CA",
+   "n": 473,
+   "buys": 312,
+   "sells": 161,
+   "avg_excess_return": 4.15,
+   "win_rate": 55,
+   "total_notional": 3955737,
+   "last_trade_date": "2026-06-30",
    "cadence": "active"
   },
   {
@@ -774,28 +819,13 @@
    "party": "republican",
    "chamber": "house",
    "state": "TN",
-   "n": 6,
+   "n": 9,
    "buys": 0,
-   "sells": 6,
-   "avg_excess_return": 3.64,
-   "win_rate": 50,
-   "total_notional": 48003,
+   "sells": 9,
+   "avg_excess_return": 3.59,
+   "win_rate": 56,
+   "total_notional": 72005,
    "last_trade_date": "2026-06-16",
-   "cadence": "active"
-  },
-  {
-   "bioguide_id": "M001217",
-   "name": "Jared Moskowitz",
-   "party": "democrat",
-   "chamber": "house",
-   "state": "FL",
-   "n": 19,
-   "buys": 13,
-   "sells": 6,
-   "avg_excess_return": 3.51,
-   "win_rate": 74,
-   "total_notional": 152010,
-   "last_trade_date": "2026-06-18",
    "cadence": "active"
   },
   {
@@ -814,36 +844,6 @@
    "cadence": "regular"
   },
   {
-   "bioguide_id": "C001123",
-   "name": "Gilbert Ray Cisneros, Jr.",
-   "party": "democrat",
-   "chamber": "house",
-   "state": "CA",
-   "n": 238,
-   "buys": 145,
-   "sells": 93,
-   "avg_excess_return": 3.29,
-   "win_rate": 51,
-   "total_notional": 1904119,
-   "last_trade_date": "2026-06-30",
-   "cadence": "active"
-  },
-  {
-   "bioguide_id": "T000490",
-   "name": "David J. Taylor",
-   "party": "republican",
-   "chamber": "house",
-   "state": "OH",
-   "n": 42,
-   "buys": 23,
-   "sells": 19,
-   "avg_excess_return": 3.1,
-   "win_rate": 52,
-   "total_notional": 336021,
-   "last_trade_date": "2026-08-14",
-   "cadence": "active"
-  },
-  {
    "bioguide_id": "J000293",
    "name": "Ron Johnson",
    "party": "republican",
@@ -859,18 +859,18 @@
    "cadence": "regular"
   },
   {
-   "bioguide_id": "S000168",
-   "name": "Maria Elvira Salazar",
-   "party": "republican",
+   "bioguide_id": "E000296",
+   "name": "Dwight Evans",
+   "party": "democrat",
    "chamber": "house",
-   "state": "FL",
-   "n": 18,
-   "buys": 15,
-   "sells": 3,
-   "avg_excess_return": 2.55,
-   "win_rate": 44,
-   "total_notional": 144009,
-   "last_trade_date": "2026-07-28",
+   "state": "PA",
+   "n": 12,
+   "buys": 1,
+   "sells": 11,
+   "avg_excess_return": 2.43,
+   "win_rate": 50,
+   "total_notional": 96006,
+   "last_trade_date": "2026-06-10",
    "cadence": "active"
   },
   {
@@ -887,21 +887,6 @@
    "total_notional": 290502,
    "last_trade_date": "2026-08-24",
    "cadence": "regular"
-  },
-  {
-   "bioguide_id": "F000450",
-   "name": "Virginia Foxx",
-   "party": "republican",
-   "chamber": "house",
-   "state": "NC",
-   "n": 2,
-   "buys": 2,
-   "sells": 0,
-   "avg_excess_return": 2.35,
-   "win_rate": 100,
-   "total_notional": 16001,
-   "last_trade_date": "2026-05-15",
-   "cadence": "selective"
   },
   {
    "bioguide_id": "V000128",
@@ -964,6 +949,66 @@
    "cadence": "selective"
   },
   {
+   "bioguide_id": "D000399",
+   "name": "Lloyd Doggett",
+   "party": "democrat",
+   "chamber": "house",
+   "state": "TX",
+   "n": 6,
+   "buys": 6,
+   "sells": 0,
+   "avg_excess_return": 1.63,
+   "win_rate": 50,
+   "total_notional": 48003,
+   "last_trade_date": "2026-06-12",
+   "cadence": "active"
+  },
+  {
+   "bioguide_id": "A000372",
+   "name": "Rick W. Allen",
+   "party": "republican",
+   "chamber": "house",
+   "state": "GA",
+   "n": 8,
+   "buys": 6,
+   "sells": 2,
+   "avg_excess_return": 1.61,
+   "win_rate": 50,
+   "total_notional": 64004,
+   "last_trade_date": "2026-07-14",
+   "cadence": "active"
+  },
+  {
+   "bioguide_id": "F000450",
+   "name": "Virginia Foxx",
+   "party": "republican",
+   "chamber": "house",
+   "state": "NC",
+   "n": 6,
+   "buys": 5,
+   "sells": 1,
+   "avg_excess_return": 1.54,
+   "win_rate": 83,
+   "total_notional": 48003,
+   "last_trade_date": "2026-05-15",
+   "cadence": "active"
+  },
+  {
+   "bioguide_id": "D000032",
+   "name": "Byron Donalds",
+   "party": "republican",
+   "chamber": "house",
+   "state": "FL",
+   "n": 27,
+   "buys": 15,
+   "sells": 12,
+   "avg_excess_return": 1.18,
+   "win_rate": 44,
+   "total_notional": 216014,
+   "last_trade_date": "2026-06-09",
+   "cadence": "active"
+  },
+  {
    "bioguide_id": "D000197",
    "name": "Diana DeGette",
    "party": "democrat",
@@ -977,36 +1022,6 @@
    "total_notional": 107501,
    "last_trade_date": "2026-06-08",
    "cadence": "selective"
-  },
-  {
-   "bioguide_id": "J000288",
-   "name": "Henry C. Hank Johnson, Jr.",
-   "party": "democrat",
-   "chamber": "house",
-   "state": "GA",
-   "n": 41,
-   "buys": 20,
-   "sells": 21,
-   "avg_excess_return": 1.01,
-   "win_rate": 51,
-   "total_notional": 328021,
-   "last_trade_date": "2026-05-12",
-   "cadence": "active"
-  },
-  {
-   "bioguide_id": "B001291",
-   "name": "Brian Babin",
-   "party": "republican",
-   "chamber": "house",
-   "state": "TX",
-   "n": 6,
-   "buys": 0,
-   "sells": 6,
-   "avg_excess_return": 0.81,
-   "win_rate": 33,
-   "total_notional": 48003,
-   "last_trade_date": "2026-05-05",
-   "cadence": "active"
   },
   {
    "bioguide_id": "C001056",
@@ -1037,36 +1052,6 @@
    "total_notional": 190502,
    "last_trade_date": "2026-09-02",
    "cadence": "regular"
-  },
-  {
-   "bioguide_id": "F000483",
-   "name": "Laura Friedman",
-   "party": "democrat",
-   "chamber": "house",
-   "state": "CA",
-   "n": 1,
-   "buys": 0,
-   "sells": 1,
-   "avg_excess_return": 0,
-   "win_rate": 0,
-   "total_notional": 8001,
-   "last_trade_date": "2026-04-08",
-   "cadence": "selective"
-  },
-  {
-   "bioguide_id": "E000296",
-   "name": "Dwight Evans",
-   "party": "democrat",
-   "chamber": "house",
-   "state": "PA",
-   "n": 7,
-   "buys": 0,
-   "sells": 7,
-   "avg_excess_return": -0.24,
-   "win_rate": 57,
-   "total_notional": 56004,
-   "last_trade_date": "2026-06-10",
-   "cadence": "active"
   },
   {
    "bioguide_id": "C001053",
@@ -1144,6 +1129,36 @@
    "cadence": "selective"
   },
   {
+   "bioguide_id": "T000490",
+   "name": "David J. Taylor",
+   "party": "republican",
+   "chamber": "house",
+   "state": "OH",
+   "n": 58,
+   "buys": 29,
+   "sells": 29,
+   "avg_excess_return": -0.99,
+   "win_rate": 48,
+   "total_notional": 464029,
+   "last_trade_date": "2026-08-14",
+   "cadence": "active"
+  },
+  {
+   "bioguide_id": "K000398",
+   "name": "Thomas H. Kean, Jr.",
+   "party": "republican",
+   "chamber": "house",
+   "state": "NJ",
+   "n": 45,
+   "buys": 20,
+   "sells": 25,
+   "avg_excess_return": -1.08,
+   "win_rate": 49,
+   "total_notional": 360023,
+   "last_trade_date": "2026-07-22",
+   "cadence": "active"
+  },
+  {
    "bioguide_id": "C001087",
    "name": "Eric A. Rick Crawford",
    "party": "republican",
@@ -1174,6 +1189,36 @@
    "cadence": "selective"
   },
   {
+   "bioguide_id": "B001291",
+   "name": "Brian Babin",
+   "party": "republican",
+   "chamber": "house",
+   "state": "TX",
+   "n": 9,
+   "buys": 0,
+   "sells": 9,
+   "avg_excess_return": -1.46,
+   "win_rate": 44,
+   "total_notional": 72005,
+   "last_trade_date": "2026-05-05",
+   "cadence": "active"
+  },
+  {
+   "bioguide_id": "G000583",
+   "name": "Josh Gottheimer",
+   "party": "democrat",
+   "chamber": "house",
+   "state": "NJ",
+   "n": 88,
+   "buys": 41,
+   "sells": 47,
+   "avg_excess_return": -1.5,
+   "win_rate": 50,
+   "total_notional": 771044,
+   "last_trade_date": "2026-07-24",
+   "cadence": "active"
+  },
+  {
    "bioguide_id": "C000059",
    "name": "Ken Calvert",
    "party": "republican",
@@ -1187,21 +1232,6 @@
    "total_notional": 382502,
    "last_trade_date": "2026-08-13",
    "cadence": "regular"
-  },
-  {
-   "bioguide_id": "G000583",
-   "name": "Josh Gottheimer",
-   "party": "democrat",
-   "chamber": "house",
-   "state": "NJ",
-   "n": 52,
-   "buys": 27,
-   "sells": 25,
-   "avg_excess_return": -1.7,
-   "win_rate": 54,
-   "total_notional": 483026,
-   "last_trade_date": "2026-07-24",
-   "cadence": "active"
   },
   {
    "bioguide_id": "P000048",
@@ -1234,6 +1264,21 @@
    "cadence": "regular"
   },
   {
+   "bioguide_id": "F000110",
+   "name": "Cleo Fields",
+   "party": "democrat",
+   "chamber": "house",
+   "state": "LA",
+   "n": 21,
+   "buys": 20,
+   "sells": 1,
+   "avg_excess_return": -2.24,
+   "win_rate": 52,
+   "total_notional": 168011,
+   "last_trade_date": "2026-07-10",
+   "cadence": "active"
+  },
+  {
    "bioguide_id": "S000033",
    "name": "Bernard Sanders",
    "party": "independent",
@@ -1249,21 +1294,6 @@
    "cadence": "regular"
   },
   {
-   "bioguide_id": "N000189",
-   "name": "Dan Newhouse",
-   "party": "republican",
-   "chamber": "house",
-   "state": "WA",
-   "n": 12,
-   "buys": 5,
-   "sells": 7,
-   "avg_excess_return": -2.64,
-   "win_rate": 50,
-   "total_notional": 96006,
-   "last_trade_date": "2026-07-10",
-   "cadence": "active"
-  },
-  {
    "bioguide_id": "B001267",
    "name": "Michael F. Bennet",
    "party": "democrat",
@@ -1276,21 +1306,6 @@
    "win_rate": 33,
    "total_notional": 391002,
    "last_trade_date": "2026-08-23",
-   "cadence": "regular"
-  },
-  {
-   "bioguide_id": "A000372",
-   "name": "Rick W. Allen",
-   "party": "republican",
-   "chamber": "house",
-   "state": "GA",
-   "n": 3,
-   "buys": 3,
-   "sells": 0,
-   "avg_excess_return": -2.97,
-   "win_rate": 33,
-   "total_notional": 24002,
-   "last_trade_date": "2026-07-14",
    "cadence": "regular"
   },
   {
@@ -1339,6 +1354,21 @@
    "cadence": "regular"
   },
   {
+   "bioguide_id": "J000288",
+   "name": "Henry C. Hank Johnson, Jr.",
+   "party": "democrat",
+   "chamber": "house",
+   "state": "GA",
+   "n": 95,
+   "buys": 31,
+   "sells": 64,
+   "avg_excess_return": -3.15,
+   "win_rate": 47,
+   "total_notional": 760048,
+   "last_trade_date": "2026-05-12",
+   "cadence": "active"
+  },
+  {
    "bioguide_id": "D000617",
    "name": "Suzan K. DelBene",
    "party": "democrat",
@@ -1351,6 +1381,36 @@
    "win_rate": 50,
    "total_notional": 750001,
    "last_trade_date": "2026-06-06",
+   "cadence": "selective"
+  },
+  {
+   "bioguide_id": "M001239",
+   "name": "John J. McGuire III",
+   "party": "republican",
+   "chamber": "house",
+   "state": "VA",
+   "n": 11,
+   "buys": 6,
+   "sells": 5,
+   "avg_excess_return": -3.7,
+   "win_rate": 36,
+   "total_notional": 88006,
+   "last_trade_date": "2026-07-31",
+   "cadence": "active"
+  },
+  {
+   "bioguide_id": "B001302",
+   "name": "Andy Biggs",
+   "party": "republican",
+   "chamber": "house",
+   "state": "AZ",
+   "n": 2,
+   "buys": 2,
+   "sells": 0,
+   "avg_excess_return": -3.81,
+   "win_rate": 0,
+   "total_notional": 16001,
+   "last_trade_date": "2026-02-04",
    "cadence": "selective"
   },
   {
@@ -1367,6 +1427,21 @@
    "total_notional": 615002,
    "last_trade_date": "2026-08-28",
    "cadence": "regular"
+  },
+  {
+   "bioguide_id": "N000189",
+   "name": "Dan Newhouse",
+   "party": "republican",
+   "chamber": "house",
+   "state": "WA",
+   "n": 19,
+   "buys": 9,
+   "sells": 10,
+   "avg_excess_return": -3.98,
+   "win_rate": 42,
+   "total_notional": 152010,
+   "last_trade_date": "2026-07-10",
+   "cadence": "active"
   },
   {
    "bioguide_id": "C001075",
@@ -1399,36 +1474,6 @@
    "cadence": "regular"
   },
   {
-   "bioguide_id": "K000398",
-   "name": "Thomas H. Kean, Jr.",
-   "party": "republican",
-   "chamber": "house",
-   "state": "NJ",
-   "n": 37,
-   "buys": 13,
-   "sells": 24,
-   "avg_excess_return": -4.93,
-   "win_rate": 46,
-   "total_notional": 296019,
-   "last_trade_date": "2026-07-22",
-   "cadence": "active"
-  },
-  {
-   "bioguide_id": "D000624",
-   "name": "Debbie Dingell",
-   "party": "democrat",
-   "chamber": "house",
-   "state": "MI",
-   "n": 1,
-   "buys": 1,
-   "sells": 0,
-   "avg_excess_return": -4.93,
-   "win_rate": 0,
-   "total_notional": 8001,
-   "last_trade_date": "2026-04-21",
-   "cadence": "selective"
-  },
-  {
    "bioguide_id": "K000376",
    "name": "Mike Kelly",
    "party": "republican",
@@ -1444,18 +1489,33 @@
    "cadence": "selective"
   },
   {
-   "bioguide_id": "M001239",
-   "name": "John J. McGuire III",
-   "party": "republican",
+   "bioguide_id": "L000560",
+   "name": "Rick Larsen",
+   "party": "democrat",
    "chamber": "house",
-   "state": "VA",
-   "n": 6,
-   "buys": 5,
-   "sells": 1,
-   "avg_excess_return": -5.59,
+   "state": "WA",
+   "n": 15,
+   "buys": 6,
+   "sells": 9,
+   "avg_excess_return": -5.6,
    "win_rate": 33,
-   "total_notional": 48003,
-   "last_trade_date": "2026-07-15",
+   "total_notional": 120008,
+   "last_trade_date": "2026-07-08",
+   "cadence": "active"
+  },
+  {
+   "bioguide_id": "M001232",
+   "name": "April McClain Delaney",
+   "party": "democrat",
+   "chamber": "house",
+   "state": "MD",
+   "n": 189,
+   "buys": 89,
+   "sells": 100,
+   "avg_excess_return": -5.82,
+   "win_rate": 34,
+   "total_notional": 1512095,
+   "last_trade_date": "2026-07-31",
    "cadence": "active"
   },
   {
@@ -1489,18 +1549,33 @@
    "cadence": "regular"
   },
   {
-   "bioguide_id": "M001232",
-   "name": "April McClain Delaney",
-   "party": "democrat",
+   "bioguide_id": "D000616",
+   "name": "Scott DesJarlais",
+   "party": "republican",
    "chamber": "house",
-   "state": "MD",
-   "n": 143,
-   "buys": 63,
-   "sells": 80,
-   "avg_excess_return": -6.37,
-   "win_rate": 37,
-   "total_notional": 1144072,
-   "last_trade_date": "2026-07-30",
+   "state": "TN",
+   "n": 2,
+   "buys": 0,
+   "sells": 2,
+   "avg_excess_return": -6.74,
+   "win_rate": 0,
+   "total_notional": 16001,
+   "last_trade_date": "2026-02-17",
+   "cadence": "selective"
+  },
+  {
+   "bioguide_id": "J000304",
+   "name": "Ronny Jackson",
+   "party": "republican",
+   "chamber": "house",
+   "state": "TX",
+   "n": 24,
+   "buys": 11,
+   "sells": 13,
+   "avg_excess_return": -6.76,
+   "win_rate": 46,
+   "total_notional": 192012,
+   "last_trade_date": "2026-06-15",
    "cadence": "active"
   },
   {
@@ -1534,21 +1609,6 @@
    "cadence": "regular"
   },
   {
-   "bioguide_id": "J000304",
-   "name": "Ronny Jackson",
-   "party": "republican",
-   "chamber": "house",
-   "state": "TX",
-   "n": 14,
-   "buys": 5,
-   "sells": 9,
-   "avg_excess_return": -7.47,
-   "win_rate": 29,
-   "total_notional": 112007,
-   "last_trade_date": "2026-06-15",
-   "cadence": "active"
-  },
-  {
    "bioguide_id": "B001277",
    "name": "Richard Blumenthal",
    "party": "democrat",
@@ -1579,48 +1639,18 @@
    "cadence": "selective"
   },
   {
-   "bioguide_id": "L000595",
-   "name": "Julia Letlow",
+   "bioguide_id": "M001136",
+   "name": "Lisa C. McClain",
    "party": "republican",
    "chamber": "house",
-   "state": "LA",
-   "n": 13,
-   "buys": 5,
-   "sells": 8,
-   "avg_excess_return": -9.4,
-   "win_rate": 31,
-   "total_notional": 104007,
-   "last_trade_date": "2026-02-20",
-   "cadence": "active"
-  },
-  {
-   "bioguide_id": "L000560",
-   "name": "Rick Larsen",
-   "party": "democrat",
-   "chamber": "house",
-   "state": "WA",
-   "n": 9,
-   "buys": 3,
-   "sells": 6,
-   "avg_excess_return": -9.48,
-   "win_rate": 22,
-   "total_notional": 72005,
-   "last_trade_date": "2026-07-08",
-   "cadence": "active"
-  },
-  {
-   "bioguide_id": "F000468",
-   "name": "Lizzie Fletcher",
-   "party": "democrat",
-   "chamber": "house",
-   "state": "TX",
-   "n": 6,
-   "buys": 0,
-   "sells": 6,
-   "avg_excess_return": -10.11,
-   "win_rate": 0,
-   "total_notional": 48003,
-   "last_trade_date": "2026-04-08",
+   "state": "MI",
+   "n": 154,
+   "buys": 52,
+   "sells": 102,
+   "avg_excess_return": -8.52,
+   "win_rate": 42,
+   "total_notional": 1232077,
+   "last_trade_date": "2026-02-04",
    "cadence": "active"
   },
   {
@@ -1639,33 +1669,18 @@
    "cadence": "regular"
   },
   {
-   "bioguide_id": "H001082",
-   "name": "Kevin Hern",
+   "bioguide_id": "L000595",
+   "name": "Julia Letlow",
    "party": "republican",
    "chamber": "house",
-   "state": "OK",
-   "n": 8,
-   "buys": 0,
-   "sells": 8,
-   "avg_excess_return": -10.3,
-   "win_rate": 0,
-   "total_notional": 162004,
-   "last_trade_date": "2026-08-05",
-   "cadence": "active"
-  },
-  {
-   "bioguide_id": "R000619",
-   "name": "Michael A. Rulli",
-   "party": "republican",
-   "chamber": "house",
-   "state": "OH",
-   "n": 18,
-   "buys": 9,
-   "sells": 9,
-   "avg_excess_return": -10.3,
-   "win_rate": 33,
-   "total_notional": 144009,
-   "last_trade_date": "2026-08-06",
+   "state": "LA",
+   "n": 26,
+   "buys": 11,
+   "sells": 15,
+   "avg_excess_return": -10.51,
+   "win_rate": 35,
+   "total_notional": 208013,
+   "last_trade_date": "2026-02-20",
    "cadence": "active"
   },
   {
@@ -1699,6 +1714,21 @@
    "cadence": "selective"
   },
   {
+   "bioguide_id": "R000619",
+   "name": "Michael A. Rulli",
+   "party": "republican",
+   "chamber": "house",
+   "state": "OH",
+   "n": 20,
+   "buys": 9,
+   "sells": 11,
+   "avg_excess_return": -11.27,
+   "win_rate": 30,
+   "total_notional": 160010,
+   "last_trade_date": "2026-08-06",
+   "cadence": "active"
+  },
+  {
    "bioguide_id": "B001288",
    "name": "Cory A. Booker",
    "party": "democrat",
@@ -1714,34 +1744,19 @@
    "cadence": "regular"
   },
   {
-   "bioguide_id": "D000616",
-   "name": "Scott DesJarlais",
-   "party": "republican",
+   "bioguide_id": "F000468",
+   "name": "Lizzie Fletcher",
+   "party": "democrat",
    "chamber": "house",
-   "state": "TN",
-   "n": 1,
+   "state": "TX",
+   "n": 7,
    "buys": 0,
-   "sells": 1,
-   "avg_excess_return": -12.4,
+   "sells": 7,
+   "avg_excess_return": -12.38,
    "win_rate": 0,
-   "total_notional": 8001,
-   "last_trade_date": "2026-02-17",
-   "cadence": "selective"
-  },
-  {
-   "bioguide_id": "S001199",
-   "name": "Lloyd Smucker",
-   "party": "republican",
-   "chamber": "house",
-   "state": "PA",
-   "n": 3,
-   "buys": 0,
-   "sells": 3,
-   "avg_excess_return": -12.56,
-   "win_rate": 0,
-   "total_notional": 24002,
-   "last_trade_date": "2026-04-23",
-   "cadence": "regular"
+   "total_notional": 56004,
+   "last_trade_date": "2026-04-08",
+   "cadence": "active"
   },
   {
    "bioguide_id": "M001234",
@@ -1759,18 +1774,48 @@
    "cadence": "active"
   },
   {
+   "bioguide_id": "H001094",
+   "name": "Val T. Hoyle",
+   "party": "democrat",
+   "chamber": "house",
+   "state": "OR",
+   "n": 47,
+   "buys": 4,
+   "sells": 43,
+   "avg_excess_return": -13.46,
+   "win_rate": 38,
+   "total_notional": 376024,
+   "last_trade_date": "2025-09-23",
+   "cadence": "active"
+  },
+  {
    "bioguide_id": "A000379",
    "name": "Mark Alford",
    "party": "republican",
    "chamber": "house",
    "state": "MO",
-   "n": 3,
+   "n": 5,
    "buys": 0,
-   "sells": 3,
-   "avg_excess_return": -13.9,
+   "sells": 5,
+   "avg_excess_return": -14.15,
    "win_rate": 0,
-   "total_notional": 24002,
+   "total_notional": 40003,
    "last_trade_date": "2026-03-16",
+   "cadence": "active"
+  },
+  {
+   "bioguide_id": "S001199",
+   "name": "Lloyd Smucker",
+   "party": "republican",
+   "chamber": "house",
+   "state": "PA",
+   "n": 4,
+   "buys": 0,
+   "sells": 4,
+   "avg_excess_return": -14.9,
+   "win_rate": 0,
+   "total_notional": 32002,
+   "last_trade_date": "2026-04-23",
    "cadence": "regular"
   },
   {
@@ -1787,6 +1832,21 @@
    "total_notional": 48502,
    "last_trade_date": "2026-04-28",
    "cadence": "regular"
+  },
+  {
+   "bioguide_id": "H001082",
+   "name": "Kevin Hern",
+   "party": "republican",
+   "chamber": "house",
+   "state": "OK",
+   "n": 19,
+   "buys": 0,
+   "sells": 19,
+   "avg_excess_return": -16.23,
+   "win_rate": 26,
+   "total_notional": 397010,
+   "last_trade_date": "2026-08-05",
+   "cadence": "active"
   },
   {
    "bioguide_id": "R000584",
@@ -1817,6 +1877,21 @@
    "total_notional": 48003,
    "last_trade_date": "2026-05-27",
    "cadence": "active"
+  },
+  {
+   "bioguide_id": "D000624",
+   "name": "Debbie Dingell",
+   "party": "democrat",
+   "chamber": "house",
+   "state": "MI",
+   "n": 2,
+   "buys": 1,
+   "sells": 1,
+   "avg_excess_return": -19.46,
+   "win_rate": 0,
+   "total_notional": 16001,
+   "last_trade_date": "2026-04-21",
+   "cadence": "selective"
   },
   {
    "bioguide_id": "M001245",
@@ -1869,29 +1944,14 @@
    "party": "democrat",
    "chamber": "house",
    "state": "WI",
-   "n": 6,
-   "buys": 4,
-   "sells": 2,
-   "avg_excess_return": -23.56,
+   "n": 9,
+   "buys": 6,
+   "sells": 3,
+   "avg_excess_return": -26.33,
    "win_rate": 33,
-   "total_notional": 48003,
+   "total_notional": 72005,
    "last_trade_date": "2026-06-09",
    "cadence": "active"
-  },
-  {
-   "bioguide_id": "M001136",
-   "name": "Lisa C. McClain",
-   "party": "republican",
-   "chamber": "house",
-   "state": "MI",
-   "n": 1,
-   "buys": 1,
-   "sells": 0,
-   "avg_excess_return": -33.56,
-   "win_rate": 0,
-   "total_notional": 8001,
-   "last_trade_date": "2026-02-04",
-   "cadence": "selective"
   },
   {
    "bioguide_id": "G000591",
@@ -1899,14 +1959,29 @@
    "party": "republican",
    "chamber": "house",
    "state": "MS",
-   "n": 6,
-   "buys": 0,
-   "sells": 6,
-   "avg_excess_return": -36.39,
-   "win_rate": 0,
-   "total_notional": 48003,
+   "n": 8,
+   "buys": 1,
+   "sells": 7,
+   "avg_excess_return": -28.07,
+   "win_rate": 13,
+   "total_notional": 64004,
    "last_trade_date": "2026-01-09",
    "cadence": "active"
+  },
+  {
+   "bioguide_id": "S001201",
+   "name": "Thomas R. Suozzi",
+   "party": "democrat",
+   "chamber": "house",
+   "state": "NY",
+   "n": 3,
+   "buys": 0,
+   "sells": 3,
+   "avg_excess_return": -39.43,
+   "win_rate": 67,
+   "total_notional": 24002,
+   "last_trade_date": "2026-02-18",
+   "cadence": "regular"
   },
   {
    "bioguide_id": "B000668",
@@ -1937,89 +2012,74 @@
    "total_notional": 16001,
    "last_trade_date": "2026-01-30",
    "cadence": "selective"
-  },
-  {
-   "bioguide_id": "S001201",
-   "name": "Thomas R. Suozzi",
-   "party": "democrat",
-   "chamber": "house",
-   "state": "NY",
-   "n": 1,
-   "buys": 0,
-   "sells": 1,
-   "avg_excess_return": -122.44,
-   "win_rate": 0,
-   "total_notional": 8001,
-   "last_trade_date": "2026-02-18",
-   "cadence": "selective"
   }
  ],
  "sector_flow": [
   {
    "sector": "Consumer Discretionary",
-   "buy": 1991512.5,
-   "sell": 376009,
-   "net": 1615503.5
+   "buy": 2047516,
+   "sell": 400010.5,
+   "net": 1647505.5
   },
   {
    "sector": "Health Care",
-   "buy": 1953010.5,
-   "sell": 775011,
-   "net": 1177999.5
+   "buy": 1977012,
+   "sell": 863016.5,
+   "net": 1113995.5
   },
   {
    "sector": "Energy",
-   "buy": 1069008.5,
-   "sell": 137504,
-   "net": 931504.5
+   "buy": 1101010.5,
+   "sell": 153505,
+   "net": 947505.5
   },
   {
    "sector": "Financials",
-   "buy": 1791511.5,
-   "sell": 887006.5,
-   "net": 904505
+   "buy": 1823513.5,
+   "sell": 943010,
+   "net": 880503.5
   },
   {
    "sector": "Consumer Staples",
-   "buy": 2318510,
-   "sell": 1431504.5,
-   "net": 887005.5
+   "buy": 2334511,
+   "sell": 1463506.5,
+   "net": 871004.5
   },
   {
    "sector": "Technology",
-   "buy": 3109534.5,
-   "sell": 2506029.5,
-   "net": 603505
+   "buy": 3405553,
+   "sell": 2754543.5,
+   "net": 651009.5
   },
   {
    "sector": "Utilities",
-   "buy": 561504.5,
-   "sell": 24001.5,
-   "net": 537503
+   "buy": 569505,
+   "sell": 40002.5,
+   "net": 529502.5
   },
   {
    "sector": "Industrials",
-   "buy": 1554507,
-   "sell": 1297506.5,
-   "net": 257000.5
+   "buy": 1618511,
+   "sell": 1337509,
+   "net": 281002
   },
   {
    "sector": "Communication Services",
-   "buy": 438504,
+   "buy": 470506,
    "sell": 705505,
-   "net": -267001
+   "net": -234999
   },
   {
    "sector": "Real Estate",
    "buy": 556004.5,
-   "sell": 933002,
-   "net": -376997.5
+   "sell": 949003,
+   "net": -392998.5
   },
   {
    "sector": "Other",
-   "buy": 3106686.5,
-   "sell": 18236169.5,
-   "net": -15129483
+   "buy": 5652341,
+   "sell": 21120836,
+   "net": -15468495
   }
  ],
  "top_moves": [
