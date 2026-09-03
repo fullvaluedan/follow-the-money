@@ -1,20 +1,21 @@
 import { getDb } from '@/lib/db';
 import { lawmakers, trades } from '@ftm/db';
 import { eq, sql } from 'drizzle-orm';
+import leaderboard from '@/data/leaderboard.json';
 
 export const dynamic = 'force-dynamic';
 
-/** Transparency scorecard — neutral descriptive stats, Robinhood-style ranked list. */
+/** Scorecard: performance leaderboard + disclosure-lag ranking. Neutral stats. */
 export default async function TransparencyPage() {
   const handle = getDb();
-  if (!handle) return <p className="py-20 text-center text-sm text-neutral-500">Database not connected.</p>;
+  if (!handle) return <div className="card p-8 text-center text-sm text-dim">Database not connected.</div>;
 
-  const stats = await handle.db
+  const lagStats = await handle.db
     .select({
-      name: lawmakers.name,
       bioguide_id: lawmakers.bioguide_id,
-      chamber: lawmakers.chamber,
+      name: lawmakers.name,
       party: lawmakers.party,
+      chamber: lawmakers.chamber,
       state: lawmakers.state,
       n_trades: sql<number>`count(${trades.id})`,
       avg_days_to_file: sql<string>`coalesce(round(avg(${trades.days_to_file})::numeric, 1), 0)`,
@@ -25,79 +26,117 @@ export default async function TransparencyPage() {
     .groupBy(lawmakers.id, lawmakers.name, lawmakers.bioguide_id, lawmakers.chamber, lawmakers.party, lawmakers.state)
     .having(sql`count(${trades.id}) > 0`);
 
-  const ranked = [...stats].sort((a, b) => Number(b.avg_days_to_file) - Number(a.avg_days_to_file));
-  const maxAvg = Math.max(1, ...ranked.map((r) => Number(r.avg_days_to_file)));
+  const byLag = [...lagStats].sort((a, b) => Number(b.avg_days_to_file) - Number(a.avg_days_to_file));
+  const best = leaderboard.members.slice(0, 5);
+  const worst = [...leaderboard.members].reverse().slice(0, 5);
+  const maxAvg = Math.max(1, ...byLag.map((r) => Number(r.avg_days_to_file)));
 
   return (
-    <div className="mx-auto max-w-2xl">
-      <div className="py-6 text-center">
-        <h1 className="text-2xl font-bold">Disclosure Scorecard</h1>
-        <p className="mx-auto mt-2 max-w-md text-sm text-neutral-500">
-          Average days between transaction and public filing under the STOCK Act 45-day window.
-          Descriptive statistics only — they imply nothing about intent.
+    <div className="mx-auto max-w-3xl">
+      <div className="anim py-6 text-center">
+        <h1 className="text-3xl font-bold">Scorecard</h1>
+        <p className="mx-auto mt-2 max-w-md text-sm text-dim">
+          Who&apos;s performing well (excess return since disclosed buys vs S&amp;P 500) and
+          disclosure timing under the 45-day STOCK Act window. Descriptive statistics only.
         </p>
       </div>
 
-      {ranked.length === 0 ? (
-        <div className="rounded-2xl border border-neutral-100 bg-neutral-50 p-8 text-center text-sm text-neutral-500">
-          No published trades yet.
-        </div>
-      ) : (
-        <div className="divide-y divide-neutral-100 overflow-hidden rounded-2xl border border-neutral-100">
-          {ranked.map((r, i) => {
-            const avg = Number(r.avg_days_to_file);
-            const overWindow = avg > 45;
-            const lateRate = r.n_trades > 0 ? (r.late_count / r.n_trades) * 100 : 0;
-            return (
-              <a
-                key={r.bioguide_id}
-                href={`/lawmakers/${r.bioguide_id}`}
-                className="flex items-center gap-4 bg-white px-4 py-3.5 hover:bg-neutral-50"
-              >
-                <div className="w-6 text-center text-sm font-bold text-neutral-300">{i + 1}</div>
-                <div
-                  className={`flex h-10 w-10 shrink-0 items-center justify-center rounded-full text-xs font-bold text-white ${
-                    r.party === 'democrat' ? 'bg-blue-500' : r.party === 'republican' ? 'bg-red-500' : 'bg-neutral-400'
-                  }`}
-                >
-                  {r.name.split(/\s+/).slice(0, 2).map((w) => w[0]).join('')}
-                </div>
+      {/* Performance leaderboard */}
+      <div className="grid gap-4 md:grid-cols-2">
+        <div className="card anim p-4">
+          <div className="mb-3 flex items-center gap-2 text-xs font-bold uppercase tracking-wider text-green">
+            <span className="h-2 w-2 rounded-full bg-green" /> Top excess returns
+          </div>
+          <div className="space-y-2">
+            {best.map((m, i) => (
+              <a key={m.bioguide_id} href={`/lawmakers/${m.bioguide_id}`} className="flex items-center gap-3 rounded-xl p-2 transition-colors hover:bg-[var(--bg-hover)]">
+                <span className="w-4 text-xs font-bold text-dim">{i + 1}</span>
+                <Avatar name={m.name} party={m.party} />
                 <div className="min-w-0 flex-1">
-                  <div className="truncate text-sm font-semibold">{r.name}</div>
-                  <div className="text-xs text-neutral-500">
-                    {r.chamber === 'senate' ? 'Senate' : 'House'} · {r.state} · {r.n_trades} trade
-                    {r.n_trades === 1 ? '' : 's'}
-                  </div>
-                  {/* lag bar: 45-day statutory window marked */}
-                  <div className="relative mt-1.5 h-1.5 w-full overflow-hidden rounded-full bg-neutral-100">
-                    <div
-                      className={`h-full rounded-full ${overWindow ? 'bg-red-500' : 'bg-emerald-500'}`}
-                      style={{ width: `${Math.min(100, (avg / maxAvg) * 100)}%` }}
-                    />
-                    <div
-                      className="absolute top-0 h-full w-px bg-neutral-400"
-                      style={{ left: `${Math.min(100, (45 / maxAvg) * 100)}%` }}
-                    />
-                  </div>
+                  <div className="truncate text-sm font-semibold">{m.name}</div>
+                  <div className="text-[11px] text-dim">{m.n} trades · {m.buys}B/{m.sells}S</div>
                 </div>
-                <div className="shrink-0 text-right">
-                  <div className={`text-sm font-bold ${overWindow ? 'text-red-600' : 'text-emerald-600'}`}>
-                    {avg}d
-                  </div>
-                  <div className="text-xs text-neutral-400">
-                    {r.late_count > 0 ? `${lateRate.toFixed(0)}% late` : 'on time'}
-                  </div>
+                <div className={`text-sm font-bold ${m.avg_excess_return >= 0 ? 'text-green' : 'text-red'}`}>
+                  {m.avg_excess_return >= 0 ? '+' : ''}
+                  {m.avg_excess_return}%
                 </div>
               </a>
-            );
-          })}
+            ))}
+          </div>
         </div>
-      )}
 
-      <div className="mt-4 flex items-center justify-center gap-4 text-[11px] text-neutral-400">
-        <span className="flex items-center gap-1"><span className="h-2 w-2 rounded-full bg-emerald-500" /> ≤ 45-day window</span>
-        <span className="flex items-center gap-1"><span className="h-2 w-2 rounded-full bg-red-500" /> &gt; 45-day window</span>
+        <div className="card anim-1 p-4">
+          <div className="mb-3 flex items-center gap-2 text-xs font-bold uppercase tracking-wider text-red">
+            <span className="h-2 w-2 rounded-full bg-red" /> Underperforming S&amp;P
+          </div>
+          <div className="space-y-2">
+            {worst.map((m, i) => (
+              <a key={m.bioguide_id} href={`/lawmakers/${m.bioguide_id}`} className="flex items-center gap-3 rounded-xl p-2 transition-colors hover:bg-[var(--bg-hover)]">
+                <span className="w-4 text-xs font-bold text-dim">{i + 1}</span>
+                <Avatar name={m.name} party={m.party} />
+                <div className="min-w-0 flex-1">
+                  <div className="truncate text-sm font-semibold">{m.name}</div>
+                  <div className="text-[11px] text-dim">{m.n} trades · {m.buys}B/{m.sells}S</div>
+                </div>
+                <div className={`text-sm font-bold ${m.avg_excess_return >= 0 ? 'text-green' : 'text-red'}`}>
+                  {m.avg_excess_return >= 0 ? '+' : ''}
+                  {m.avg_excess_return}%
+                </div>
+              </a>
+            ))}
+          </div>
+        </div>
       </div>
+
+      {/* Disclosure lag ranking */}
+      <h2 className="mb-3 mt-8 px-1 text-sm font-bold uppercase tracking-wider text-gold">Disclosure lag</h2>
+      <div className="card anim-2 divide-y divide-[var(--border)] overflow-hidden">
+        {byLag.map((r) => {
+          const avg = Number(r.avg_days_to_file);
+          const over = avg > 45;
+          const lateRate = Number(r.n_trades) > 0 ? (Number(r.late_count) / Number(r.n_trades)) * 100 : 0;
+          return (
+            <a key={r.bioguide_id} href={`/lawmakers/${r.bioguide_id}`} className="flex items-center gap-4 px-4 py-3 transition-colors hover:bg-[var(--bg-hover)]">
+              <Avatar name={r.name} party={r.party} />
+              <div className="min-w-0 flex-1">
+                <div className="truncate text-sm font-semibold">{r.name}</div>
+                <div className="text-[11px] text-dim">
+                  {r.chamber === 'senate' ? 'Senate' : 'House'} · {r.state} · {r.n_trades} trade{Number(r.n_trades) === 1 ? '' : 's'}
+                </div>
+                <div className="relative mt-1.5 h-1.5 w-full overflow-hidden rounded-full bg-[#161d1b]">
+                  <div
+                    className={`h-full rounded-full transition-all duration-500 ${over ? 'bg-red' : 'bg-green'}`}
+                    style={{ width: `${Math.min(100, (avg / maxAvg) * 100)}%` }}
+                  />
+                  <div className="absolute top-0 h-full w-px bg-gold/70" style={{ left: `${Math.min(100, (45 / maxAvg) * 100)}%` }} />
+                </div>
+              </div>
+              <div className="shrink-0 text-right">
+                <div className={`text-sm font-bold ${over ? 'text-red' : 'text-green'}`}>{avg}d</div>
+                <div className="text-[11px] text-dim">{Number(r.late_count) > 0 ? `${lateRate.toFixed(0)}% late` : 'on time'}</div>
+              </div>
+            </a>
+          );
+        })}
+      </div>
+
+      <p className="mt-6 text-center text-[11px] text-dim opacity-70">
+        Gold marker = 45-day statutory window. Excess return = buy-date to today vs S&amp;P 500
+        over the same window. Disclosed trades are not a portfolio; performance is attributed
+        per-trade, not per-person wealth. Not financial advice.
+      </p>
+    </div>
+  );
+}
+
+function Avatar({ name, party }: { name: string; party: string }) {
+  return (
+    <div
+      className={`flex h-9 w-9 shrink-0 items-center justify-center rounded-full text-[11px] font-bold text-white ${
+        party === 'democrat' ? 'bg-[#4a7dff]' : party === 'republican' ? 'bg-[#e6544f]' : 'bg-[#5a6b66]'
+      }`}
+    >
+      {name.split(/\s+/).slice(0, 2).map((w) => w[0]).join('')}
     </div>
   );
 }

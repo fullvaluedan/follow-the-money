@@ -58,7 +58,10 @@ export function loadLawmakers(): Array<{
   state: string;
   district: number | null;
 }> {
-  const idx = JSON.parse(readFileSync(join(fixturesDir(), 'lawmakers.json'), 'utf8'));
+  const dir = fixturesDir();
+  const full = join(dir, 'lawmakers_full.json');
+  const path = existsSync(full) ? full : join(dir, 'lawmakers.json');
+  const idx = JSON.parse(readFileSync(path, 'utf8'));
   return idx.lawmakers;
 }
 

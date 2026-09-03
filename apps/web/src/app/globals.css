@@ -3,21 +3,112 @@
 @tailwind utilities;
 
 :root {
-  --green: #21ce99;
+  --bg: #0b0f0e;
+  --bg-card: #121716;
+  --bg-hover: #1a2120;
+  --border: #1f2a27;
+  --green: #00c805;
+  --green-dim: #0e8a34;
   --red: #ff5000;
+  --gold: #f7d154;
+  --text: #f0f2f2;
+  --text-dim: #8a9a95;
+}
+
+html {
+  background: var(--bg);
 }
 
 body {
-  background: #ffffff;
-  color: #1c1e21;
+  background: var(--bg);
+  color: var(--text);
+  font-family: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-feature-settings: 'tnum' 1; /* tabular numbers, like RH */
 }
 
-/* Robinhood-ish clean scrollbars */
+.card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  transition: background 0.2s ease, transform 0.2s ease, border-color 0.2s ease;
+}
+.card:hover {
+  background: var(--bg-hover);
+  border-color: #2a3833;
+}
+.card-click {
+  cursor: pointer;
+}
+.card-click:active {
+  transform: scale(0.985);
+}
+
+.text-dim {
+  color: var(--text-dim);
+}
+.text-green {
+  color: var(--green);
+}
+.text-red {
+  color: var(--red);
+}
+.text-gold {
+  color: var(--gold);
+}
+.bg-green {
+  background: var(--green);
+}
+.bg-red {
+  background: var(--red);
+}
+.bg-gold {
+  background: var(--gold);
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 8px;
+  border-radius: 9999px;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+.chip-late {
+  background: rgba(255, 80, 0, 0.12);
+  color: var(--red);
+}
+.chip-gold {
+  background: rgba(247, 209, 84, 0.12);
+  color: var(--gold);
+}
+
+/* fade-up animation on page load, staggered */
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.anim {
+  animation: fadeUp 0.4s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+.anim-1 { animation-delay: 0.05s; }
+.anim-2 { animation-delay: 0.1s; }
+.anim-3 { animation-delay: 0.15s; }
+.anim-4 { animation-delay: 0.2s; }
+.anim-5 { animation-delay: 0.25s; }
+
 ::-webkit-scrollbar {
   width: 8px;
   height: 8px;
 }
 ::-webkit-scrollbar-thumb {
-  background: #e5e7eb;
+  background: #233029;
   border-radius: 4px;
 }

@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: DAN CRENSHAW
+Filing Date: 2024-03-12
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Exxon Mobil Corp (XOM) | P | 02/20/2024 | $50,001 - $100,000

@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JOHN BARRASSO
+Filing Date: 2024-03-30
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Xcel Energy Inc (XEL) | P | 03/11/2024 | $15,001 - $50,000

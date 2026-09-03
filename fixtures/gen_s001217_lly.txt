@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: RICK SCOTT
+Filing Date: 2024-10-20
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Eli Lilly and Co (LLY) | P | 08/05/2024 | $100,001 - $250,000

@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: ELIZABETH WARREN
+Filing Date: 2024-07-09
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Pfizer Inc (PFE) | S | 06/20/2024 | $15,001 - $50,000

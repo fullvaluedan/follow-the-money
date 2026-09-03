@@ -1,26 +1,28 @@
-import FeedList from '@/components/FeedFilters';
-import type { FeedRow } from '@/components/FeedFilters';
+import FeedList from '@/components/FeedList';
+import type { FeedRow } from '@/components/FeedList';
 import { getDb } from '@/lib/db';
-import { trades, lawmakers, assets, filings } from '@ftm/db';
+import { trades, lawmakers, assets } from '@ftm/db';
 import { desc, eq } from 'drizzle-orm';
+import leaderboard from '@/data/leaderboard.json';
 
 export const dynamic = 'force-dynamic';
+
+interface PerfMeta {
+  perf?: { raw_return: number; benchmark_return: number; excess_return: number; exit_date: string };
+}
 
 export default async function FeedPage() {
   const handle = getDb();
   if (!handle) {
     return (
-      <div className="rounded-lg border border-amber-300 bg-amber-50 p-6 text-amber-900">
-        <p className="font-semibold">Database not connected.</p>
-        <p className="mt-2 text-sm">
-          Set <code>DATABASE_URL</code> in <code>.env</code>, run <code>npm run db:push</code> then{' '}
-          <code>npm run ingest</code>, and reload.
-        </p>
+      <div className="card p-8 text-center text-sm text-dim">
+        Database not connected. Set <code>DATABASE_URL</code>, run <code>npm run db:push</code> +{' '}
+        <code>npm run ingest</code>.
       </div>
     );
   }
 
-  const rows: FeedRow[] = await handle.db
+  const rows = await handle.db
     .select({
       id: trades.id,
       tx_date: trades.tx_date,
@@ -36,36 +38,54 @@ export default async function FeedPage() {
       chamber: lawmakers.chamber,
       ticker: assets.ticker,
       asset_name: assets.name,
-      source_url: filings.source_url,
+      sector: assets.gics_sector,
+      options: trades.options,
     })
     .from(trades)
     .innerJoin(lawmakers, eq(trades.lawmaker_id, lawmakers.id))
     .innerJoin(assets, eq(trades.asset_id, assets.id))
-    .innerJoin(filings, eq(trades.filing_id, filings.id))
     .where(eq(trades.status, 'published'))
     .orderBy(desc(trades.tx_date))
     .limit(500);
 
+  const feedRows: FeedRow[] = rows.map((r) => {
+    const meta = (r.options ?? {}) as PerfMeta;
+    const { options, ...rest } = r as typeof r & Record<string, unknown>;
+    void options;
+    return {
+      ...(rest as Omit<FeedRow, 'perf'>),
+      perf: meta.perf
+        ? {
+            raw_return: meta.perf.raw_return,
+            excess_return: meta.perf.excess_return,
+            exit_date: meta.perf.exit_date,
+          }
+        : null,
+    };
+  });
+
+  const totalTrades = leaderboard.members.reduce((s, m) => s + m.n, 0);
+
   return (
     <div>
-      <div className="mb-4 flex items-baseline justify-between">
-        <div>
-          <h1 className="text-2xl font-bold">Live Feed</h1>
-          <p className="text-sm text-neutral-500">
-            Congressional trades from public STOCK Act disclosures
-          </p>
+      {/* Hero stats — Robinhood portfolio header vibe */}
+      <div className="anim mb-6 rounded-2xl border border-[var(--border)] bg-gradient-to-br from-[#101b16] to-[var(--bg-card)] p-5">
+        <div className="text-xs font-medium uppercase tracking-wider text-dim">Tracked disclosure flow</div>
+        <div className="mt-1 flex items-baseline gap-3">
+          <span className="text-4xl font-bold">{totalTrades}</span>
+          <span className="text-sm text-dim">published trades · {leaderboard.members.length} members · 528 tracked</span>
         </div>
-        <a href="/api/trades" className="text-xs text-neutral-400 hover:text-neutral-600">
-          API ↗
-        </a>
+        <div className="mt-3 flex gap-2">
+          <a href="/sectors" className="rounded-lg bg-[#152219] px-3 py-1.5 text-xs font-semibold text-green transition-colors hover:bg-[#1a2c20]">
+            Sector heat →
+          </a>
+          <a href="/transparency" className="rounded-lg bg-[#1c1c14] px-3 py-1.5 text-xs font-semibold text-gold transition-colors hover:bg-[#24241a]">
+            Scorecard →
+          </a>
+        </div>
       </div>
-      {rows.length === 0 ? (
-        <div className="rounded-2xl border border-neutral-100 bg-neutral-50 p-8 text-center text-sm text-neutral-500">
-          No published trades yet. Run <code className="mx-1">npm run ingest</code> to load fixtures.
-        </div>
-      ) : (
-        <FeedList rows={rows} />
-      )}
+
+      <FeedList rows={feedRows} />
     </div>
   );
 }

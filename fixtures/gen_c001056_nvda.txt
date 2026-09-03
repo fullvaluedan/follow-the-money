@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JOHN CORNYN
+Filing Date: 2024-12-23
+
+Owner | Asset | Type | Transaction Date | Amount
+ | NVIDIA Corp (NVDA) | S | 12/02/2024 | $250,001 - $500,000

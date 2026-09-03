@@ -1,0 +1,143 @@
+{
+ "computed_at": "2026-09-03T04:10:18.028Z",
+ "members": [
+  {
+   "bioguide_id": "O000172",
+   "name": "Alexandria Ocasio-Cortez",
+   "party": "democrat",
+   "chamber": "house",
+   "state": "NY",
+   "n": 2,
+   "buys": 1,
+   "sells": 1,
+   "avg_excess_return": 0.44
+  },
+  {
+   "bioguide_id": "R000575",
+   "name": "Mike Rogers",
+   "party": "republican",
+   "chamber": "house",
+   "state": "AL",
+   "n": 2,
+   "buys": 2,
+   "sells": 0,
+   "avg_excess_return": 0.36
+  },
+  {
+   "bioguide_id": "M001157",
+   "name": "Michael T. McCaul",
+   "party": "republican",
+   "chamber": "house",
+   "state": "TX",
+   "n": 5,
+   "buys": 5,
+   "sells": 0,
+   "avg_excess_return": 0.29
+  },
+  {
+   "bioguide_id": "F000454",
+   "name": "Bill Foster",
+   "party": "democrat",
+   "chamber": "house",
+   "state": "IL",
+   "n": 2,
+   "buys": 2,
+   "sells": 0,
+   "avg_excess_return": 0.01
+  },
+  {
+   "bioguide_id": "K000389",
+   "name": "Ro Khanna",
+   "party": "democrat",
+   "chamber": "house",
+   "state": "CA",
+   "n": 2,
+   "buys": 1,
+   "sells": 1,
+   "avg_excess_return": -0.23
+  },
+  {
+   "bioguide_id": "T000250",
+   "name": "John Thune",
+   "party": "democrat",
+   "chamber": "senate",
+   "state": "MT",
+   "n": 2,
+   "buys": 1,
+   "sells": 1,
+   "avg_excess_return": -0.25
+  },
+  {
+   "bioguide_id": "E000294",
+   "name": "Tom Emmer",
+   "party": "republican",
+   "chamber": "house",
+   "state": "MN",
+   "n": 2,
+   "buys": 2,
+   "sells": 0,
+   "avg_excess_return": -0.34
+  },
+  {
+   "bioguide_id": "C001120",
+   "name": "Dan Crenshaw",
+   "party": "republican",
+   "chamber": "house",
+   "state": "TX",
+   "n": 3,
+   "buys": 2,
+   "sells": 1,
+   "avg_excess_return": -0.66
+  }
+ ],
+ "sector_flow": [
+  {
+   "sector": "Financials",
+   "buy": 625001.5,
+   "sell": 8000.5,
+   "net": 617001
+  },
+  {
+   "sector": "Technology",
+   "buy": 757502,
+   "sell": 407501,
+   "net": 350001
+  },
+  {
+   "sector": "Energy",
+   "buy": 250001,
+   "sell": 0,
+   "net": 250001
+  },
+  {
+   "sector": "Communication Services",
+   "buy": 250001,
+   "sell": 0,
+   "net": 250001
+  },
+  {
+   "sector": "Consumer Staples",
+   "buy": 207501,
+   "sell": 0,
+   "net": 207501
+  },
+  {
+   "sector": "Industrials",
+   "buy": 107501,
+   "sell": 0,
+   "net": 107501
+  },
+  {
+   "sector": "Consumer Discretionary",
+   "buy": 32500.5,
+   "sell": 0,
+   "net": 32500.5
+  },
+  {
+   "sector": "Health Care",
+   "buy": 0,
+   "sell": 75000.5,
+   "net": -75000.5
+  }
+ ]
+}

@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: MICHAEL T. MCCAUL
+Filing Date: 2024-11-05
+
+Owner | Asset | Type | Transaction Date | Amount
+joint | RTX Corp (RTX) | P | 04/12/2024 | $50,001 - $100,000

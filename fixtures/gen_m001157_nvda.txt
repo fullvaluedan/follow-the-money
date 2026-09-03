@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: MICHAEL T. MCCAUL
+Filing Date: 2024-08-14
+
+Owner | Asset | Type | Transaction Date | Amount
+ | NVIDIA Corp (NVDA) | P | 05/01/2024 | $100,001 - $250,000

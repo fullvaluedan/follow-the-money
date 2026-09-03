@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JOHN BARRASSO
+Filing Date: 2024-12-27
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Southern Co (SO) | P | 06/03/2024 | $50,001 - $100,000

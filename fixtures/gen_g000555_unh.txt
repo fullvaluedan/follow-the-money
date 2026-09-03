@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: KIRSTEN E. GILLIBRAND
+Filing Date: 2024-12-29
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | UnitedHealth Group Inc (UNH) | P | 08/12/2024 | $100,001 - $250,000
