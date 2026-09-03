@@ -19,6 +19,7 @@ export interface FeedRow {
   asset_name: string;
   sector: string | null;
   perf: { raw_return: number; excess_return: number; exit_date: string } | null;
+  spark?: { path: string; up: boolean } | null;
 }
 
 const TYPES = ['all', 'purchase', 'sale'] as const;
@@ -84,44 +85,7 @@ export default function FeedList({ rows }: { rows: FeedRow[] }) {
         {filtered.length === 0 ? (
           <div className="card p-8 text-center text-sm text-dim">Nothing matches. Clear filters.</div>
         ) : (
-          filtered.map((r, i) => (
-            <a
-              key={r.id}
-              href={`/trades/${r.id}`}
-              className="card card-click anim flex items-center gap-4 px-4 py-3.5"
-              style={{ animationDelay: `${Math.min(i * 0.04, 0.4)}s` }}
-            >
-              <div
-                className={`flex h-10 w-10 shrink-0 items-center justify-center rounded-full text-[11px] font-bold text-white ${
-                  r.party === 'democrat' ? 'bg-[#4a7dff]' : r.party === 'republican' ? 'bg-[#e6544f]' : 'bg-[#5a6b66]'
-                }`}
-              >
-                {initials(r.lawmaker_name)}
-              </div>
-              <div className="min-w-0 flex-1">
-                <div className="flex items-center gap-2 text-[15px] font-semibold">
-                  {r.ticker ?? <span className="truncate">{r.asset_name}</span>}
-                  {r.is_late && <span className="chip chip-late">Late</span>}
-                  {r.perf && (
-                    <span className={`text-[13px] font-bold ${r.perf.excess_return >= 0 ? 'text-green' : 'text-red'}`}>
-                      {r.perf.excess_return >= 0 ? '+' : ''}
-                      {r.perf.excess_return}%
-                    </span>
-                  )}
-                </div>
-                <div className="truncate text-xs text-dim">
-                  {r.lawmaker_name} · {r.chamber === 'senate' ? 'Senate' : 'House'}
-                  {r.sector && ` · ${r.sector}`}
-                </div>
-              </div>
-              <div className="shrink-0 text-right">
-                <div className={`text-sm font-bold ${r.trade_type === 'purchase' ? 'text-green' : r.trade_type === 'sale' ? 'text-red' : 'text-dim'}`}>
-                  {r.trade_type === 'purchase' ? 'Buy' : r.trade_type === 'sale' ? 'Sell' : r.trade_type}
-                </div>
-                <div className="text-xs text-dim">{r.range_label}</div>
-              </div>
-            </a>
-          ))
+          filtered.map((r, i) => <TradeCard key={r.id} r={r} idx={i} />)
         )}
       </div>
     </div>
@@ -130,4 +94,62 @@ export default function FeedList({ rows }: { rows: FeedRow[] }) {
 
 function initials(name: string): string {
   return name.split(/\s+/).filter(Boolean).slice(0, 2).map((w) => w[0]).join('').toUpperCase();
+}
+
+function TradeCard({ r, idx }: { r: FeedRow; idx: number }) {
+  const isBuy = r.trade_type === 'purchase';
+  const isSell = r.trade_type === 'sale';
+  return (
+    <div
+      className="card card-click anim flex items-center gap-4 px-4 py-3.5"
+      style={{ animationDelay: `${Math.min(idx * 0.03, 0.35)}s` }}
+    >
+      <div
+        className={`flex h-10 w-10 shrink-0 items-center justify-center rounded-full text-[11px] font-bold text-white ${
+          r.party === 'democrat' ? 'bg-[#4a7dff]' : r.party === 'republican' ? 'bg-[#e6544f]' : 'bg-[#5a6b66]'
+        }`}
+      >
+        {initials(r.lawmaker_name)}
+      </div>
+
+      <div className="min-w-0 flex-1">
+        <div className="flex items-center gap-2 text-[15px] font-semibold">
+          {r.ticker ? (
+            <a href={`/tickers/${r.ticker}`} className="hover:text-green hover:underline">
+              {r.ticker}
+            </a>
+          ) : (
+            <span className="truncate">{r.asset_name}</span>
+          )}
+          {r.is_late && <span className="chip chip-late">Late</span>}
+          {r.perf && (
+            <span className={`text-[13px] font-bold ${r.perf.excess_return >= 0 ? 'text-green' : 'text-red'}`}>
+              {r.perf.excess_return >= 0 ? '+' : ''}
+              {r.perf.excess_return}%
+            </span>
+          )}
+        </div>
+        <div className="truncate text-xs text-dim">
+          <a href={`/lawmakers/${r.bioguide_id}`} className="hover:text-white hover:underline">
+            {r.lawmaker_name}
+          </a>{' '}
+          · {r.chamber === 'senate' ? 'Senate' : 'House'}
+          {r.sector && ` · ${r.sector}`}
+        </div>
+      </div>
+
+      {r.spark && (
+        <svg viewBox="0 0 72 28" className="h-7 w-[72px] shrink-0">
+          <path d={r.spark.path} fill="none" stroke={r.spark.up ? '#00c805' : '#ff5000'} strokeWidth="1.5" />
+        </svg>
+      )}
+
+      <div className="shrink-0 text-right">
+        <div className={`text-sm font-bold ${isBuy ? 'text-green' : isSell ? 'text-red' : 'text-dim'}`}>
+          {isBuy ? 'Buy' : isSell ? 'Sell' : r.trade_type}
+        </div>
+        <div className="text-xs text-dim">{r.range_label}</div>
+      </div>
+    </div>
+  );
 }
