@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JOSH GOTTHEIMER
+Filing Date: 2025-01-08
+
+Owner | Asset | Type | Transaction Date | Amount
+ | American Express Co (AXP) | P | 12/16/2024 | $15,001 - $50,000

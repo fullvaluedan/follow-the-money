@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: MITCH MCCONNELL
+Filing Date: 2024-11-05
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Merck & Co Inc (MRK) | P | 10/18/2024 | $250,001 - $500,000

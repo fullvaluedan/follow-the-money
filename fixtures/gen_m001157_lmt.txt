@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: MICHAEL T. MCCAUL
-Filing Date: 2024-03-24
-
-Owner | Asset | Type | Transaction Date | Amount
- | Lockheed Martin Corp (LMT) | P | 03/05/2024 | $15,001 - $50,000

@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JIM COSTA
+Filing Date: 2024-07-17
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | NVIDIA Corp (NVDA) | P | 06/26/2024 | $1,001 - $15,000

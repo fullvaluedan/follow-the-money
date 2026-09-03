@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: NEAL P. DUNN
+Filing Date: 2024-07-27
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Coinbase Global Inc (COIN) | S | 07/02/2024 | $1,001 - $15,000

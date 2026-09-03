@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: ALEXANDRIA OCASIO-CORTEZ
-Filing Date: 2024-11-02
-
-Owner | Asset | Type | Transaction Date | Amount
- | Merck & Co Inc (MRK) | S | 10/14/2024 | $50,001 - $100,000

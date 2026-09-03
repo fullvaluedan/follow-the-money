@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: RON WYDEN
+Filing Date: 2024-07-23
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Super Micro Computer (SMCI) | P | 06/15/2024 | $250,001 - $500,000

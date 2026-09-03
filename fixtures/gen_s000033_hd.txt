@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: BERNARD SANDERS
-Filing Date: 2024-10-21
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | Home Depot Inc (HD) | S | 07/08/2024 | $15,001 - $50,000

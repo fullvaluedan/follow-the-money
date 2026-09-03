@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: MIKE ROGERS
-Filing Date: 2025-05-16
-
-Owner | Asset | Type | Transaction Date | Amount
- | Morgan Stanley (MS) | P | 10/21/2024 | $100,001 - $250,000

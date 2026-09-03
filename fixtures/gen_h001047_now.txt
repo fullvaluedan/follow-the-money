@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JAMES A. HIMES
+Filing Date: 2024-03-24
+
+Owner | Asset | Type | Transaction Date | Amount
+ | ServiceNow Inc (NOW) | E | 02/20/2024 | $100,001 - $250,000

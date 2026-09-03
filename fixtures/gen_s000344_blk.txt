@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: BRAD SHERMAN
+Filing Date: 2024-11-21
+
+Owner | Asset | Type | Transaction Date | Amount
+joint | BlackRock Inc (BLK) | P | 10/24/2024 | $15,001 - $50,000

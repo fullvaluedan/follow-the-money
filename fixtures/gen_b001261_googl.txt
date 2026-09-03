@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JOHN BARRASSO
+Filing Date: 2024-04-24
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Alphabet Inc (GOOGL) | P | 04/06/2024 | $15,001 - $50,000

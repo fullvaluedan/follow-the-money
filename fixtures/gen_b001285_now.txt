@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JULIA BROWNLEY
+Filing Date: 2024-02-25
+
+Owner | Asset | Type | Transaction Date | Amount
+joint | ServiceNow Inc (NOW) | P | 02/02/2024 | $250,001 - $500,000

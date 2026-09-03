@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JUDY CHU
+Filing Date: 2024-12-23
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Apple Inc (AAPL) | S | 12/07/2024 | $100,001 - $250,000

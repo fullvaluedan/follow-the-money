@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: RICK SCOTT
+Filing Date: 2024-09-06
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Home Depot Inc (HD) | S | 08/12/2024 | $1,001 - $15,000

@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: JOHN THUNE
-Filing Date: 2024-12-18
-
-Owner | Asset | Type | Transaction Date | Amount
- | Coinbase Global Inc (COIN) | P | 08/01/2024 | $100,001 - $250,000

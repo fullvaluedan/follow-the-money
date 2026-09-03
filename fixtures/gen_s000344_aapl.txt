@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: BRAD SHERMAN
+Filing Date: 2025-01-17
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Apple Inc (AAPL) | P | 12/15/2024 | $250,001 - $500,000

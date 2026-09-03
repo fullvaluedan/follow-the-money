@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: RICHARD J. DURBIN
+Filing Date: 2024-05-18
+
+Owner | Asset | Type | Transaction Date | Amount
+joint | Arista Networks (ANET) | P | 04/10/2024 | $250,001 - $500,000

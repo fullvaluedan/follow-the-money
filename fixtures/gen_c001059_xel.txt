@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JIM COSTA
+Filing Date: 2024-03-17
+
+Owner | Asset | Type | Transaction Date | Amount
+joint | Xcel Energy Inc (XEL) | P | 03/03/2024 | $100,001 - $250,000

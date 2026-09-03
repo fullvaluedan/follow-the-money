@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: KEN CALVERT
+Filing Date: 2024-11-06
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Vertex Pharmaceuticals (VRTX) | P | 10/09/2024 | $15,001 - $50,000

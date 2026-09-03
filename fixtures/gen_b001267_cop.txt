@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: MICHAEL F. BENNET
+Filing Date: 2024-05-01
+
+Owner | Asset | Type | Transaction Date | Amount
+ | ConocoPhillips (COP) | S | 04/15/2024 | $15,001 - $50,000

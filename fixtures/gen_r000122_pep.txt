@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JACK REED
+Filing Date: 2024-08-07
+
+Owner | Asset | Type | Transaction Date | Amount
+ | PepsiCo Inc (PEP) | S | 07/20/2024 | $50,001 - $100,000

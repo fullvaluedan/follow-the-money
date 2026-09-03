@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: JOHN CORNYN
-Filing Date: 2024-02-05
-
-Owner | Asset | Type | Transaction Date | Amount
- | Alphabet Inc (GOOGL) | P | 01/22/2024 | $100,001 - $250,000

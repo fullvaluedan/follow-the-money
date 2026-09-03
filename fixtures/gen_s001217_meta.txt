@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: RICK SCOTT
-Filing Date: 2024-08-26
-
-Owner | Asset | Type | Transaction Date | Amount
- | Meta Platforms Inc (META) | P | 05/13/2024 | $15,001 - $50,000

@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: RICHARD BLUMENTHAL
+Filing Date: 2024-03-29
+
+Owner | Asset | Type | Transaction Date | Amount
+joint | BlackRock Inc (BLK) | P | 01/28/2024 | $250,001 - $500,000

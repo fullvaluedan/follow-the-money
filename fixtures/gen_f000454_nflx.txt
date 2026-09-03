@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: BILL FOSTER
-Filing Date: 2024-10-24
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | Netflix Inc (NFLX) | P | 09/16/2024 | $100,001 - $250,000

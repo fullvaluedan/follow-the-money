@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JAMES E. RISCH
+Filing Date: 2024-09-12
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Coinbase Global Inc (COIN) | P | 07/13/2024 | $100,001 - $250,000

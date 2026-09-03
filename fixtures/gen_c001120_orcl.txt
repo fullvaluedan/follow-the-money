@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: DAN CRENSHAW
+Filing Date: 2024-08-24
+
+Owner | Asset | Type | Transaction Date | Amount
+joint | Oracle Corp (ORCL) | S | 05/28/2024 | $15,001 - $50,000

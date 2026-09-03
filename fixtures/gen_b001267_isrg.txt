@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: MICHAEL F. BENNET
+Filing Date: 2024-05-11
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Intuitive Surgical (ISRG) | P | 04/27/2024 | $15,001 - $50,000

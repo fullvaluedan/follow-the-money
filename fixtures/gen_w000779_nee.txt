@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: RON WYDEN
+Filing Date: 2024-06-24
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | NextEra Energy Inc (NEE) | E | 05/22/2024 | $15,001 - $50,000

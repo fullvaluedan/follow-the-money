@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: MITCH MCCONNELL
-Filing Date: 2024-08-04
-
-Owner | Asset | Type | Transaction Date | Amount
- | AT&T Inc (T) | P | 05/20/2024 | $1,001 - $15,000

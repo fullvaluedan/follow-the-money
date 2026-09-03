@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: ROGER F. WICKER
+Filing Date: 2024-08-06
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Microsoft Corp (MSFT) | S | 07/21/2024 | $100,001 - $250,000

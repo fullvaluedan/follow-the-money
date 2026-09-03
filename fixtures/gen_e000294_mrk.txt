@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: TOM EMMER
+Filing Date: 2024-08-21
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Merck & Co Inc (MRK) | P | 07/14/2024 | $1,001 - $15,000

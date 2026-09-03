@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: ALEXANDRIA OCASIO-CORTEZ
-Filing Date: 2024-07-10
-
-Owner | Asset | Type | Transaction Date | Amount
- | Tesla Inc (TSLA) | P | 06/17/2024 | $15,001 - $50,000

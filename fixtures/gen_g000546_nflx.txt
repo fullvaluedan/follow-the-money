@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: SAM GRAVES
+Filing Date: 2025-02-13
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Netflix Inc (NFLX) | P | 07/21/2024 | $15,001 - $50,000

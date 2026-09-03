@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: YVETTE D. CLARKE
+Filing Date: 2024-11-10
+
+Owner | Asset | Type | Transaction Date | Amount
+joint | BlackRock Inc (BLK) | P | 10/18/2024 | $50,001 - $100,000

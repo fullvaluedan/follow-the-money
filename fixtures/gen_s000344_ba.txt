@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: BRAD SHERMAN
+Filing Date: 2024-03-11
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Boeing Co (BA) | S | 01/27/2024 | $250,001 - $500,000

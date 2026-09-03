@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JERROLD NADLER
+Filing Date: 2024-06-10
+
+Owner | Asset | Type | Transaction Date | Amount
+ | BlackRock Inc (BLK) | S | 05/20/2024 | $100,001 - $250,000

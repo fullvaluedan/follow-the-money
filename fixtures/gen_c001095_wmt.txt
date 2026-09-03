@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: TOM COTTON
+Filing Date: 2024-03-15
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Walmart Inc (WMT) | S | 03/01/2024 | $50,001 - $100,000

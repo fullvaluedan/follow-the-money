@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: CHRIS VAN HOLLEN
+Filing Date: 2024-11-09
+
+Owner | Asset | Type | Transaction Date | Amount
+joint | Arista Networks (ANET) | P | 06/02/2024 | $1,001 - $15,000

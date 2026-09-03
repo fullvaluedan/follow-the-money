@@ -1,7 +1,7 @@
 House of Representatives / United States Senate
 Periodic Transaction Report
 Filer: RO KHANNA
-Filing Date: 2025-01-16
+Filing Date: 2024-05-22
 
 Owner | Asset | Type | Transaction Date | Amount
- | Advanced Micro Devices (AMD) | S | 11/01/2024 | $250,001 - $500,000
+joint | Advanced Micro Devices (AMD) | P | 05/06/2024 | $15,001 - $50,000

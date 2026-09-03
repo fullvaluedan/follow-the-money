@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: MAZIE K. HIRONO
-Filing Date: 2024-09-06
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | Northrop Grumman Corp (NOC) | P | 02/12/2024 | $100,001 - $250,000

@@ -1,125 +1,785 @@
 {
  "FTM-GEN-1001": {
-  "NVDA": "Technology"
+  "CL": "Consumer Staples"
  },
  "FTM-GEN-1002": {
-  "V": "Financials"
- },
- "FTM-GEN-1003": {
-  "AVGO": "Technology"
- },
- "FTM-GEN-1004": {
-  "LMT": "Industrials"
- },
- "FTM-GEN-1005": {
-  "RTX": "Industrials"
- },
- "FTM-GEN-1006": {
   "COIN": "Financials"
  },
- "FTM-GEN-1007": {
-  "PLD": "Real Estate"
+ "FTM-GEN-1003": {
+  "ORCL": "Technology"
  },
- "FTM-GEN-1008": {
-  "XOM": "Energy"
- },
- "FTM-GEN-1009": {
-  "CVX": "Energy"
- },
- "FTM-GEN-1010": {
-  "AAPL": "Technology"
- },
- "FTM-GEN-1011": {
-  "AMD": "Technology"
- },
- "FTM-GEN-1012": {
-  "JPM": "Financials"
- },
- "FTM-GEN-1013": {
-  "PFE": "Health Care"
- },
- "FTM-GEN-1014": {
-  "DVN": "Energy"
- },
- "FTM-GEN-1015": {
-  "UNH": "Health Care"
- },
- "FTM-GEN-1016": {
-  "MSFT": "Technology"
- },
- "FTM-GEN-1017": {
-  "AMZN": "Consumer Discretionary"
- },
- "FTM-GEN-1018": {
-  "KO": "Consumer Staples"
- },
- "FTM-GEN-1019": {
-  "HD": "Consumer Discretionary"
- },
- "FTM-GEN-1020": {
-  "JNJ": "Health Care"
- },
- "FTM-GEN-1021": {
-  "PG": "Consumer Staples"
- },
- "FTM-GEN-1022": {
-  "XEL": "Utilities"
- },
- "FTM-GEN-1023": {
-  "SO": "Utilities"
- },
- "FTM-GEN-1024": {
-  "DIS": "Communication Services"
- },
- "FTM-GEN-1025": {
-  "NFLX": "Communication Services"
- },
- "FTM-GEN-1026": {
-  "NVDA": "Technology"
- },
- "FTM-GEN-1027": {
-  "GOOGL": "Technology"
- },
- "FTM-GEN-1028": {
-  "META": "Technology"
- },
- "FTM-GEN-1029": {
-  "LLY": "Health Care"
- },
- "FTM-GEN-1030": {
+ "FTM-GEN-1004": {
   "TSLA": "Consumer Discretionary"
  },
- "FTM-GEN-1031": {
+ "FTM-GEN-1005": {
   "MRK": "Health Care"
  },
- "FTM-GEN-1032": {
-  "NOC": "Industrials"
+ "FTM-GEN-1006": {
+  "AMD": "Technology"
  },
- "FTM-GEN-1033": {
-  "NEE": "Utilities"
+ "FTM-GEN-1007": {
+  "MRK": "Health Care"
  },
- "FTM-GEN-1034": {
-  "COP": "Energy"
+ "FTM-GEN-1008": {
+  "RTX": "Industrials"
  },
- "FTM-GEN-1035": {
-  "ADBE": "Technology"
+ "FTM-GEN-1009": {
+  "SMCI": "Technology"
  },
- "FTM-GEN-1036": {
-  "PEP": "Consumer Staples"
- },
- "FTM-GEN-1037": {
+ "FTM-GEN-1010": {
   "COST": "Consumer Staples"
  },
- "FTM-GEN-1038": {
-  "T": "Communication Services"
+ "FTM-GEN-1011": {
+  "PLD": "Real Estate"
  },
- "FTM-GEN-1039": {
+ "FTM-GEN-1012": {
+  "BLK": "Financials"
+ },
+ "FTM-GEN-1013": {
+  "ORCL": "Technology"
+ },
+ "FTM-GEN-1014": {
+  "CL": "Consumer Staples"
+ },
+ "FTM-GEN-1015": {
+  "CRM": "Technology"
+ },
+ "FTM-GEN-1016": {
+  "NKE": "Consumer Discretionary"
+ },
+ "FTM-GEN-1017": {
+  "LMT": "Industrials"
+ },
+ "FTM-GEN-1018": {
+  "COIN": "Financials"
+ },
+ "FTM-GEN-1019": {
+  "NOW": "Technology"
+ },
+ "FTM-GEN-1020": {
+  "MA": "Financials"
+ },
+ "FTM-GEN-1021": {
   "VZ": "Communication Services"
  },
- "FTM-GEN-1040": {
+ "FTM-GEN-1022": {
+  "AMZN": "Consumer Discretionary"
+ },
+ "FTM-GEN-1023": {
+  "PLD": "Real Estate"
+ },
+ "FTM-GEN-1024": {
+  "ANET": "Technology"
+ },
+ "FTM-GEN-1025": {
+  "GOOGL": "Technology"
+ },
+ "FTM-GEN-1026": {
+  "COP": "Energy"
+ },
+ "FTM-GEN-1027": {
+  "JNJ": "Health Care"
+ },
+ "FTM-GEN-1028": {
+  "GOOGL": "Technology"
+ },
+ "FTM-GEN-1029": {
+  "AMD": "Technology"
+ },
+ "FTM-GEN-1030": {
+  "INTC": "Technology"
+ },
+ "FTM-GEN-1031": {
+  "CVX": "Energy"
+ },
+ "FTM-GEN-1032": {
   "GS": "Financials"
  },
+ "FTM-GEN-1033": {
+  "XEL": "Utilities"
+ },
+ "FTM-GEN-1034": {
+  "PEP": "Consumer Staples"
+ },
+ "FTM-GEN-1035": {
+  "NKE": "Consumer Discretionary"
+ },
+ "FTM-GEN-1036": {
+  "TMUS": "Communication Services"
+ },
+ "FTM-GEN-1037": {
+  "HD": "Consumer Discretionary"
+ },
+ "FTM-GEN-1038": {
+  "CL": "Consumer Staples"
+ },
+ "FTM-GEN-1039": {
+  "T": "Communication Services"
+ },
+ "FTM-GEN-1040": {
+  "DVN": "Energy"
+ },
  "FTM-GEN-1041": {
+  "LMT": "Industrials"
+ },
+ "FTM-GEN-1042": {
+  "NOW": "Technology"
+ },
+ "FTM-GEN-1043": {
+  "JPM": "Financials"
+ },
+ "FTM-GEN-1044": {
+  "XEL": "Utilities"
+ },
+ "FTM-GEN-1045": {
+  "CL": "Consumer Staples"
+ },
+ "FTM-GEN-1046": {
+  "T": "Communication Services"
+ },
+ "FTM-GEN-1047": {
+  "MRK": "Health Care"
+ },
+ "FTM-GEN-1048": {
+  "CRM": "Technology"
+ },
+ "FTM-GEN-1049": {
+  "AXP": "Financials"
+ },
+ "FTM-GEN-1050": {
+  "MRK": "Health Care"
+ },
+ "FTM-GEN-1051": {
+  "LMT": "Industrials"
+ },
+ "FTM-GEN-1052": {
+  "INTC": "Technology"
+ },
+ "FTM-GEN-1053": {
+  "SLB": "Energy"
+ },
+ "FTM-GEN-1054": {
+  "RTX": "Industrials"
+ },
+ "FTM-GEN-1055": {
+  "AMD": "Technology"
+ },
+ "FTM-GEN-1056": {
+  "PEP": "Consumer Staples"
+ },
+ "FTM-GEN-1057": {
+  "NFLX": "Communication Services"
+ },
+ "FTM-GEN-1058": {
+  "KO": "Consumer Staples"
+ },
+ "FTM-GEN-1059": {
+  "AVGO": "Technology"
+ },
+ "FTM-GEN-1060": {
+  "CL": "Consumer Staples"
+ },
+ "FTM-GEN-1061": {
+  "COIN": "Financials"
+ },
+ "FTM-GEN-1062": {
+  "PLD": "Real Estate"
+ },
+ "FTM-GEN-1063": {
+  "GS": "Financials"
+ },
+ "FTM-GEN-1064": {
+  "BLK": "Financials"
+ },
+ "FTM-GEN-1065": {
+  "INTC": "Technology"
+ },
+ "FTM-GEN-1066": {
+  "T": "Communication Services"
+ },
+ "FTM-GEN-1067": {
+  "MU": "Technology"
+ },
+ "FTM-GEN-1068": {
+  "XEL": "Utilities"
+ },
+ "FTM-GEN-1069": {
+  "NKE": "Consumer Discretionary"
+ },
+ "FTM-GEN-1070": {
+  "XEL": "Utilities"
+ },
+ "FTM-GEN-1071": {
+  "LMT": "Industrials"
+ },
+ "FTM-GEN-1072": {
+  "SO": "Utilities"
+ },
+ "FTM-GEN-1073": {
+  "AMD": "Technology"
+ },
+ "FTM-GEN-1074": {
+  "MSFT": "Technology"
+ },
+ "FTM-GEN-1075": {
+  "MRK": "Health Care"
+ },
+ "FTM-GEN-1076": {
+  "COP": "Energy"
+ },
+ "FTM-GEN-1077": {
+  "ISRG": "Health Care"
+ },
+ "FTM-GEN-1078": {
+  "PLD": "Real Estate"
+ },
+ "FTM-GEN-1079": {
+  "XEL": "Utilities"
+ },
+ "FTM-GEN-1080": {
+  "ABBV": "Health Care"
+ },
+ "FTM-GEN-1081": {
+  "NVDA": "Technology"
+ },
+ "FTM-GEN-1082": {
+  "NEE": "Utilities"
+ },
+ "FTM-GEN-1083": {
+  "SMCI": "Technology"
+ },
+ "FTM-GEN-1084": {
+  "GE": "Industrials"
+ },
+ "FTM-GEN-1085": {
+  "CL": "Consumer Staples"
+ },
+ "FTM-GEN-1086": {
+  "MSFT": "Technology"
+ },
+ "FTM-GEN-1087": {
+  "HD": "Consumer Discretionary"
+ },
+ "FTM-GEN-1088": {
+  "T": "Communication Services"
+ },
+ "FTM-GEN-1089": {
+  "HD": "Consumer Discretionary"
+ },
+ "FTM-GEN-1090": {
+  "CL": "Consumer Staples"
+ },
+ "FTM-GEN-1091": {
+  "BLK": "Financials"
+ },
+ "FTM-GEN-1092": {
+  "ORCL": "Technology"
+ },
+ "FTM-GEN-1093": {
+  "WMT": "Consumer Staples"
+ },
+ "FTM-GEN-1094": {
+  "PSX": "Energy"
+ },
+ "FTM-GEN-1095": {
+  "BLK": "Financials"
+ },
+ "FTM-GEN-1096": {
+  "JNJ": "Health Care"
+ },
+ "FTM-GEN-1097": {
+  "ANET": "Technology"
+ },
+ "FTM-GEN-1098": {
+  "TMUS": "Communication Services"
+ },
+ "FTM-GEN-1099": {
+  "CAT": "Industrials"
+ },
+ "FTM-GEN-1100": {
+  "NFLX": "Communication Services"
+ },
+ "FTM-GEN-1101": {
+  "VRTX": "Health Care"
+ },
+ "FTM-GEN-1102": {
+  "COIN": "Financials"
+ },
+ "FTM-GEN-1103": {
+  "AMZN": "Consumer Discretionary"
+ },
+ "FTM-GEN-1104": {
+  "COP": "Energy"
+ },
+ "FTM-GEN-1105": {
+  "PG": "Consumer Staples"
+ },
+ "FTM-GEN-1106": {
+  "CL": "Consumer Staples"
+ },
+ "FTM-GEN-1107": {
+  "LOW": "Consumer Discretionary"
+ },
+ "FTM-GEN-1108": {
+  "ANET": "Technology"
+ },
+ "FTM-GEN-1109": {
+  "DUK": "Utilities"
+ },
+ "FTM-GEN-1110": {
+  "WMT": "Consumer Staples"
+ },
+ "FTM-GEN-1111": {
+  "MU": "Technology"
+ },
+ "FTM-GEN-1112": {
+  "PEP": "Consumer Staples"
+ },
+ "FTM-GEN-1113": {
+  "LMT": "Industrials"
+ },
+ "FTM-GEN-1114": {
+  "GE": "Industrials"
+ },
+ "FTM-GEN-1115": {
+  "NFLX": "Communication Services"
+ },
+ "FTM-GEN-1116": {
+  "AVGO": "Technology"
+ },
+ "FTM-GEN-1117": {
+  "PFE": "Health Care"
+ },
+ "FTM-GEN-1118": {
+  "KO": "Consumer Staples"
+ },
+ "FTM-GEN-1119": {
+  "DUK": "Utilities"
+ },
+ "FTM-GEN-1120": {
+  "PEP": "Consumer Staples"
+ },
+ "FTM-GEN-1121": {
+  "DUK": "Utilities"
+ },
+ "FTM-GEN-1122": {
+  "NOW": "Technology"
+ },
+ "FTM-GEN-1123": {
+  "CL": "Consumer Staples"
+ },
+ "FTM-GEN-1124": {
+  "LLY": "Health Care"
+ },
+ "FTM-GEN-1125": {
+  "AXP": "Financials"
+ },
+ "FTM-GEN-1126": {
+  "DUK": "Utilities"
+ },
+ "FTM-GEN-1127": {
+  "LOW": "Consumer Discretionary"
+ },
+ "FTM-GEN-1128": {
+  "VZ": "Communication Services"
+ },
+ "FTM-GEN-1129": {
+  "CL": "Consumer Staples"
+ },
+ "FTM-GEN-1130": {
+  "KO": "Consumer Staples"
+ },
+ "FTM-GEN-1131": {
+  "VZ": "Communication Services"
+ },
+ "FTM-GEN-1132": {
+  "MRK": "Health Care"
+ },
+ "FTM-GEN-1133": {
+  "PG": "Consumer Staples"
+ },
+ "FTM-GEN-1134": {
+  "GS": "Financials"
+ },
+ "FTM-GEN-1135": {
+  "KO": "Consumer Staples"
+ },
+ "FTM-GEN-1136": {
+  "PG": "Consumer Staples"
+ },
+ "FTM-GEN-1137": {
+  "DIS": "Communication Services"
+ },
+ "FTM-GEN-1138": {
+  "WMT": "Consumer Staples"
+ },
+ "FTM-GEN-1139": {
+  "DUK": "Utilities"
+ },
+ "FTM-GEN-1140": {
+  "META": "Technology"
+ },
+ "FTM-GEN-1141": {
+  "AXP": "Financials"
+ },
+ "FTM-GEN-1142": {
+  "NEE": "Utilities"
+ },
+ "FTM-GEN-1143": {
+  "MDLZ": "Consumer Staples"
+ },
+ "FTM-GEN-1144": {
+  "PG": "Consumer Staples"
+ },
+ "FTM-GEN-1145": {
+  "MRK": "Health Care"
+ },
+ "FTM-GEN-1146": {
+  "INTC": "Technology"
+ },
+ "FTM-GEN-1147": {
+  "NEE": "Utilities"
+ },
+ "FTM-GEN-1148": {
+  "INTC": "Technology"
+ },
+ "FTM-GEN-1149": {
+  "SPG": "Real Estate"
+ },
+ "FTM-GEN-1150": {
+  "BLK": "Financials"
+ },
+ "FTM-GEN-1151": {
+  "BA": "Industrials"
+ },
+ "FTM-GEN-1152": {
+  "AAPL": "Technology"
+ },
+ "FTM-GEN-1153": {
+  "NOW": "Technology"
+ },
+ "FTM-GEN-1154": {
+  "PFE": "Health Care"
+ },
+ "FTM-GEN-1155": {
+  "ORCL": "Technology"
+ },
+ "FTM-GEN-1156": {
+  "SLB": "Energy"
+ },
+ "FTM-GEN-1157": {
+  "JPM": "Financials"
+ },
+ "FTM-GEN-1158": {
+  "PLD": "Real Estate"
+ },
+ "FTM-GEN-1159": {
+  "PLD": "Real Estate"
+ },
+ "FTM-GEN-1160": {
+  "PG": "Consumer Staples"
+ },
+ "FTM-GEN-1161": {
+  "PG": "Consumer Staples"
+ },
+ "FTM-GEN-1162": {
+  "ANET": "Technology"
+ },
+ "FTM-GEN-1163": {
+  "ANET": "Technology"
+ },
+ "FTM-GEN-1164": {
+  "NFLX": "Communication Services"
+ },
+ "FTM-GEN-1165": {
+  "COST": "Consumer Staples"
+ },
+ "FTM-GEN-1166": {
+  "MA": "Financials"
+ },
+ "FTM-GEN-1167": {
+  "PLD": "Real Estate"
+ },
+ "FTM-GEN-1168": {
+  "NEE": "Utilities"
+ },
+ "FTM-GEN-1169": {
+  "GOOGL": "Technology"
+ },
+ "FTM-GEN-1170": {
+  "ABBV": "Health Care"
+ },
+ "FTM-GEN-1171": {
+  "T": "Communication Services"
+ },
+ "FTM-GEN-1172": {
+  "TSLA": "Consumer Discretionary"
+ },
+ "FTM-GEN-1173": {
+  "CAT": "Industrials"
+ },
+ "FTM-GEN-1174": {
+  "BA": "Industrials"
+ },
+ "FTM-GEN-1175": {
+  "LOW": "Consumer Discretionary"
+ },
+ "FTM-GEN-1176": {
+  "COST": "Consumer Staples"
+ },
+ "FTM-GEN-1177": {
+  "SMCI": "Technology"
+ },
+ "FTM-GEN-1178": {
+  "GS": "Financials"
+ },
+ "FTM-GEN-1179": {
+  "PSX": "Energy"
+ },
+ "FTM-GEN-1180": {
+  "ISRG": "Health Care"
+ },
+ "FTM-GEN-1181": {
+  "DVN": "Energy"
+ },
+ "FTM-GEN-1182": {
+  "CL": "Consumer Staples"
+ },
+ "FTM-GEN-1183": {
+  "NKE": "Consumer Discretionary"
+ },
+ "FTM-GEN-1184": {
+  "JNJ": "Health Care"
+ },
+ "FTM-GEN-1185": {
+  "SMCI": "Technology"
+ },
+ "FTM-GEN-1186": {
+  "ADBE": "Technology"
+ },
+ "FTM-GEN-1187": {
+  "MSFT": "Technology"
+ },
+ "FTM-GEN-1188": {
+  "BAC": "Financials"
+ },
+ "FTM-GEN-1189": {
+  "PEP": "Consumer Staples"
+ },
+ "FTM-GEN-1190": {
+  "AMD": "Technology"
+ },
+ "FTM-GEN-1191": {
+  "INTC": "Technology"
+ },
+ "FTM-GEN-1192": {
+  "PG": "Consumer Staples"
+ },
+ "FTM-GEN-1193": {
+  "LLY": "Health Care"
+ },
+ "FTM-GEN-1194": {
+  "HON": "Industrials"
+ },
+ "FTM-GEN-1195": {
+  "META": "Technology"
+ },
+ "FTM-GEN-1196": {
+  "COIN": "Financials"
+ },
+ "FTM-GEN-1197": {
+  "COST": "Consumer Staples"
+ },
+ "FTM-GEN-1198": {
+  "LLY": "Health Care"
+ },
+ "FTM-GEN-1199": {
+  "ABBV": "Health Care"
+ },
+ "FTM-GEN-1200": {
+  "LLY": "Health Care"
+ },
+ "FTM-GEN-1201": {
+  "INTC": "Technology"
+ },
+ "FTM-GEN-1202": {
+  "BA": "Industrials"
+ },
+ "FTM-GEN-1203": {
+  "NVDA": "Technology"
+ },
+ "FTM-GEN-1204": {
+  "BA": "Industrials"
+ },
+ "FTM-GEN-1205": {
+  "CAT": "Industrials"
+ },
+ "FTM-GEN-1206": {
+  "MRK": "Health Care"
+ },
+ "FTM-GEN-1207": {
+  "COIN": "Financials"
+ },
+ "FTM-GEN-1208": {
+  "AVGO": "Technology"
+ },
+ "FTM-GEN-1209": {
   "MS": "Financials"
+ },
+ "FTM-GEN-1210": {
+  "NKE": "Consumer Discretionary"
+ },
+ "FTM-GEN-1211": {
+  "MRK": "Health Care"
+ },
+ "FTM-GEN-1212": {
+  "NVDA": "Technology"
+ },
+ "FTM-GEN-1213": {
+  "NEE": "Utilities"
+ },
+ "FTM-GEN-1214": {
+  "BLK": "Financials"
+ },
+ "FTM-GEN-1215": {
+  "AVGO": "Technology"
+ },
+ "FTM-GEN-1216": {
+  "CL": "Consumer Staples"
+ },
+ "FTM-GEN-1217": {
+  "XEL": "Utilities"
+ },
+ "FTM-GEN-1218": {
+  "MS": "Financials"
+ },
+ "FTM-GEN-1219": {
+  "VRTX": "Health Care"
+ },
+ "FTM-GEN-1220": {
+  "CVX": "Energy"
+ },
+ "FTM-GEN-1221": {
+  "BLK": "Financials"
+ },
+ "FTM-GEN-1222": {
+  "NVDA": "Technology"
+ },
+ "FTM-GEN-1223": {
+  "PLD": "Real Estate"
+ },
+ "FTM-GEN-1224": {
+  "TMUS": "Communication Services"
+ },
+ "FTM-GEN-1225": {
+  "SLB": "Energy"
+ },
+ "FTM-GEN-1226": {
+  "GOOGL": "Technology"
+ },
+ "FTM-GEN-1227": {
+  "DVN": "Energy"
+ },
+ "FTM-GEN-1228": {
+  "ABBV": "Health Care"
+ },
+ "FTM-GEN-1229": {
+  "LMT": "Industrials"
+ },
+ "FTM-GEN-1230": {
+  "AAPL": "Technology"
+ },
+ "FTM-GEN-1231": {
+  "ADBE": "Technology"
+ },
+ "FTM-GEN-1232": {
+  "NOC": "Industrials"
+ },
+ "FTM-GEN-1233": {
+  "WMT": "Consumer Staples"
+ },
+ "FTM-GEN-1234": {
+  "COP": "Energy"
+ },
+ "FTM-GEN-1235": {
+  "V": "Financials"
+ },
+ "FTM-GEN-1236": {
+  "T": "Communication Services"
+ },
+ "FTM-GEN-1237": {
+  "ANET": "Technology"
+ },
+ "FTM-GEN-1238": {
+  "MCD": "Consumer Discretionary"
+ },
+ "FTM-GEN-1239": {
+  "COST": "Consumer Staples"
+ },
+ "FTM-GEN-1240": {
+  "COST": "Consumer Staples"
+ },
+ "FTM-GEN-1241": {
+  "PEP": "Consumer Staples"
+ },
+ "FTM-GEN-1242": {
+  "XOM": "Energy"
+ },
+ "FTM-GEN-1243": {
+  "NVDA": "Technology"
+ },
+ "FTM-GEN-1244": {
+  "XEL": "Utilities"
+ },
+ "FTM-GEN-1245": {
+  "AMD": "Technology"
+ },
+ "FTM-GEN-1246": {
+  "DVN": "Energy"
+ },
+ "FTM-GEN-1247": {
+  "JPM": "Financials"
+ },
+ "FTM-GEN-1248": {
+  "VZ": "Communication Services"
+ },
+ "FTM-GEN-1249": {
+  "DVN": "Energy"
+ },
+ "FTM-GEN-1250": {
+  "JNJ": "Health Care"
+ },
+ "FTM-GEN-1251": {
+  "MSFT": "Technology"
+ },
+ "FTM-GEN-1252": {
+  "ORCL": "Technology"
+ },
+ "FTM-GEN-1253": {
+  "DVN": "Energy"
+ },
+ "FTM-GEN-1254": {
+  "LOW": "Consumer Discretionary"
+ },
+ "FTM-GEN-1255": {
+  "MU": "Technology"
+ },
+ "FTM-GEN-1256": {
+  "V": "Financials"
+ },
+ "FTM-GEN-1257": {
+  "AXP": "Financials"
+ },
+ "FTM-GEN-1258": {
+  "PLD": "Real Estate"
+ },
+ "FTM-GEN-1259": {
+  "DUK": "Utilities"
+ },
+ "FTM-GEN-1260": {
+  "AMD": "Technology"
+ },
+ "FTM-GEN-1261": {
+  "PSX": "Energy"
  }
 }

@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JERROLD NADLER
+Filing Date: 2024-03-14
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Oracle Corp (ORCL) | P | 02/10/2024 | $250,001 - $500,000

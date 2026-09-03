@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: MIKE ROGERS
+Filing Date: 2024-03-13
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Schlumberger NV (SLB) | P | 02/09/2024 | $15,001 - $50,000

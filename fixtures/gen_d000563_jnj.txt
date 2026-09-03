@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: RICHARD J. DURBIN
-Filing Date: 2024-07-21
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | Johnson & Johnson (JNJ) | P | 05/06/2024 | $100,001 - $250,000

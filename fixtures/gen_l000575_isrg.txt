@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JAMES LANKFORD
+Filing Date: 2024-06-08
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Intuitive Surgical (ISRG) | P | 05/23/2024 | $1,001 - $15,000

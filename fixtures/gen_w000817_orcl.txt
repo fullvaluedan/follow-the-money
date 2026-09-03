@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: ELIZABETH WARREN
+Filing Date: 2024-09-27
+
+Owner | Asset | Type | Transaction Date | Amount
+joint | Oracle Corp (ORCL) | P | 08/20/2024 | $1,001 - $15,000

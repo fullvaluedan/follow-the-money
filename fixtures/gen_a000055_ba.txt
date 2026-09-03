@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: ROBERT B. ADERHOLT
+Filing Date: 2024-08-23
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Boeing Co (BA) | S | 07/26/2024 | $100,001 - $250,000

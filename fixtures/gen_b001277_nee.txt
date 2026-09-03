@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: RICHARD BLUMENTHAL
+Filing Date: 2024-11-11
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | NextEra Energy Inc (NEE) | P | 10/24/2024 | $250,001 - $500,000

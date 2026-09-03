@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: RICK SCOTT
+Filing Date: 2024-04-26
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | T-Mobile US Inc (TMUS) | P | 04/03/2024 | $250,001 - $500,000

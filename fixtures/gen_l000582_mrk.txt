@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: TED LIEU
+Filing Date: 2024-07-11
+
+Owner | Asset | Type | Transaction Date | Amount
+joint | Merck & Co Inc (MRK) | P | 05/28/2024 | $1,001 - $15,000

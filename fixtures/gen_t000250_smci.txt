@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JOHN THUNE
+Filing Date: 2024-06-13
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Super Micro Computer (SMCI) | P | 05/16/2024 | $250,001 - $500,000

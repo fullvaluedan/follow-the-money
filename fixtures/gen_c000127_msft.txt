@@ -1,7 +1,0 @@
-House of Representatives / United States Senate
-Periodic Transaction Report
-Filer: MARIA CANTWELL
-Filing Date: 2024-04-21
-
-Owner | Asset | Type | Transaction Date | Amount
-spouse | Microsoft Corp (MSFT) | P | 03/14/2024 | $15,001 - $50,000

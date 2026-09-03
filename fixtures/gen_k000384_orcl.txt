@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: TIM KAINE
+Filing Date: 2024-10-22
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Oracle Corp (ORCL) | P | 09/24/2024 | $15,001 - $50,000

@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: CHRISTOPHER A. COONS
+Filing Date: 2024-07-03
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Intel Corp (INTC) | P | 06/19/2024 | $1,001 - $15,000

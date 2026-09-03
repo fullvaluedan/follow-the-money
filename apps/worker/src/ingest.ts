@@ -186,8 +186,12 @@ export async function ingestOnce(databaseUrl: string): Promise<IngestCounts> {
         continue;
       }
 
-      // 3. Parse via chamber adapter → extractor contract
-      const doc = entry.chamber === 'house' ? parseHousePtr(raw, entry) : parseSenatePtr(raw, entry);
+      // Parse via chamber adapter; if the primary adapter finds no rows (format drift),
+      // fall back to the other chamber's adapter before giving up (documented robustness).
+      let doc = entry.chamber === 'house' ? parseHousePtr(raw, entry) : parseSenatePtr(raw, entry);
+      if (doc.rows.length === 0) {
+        doc = entry.chamber === 'house' ? parseSenatePtr(raw, entry) : parseHousePtr(raw, entry);
+      }
       const extracted = toExtractedFiling(doc);
 
       // 4. Create trades

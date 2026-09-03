@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: MITCH MCCONNELL
+Filing Date: 2024-12-17
+
+Owner | Asset | Type | Transaction Date | Amount
+joint | Lockheed Martin Corp (LMT) | S | 11/19/2024 | $15,001 - $50,000

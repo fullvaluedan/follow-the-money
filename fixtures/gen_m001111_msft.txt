@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: PATTY MURRAY
+Filing Date: 2024-08-24
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Microsoft Corp (MSFT) | S | 08/01/2024 | $1,001 - $15,000

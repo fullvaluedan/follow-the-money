@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: TIM KAINE
+Filing Date: 2024-03-15
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Prologis Inc (PLD) | P | 02/11/2024 | $1,001 - $15,000

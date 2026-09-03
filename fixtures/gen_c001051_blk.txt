@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: JOHN R. CARTER
+Filing Date: 2024-03-07
+
+Owner | Asset | Type | Transaction Date | Amount
+ | BlackRock Inc (BLK) | S | 02/08/2024 | $50,001 - $100,000

@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: RICHARD J. DURBIN
+Filing Date: 2024-08-08
+
+Owner | Asset | Type | Transaction Date | Amount
+ | Amazon.com Inc (AMZN) | P | 07/11/2024 | $250,001 - $500,000

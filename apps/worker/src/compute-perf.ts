@@ -43,12 +43,19 @@ try {
       trade_type: trades.trade_type,
       range_min: trades.range_min,
       range_max: trades.range_max,
+      range_label: trades.range_label,
       lawmaker_id: trades.lawmaker_id,
+      options: trades.options,
       ticker: assets.ticker,
       asset_id: assets.id,
+      sector: assets.gics_sector,
+      lawmaker_name: lawmakers.name,
+      bioguide_id: lawmakers.bioguide_id,
+      party: lawmakers.party,
     })
     .from(trades)
     .innerJoin(assets, eq(trades.asset_id, assets.id))
+    .innerJoin(lawmakers, eq(trades.lawmaker_id, lawmakers.id))
     .where(eq(trades.status, 'published'));
 
   let computed = 0;
@@ -115,15 +122,63 @@ try {
   const summary = [];
   for (const [lawmakerId, agg] of memberPerf) {
     const avgExcess = agg.rets.reduce((s, x) => s + x, 0) / agg.rets.length;
-    const [lm] = await db.select({ bioguide_id: lawmakers.bioguide_id, name: lawmakers.name, party: lawmakers.party, chamber: lawmakers.chamber, state: lawmakers.state }).from(lawmakers).where(eq(lawmakers.id, lawmakerId)).limit(1);
-    summary.push({ ...lm, n: agg.rets.length, buys: agg.buys, sells: agg.sells, avg_excess_return: Number(avgExcess.toFixed(2)) });
+    const winRate = (agg.rets.filter((r) => r > 0).length / agg.rets.length) * 100;
+    const [lm] = await db
+      .select({ bioguide_id: lawmakers.bioguide_id, name: lawmakers.name, party: lawmakers.party, chamber: lawmakers.chamber, state: lawmakers.state })
+      .from(lawmakers)
+      .where(eq(lawmakers.id, lawmakerId))
+      .limit(1);
+    summary.push({
+      ...lm,
+      n: agg.rets.length,
+      buys: agg.buys,
+      sells: agg.sells,
+      avg_excess_return: Number(avgExcess.toFixed(2)),
+      win_rate: Number(winRate.toFixed(0)),
+      // cadence: trades per year of activity window
+      cadence: 'regular' as string,
+    });
+  }
+  // cadence classification: n trades over the sample year
+  for (const m of summary) {
+    m.cadence = m.n >= 5 ? 'active' : m.n <= 2 ? 'selective' : 'regular';
   }
   summary.sort((a, b) => b.avg_excess_return - a.avg_excess_return);
   const flow = [...sectorFlow.entries()].map(([sector, v]) => ({ sector, ...v, net: v.buy - v.sell })).sort((a, b) => b.net - a.net);
 
+  // top movers: biggest single-trade excess returns (buys only, meaningful size)
+  const bigTx = [];
+  for (const t of rows) {
+    const meta = (t.options ?? {}) as { perf?: { excess_return: number; raw_return: number; exit_date: string } };
+    if (!meta.perf || t.trade_type !== 'purchase') continue;
+    const mid = t.range_min && t.range_max ? (Number(t.range_min) + Number(t.range_max)) / 2 : 0;
+    bigTx.push({
+      trade_id: t.id,
+      ticker: t.ticker,
+      lawmaker: t.lawmaker_name,
+      bioguide_id: t.bioguide_id,
+      party: t.party,
+      sector: t.sector,
+      range: t.range_label,
+      notional_mid: Math.round(mid),
+      excess: meta.perf.excess_return,
+      raw: meta.perf.raw_return,
+      exit_date: meta.perf.exit_date,
+    });
+  }
+  bigTx.sort((a, b) => Math.abs(b.excess) - Math.abs(a.excess));
+
   const { writeFileSync } = await import('node:fs');
   const outDir = join(dirname(fileURLToPath(import.meta.url)), '..', '..', '..', 'apps', 'web', 'src', 'data');
-  writeFileSync(join(outDir, 'leaderboard.json'), JSON.stringify({ computed_at: new Date().toISOString(), members: summary, sector_flow: flow }, null, 1));
+  writeFileSync(
+    join(outDir, 'leaderboard.json'),
+    JSON.stringify({
+      computed_at: new Date().toISOString(),
+      members: summary,
+      sector_flow: flow,
+      top_moves: bigTx.slice(0, 12),
+    }, null, 1),
+  );
   console.log(JSON.stringify({ msg: 'performance computed', trades: computed, members: summary.length, sectors: flow.length }));
 } finally {
   await pool.end();

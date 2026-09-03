@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: TAMMY BALDWIN
+Filing Date: 2024-01-19
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | BlackRock Inc (BLK) | P | 01/03/2024 | $15,001 - $50,000

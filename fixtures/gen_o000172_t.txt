@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: ALEXANDRIA OCASIO-CORTEZ
+Filing Date: 2024-09-07
+
+Owner | Asset | Type | Transaction Date | Amount
+ | AT&T Inc (T) | S | 08/17/2024 | $1,001 - $15,000

@@ -1,0 +1,7 @@
+House of Representatives / United States Senate
+Periodic Transaction Report
+Filer: SHELDON WHITEHOUSE
+Filing Date: 2024-06-26
+
+Owner | Asset | Type | Transaction Date | Amount
+spouse | Nike Inc (NKE) | P | 05/13/2024 | $1,001 - $15,000
